@@ -16,6 +16,7 @@ Discover the most comprehensive and up-to-date resource for autonomous AI agents
 | [👁️ Agent Observability Tools](#agent-observability-tools) | Monitoring, debugging, and performance tracking tools for AI agents |
 | [🤖 AI Model Serving Platforms](#-ai-model-serving-platforms) | Infrastructure and platforms for deploying and serving AI models at scale |
 | [📊 AI Data Analysts](#-ai-data-analysts) | AI agents specialized in data analysis, visualization, and business intelligence |
+| [✍️ Content Creation Agents](#-content-creation-agents) | AI agents specialized in content generation, writing, and creative production |
 | [₿ Crypto AI Agents](#-crypto-ai-agents) | Blockchain-based and cryptocurrency-focused AI agents |
 | [🔬 Vertical & Specialized AI Agents](#-vertical--specialized-ai-agents) | Niche and industry-specific AI agents for specialized applications |
 | [🎬 Video AI Agents](#-video-ai-agents) | AI agents specialized in video creation, editing, and processing |
