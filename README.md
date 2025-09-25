@@ -97,41 +97,150 @@ These platforms and frameworks enable the development of AI agents that autonomo
 
 ## 💻 Coding & Development Agents
 
-These AI agents specialize in automating software development tasks by autonomously generating, testing, debugging, and optimizing code. They seamlessly integrate with developer tools and workflows, enabling faster project delivery, improved code quality, and smarter engineering productivity through natural language instructions and autonomous decision making.
+AI agents specializing in automating software development tasks through autonomous code generation, testing, debugging, and optimization. These tools integrate with developer workflows to enhance productivity, code quality, and engineering efficiency via natural language instructions and intelligent automation.
+
+### 🤖 Autonomous Development Agents
 
 | Name | Category | Description | Notable Features |
 |------|----------|-------------|------------------|
-| [AgentFlow](https://agentflow.dev/) | Coding/Automation | Visual multi-agent and automation builder, focused on developer productivity | Drag-and-drop pipelines, code scheduling, workflow logic |
-| [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/) | Coding Agent | AI coding companion by AWS | Security scanning, enterprise integration, multi-language |
-| [Claude Code](https://docs.claude.com/en/docs/claude-code) | Coding Agent | Complex coding and automation agent by Anthropic | Multi-language support, project build |
-| [Copilot Studio](https://copilot.microsoft.com/studio) | Low-code Agent Builder | Build custom agents with low-code/visual interface | Easily customizable workflows, MS integration |
-| [Devin](https://www.cognition-labs.com/introducing-devin) | Coding Agent | Autonomous software engineer/agent | Code gen, repo mgmt, PR/issue management |
-| [Devika](https://github.com/stitionai/devika) | Coding Agent | Converts instructions to software projects, code, and workflows | Natural language to full projects, multi-language support |
-| [GitHub Copilot](https://github.com/features/copilot) | Coding Agent | AI pair programmer by Microsoft/GitHub | Code completion, chat, CLI integration, enterprise features |
-| [GPT Engineer](https://github.com/AntonOsika/gpt-engineer) | Coding Agent | Natural language to end-to-end codebase generator | Project scaffolding, iterative code dev |
-| [OpenDevin](https://github.com/OpenDevin/OpenDevin) | Coding Agent | Open-source coding and debugging agent | FOSS, runs locally, interactive |
-| [Replit Agent](https://replit.com/ai) | Coding Agent | AI-powered development environment | Full-stack development, deployment, collaboration |
-| [SWE Agent](https://swe-agent.com/) | Coding Agent | Software engineering AI agent | Task breakdown, project delivery |
-| [Sweep](https://sweep.dev/) | Coding Agent | Code improvement and refactor agent | PR review, fixes, doc generation |
-| [Taxy AI](https://taxy.ai/) | Dev Tooling | API and web UI testing agent | Automated workflow and test agents |
+| [Devin](https://www.cognition-labs.com/introducing-devin) | Autonomous Engineer | Fully autonomous software engineer capable of handling complex projects | End-to-end development, repository management, issue resolution |
+| [Devon](https://devon.ai) | AI Developer | Autonomous AI software engineer for complex development tasks | Full project handling, autonomous development, task completion |
+| [Devika](https://github.com/stitionai/devika) | Project Generator | Converts natural language instructions into complete software projects | Natural language to full projects, multi-language support |
+| [GPT Engineer](https://github.com/AntonOsika/gpt-engineer) | Codebase Generator | Generates entire codebases from natural language descriptions | Project scaffolding, iterative development, architecture generation |
+| [OpenDevin](https://github.com/OpenDevin/OpenDevin) | Open Source Agent | Open-source autonomous coding and debugging agent | Local deployment, interactive development, community-driven |
+| [SWE Agent](https://swe-agent.com/) | Software Engineering | AI agent for comprehensive software engineering workflows | Task breakdown, project delivery, issue resolution |
 
-### 📊 Coding & Development Agents Comparison
+### 💡 Code Completion & Assistance
 
-| Agent | Code Generation | IDE Integration | Language Support | Autonomy Level | Pricing | Best For |
-|-------|-----------------|-----------------|------------------|----------------|---------|----------|
-| AgentFlow | Limited | Custom | Multiple | Medium | Contact sales | Developer workflow automation |
-| Amazon CodeWhisperer | High | VS Code, JetBrains | 15+ languages | Low | Free/Pro $19/mo | AWS ecosystem development |
-| Claude Code | High | CLI/Terminal | 20+ languages | High | Paid | Complex project automation |
-| Copilot Studio | Medium | Visual interface | Limited | Medium | Contact sales | Low-code agent building |
-| Devin | Very High | Web interface | Multiple | Very High | Paid | Full autonomous development |
-| Devika | High | Local setup | Multiple | High | Open source | Project generation from scratch |
-| GitHub Copilot | High | All major IDEs | 12+ languages | Low-Medium | $10-19/mo | Code completion, pair programming |
-| GPT Engineer | High | Command line | Multiple | Medium | Open source | Rapid prototyping, scaffolding |
-| OpenDevin | High | Local/web | Multiple | High | Open source | Privacy-focused development |
-| Replit Agent | High | Replit IDE | Multiple | Medium-High | Freemium | Full-stack web development |
-| SWE Agent | Medium | GitHub integration | Multiple | Medium | Open source | Issue resolution, maintenance |
-| Sweep | Medium | GitHub integration | Multiple | Medium | $120+/mo | Code review automation |
-| Taxy AI | Limited | Browser-based | JavaScript/Web | Medium | Contact sales | API/UI testing automation |
+| Name | Category | Description | Notable Features |
+|------|----------|-------------|------------------|
+| [Aide](https://aide.dev) | Code Assistant | AI-powered coding assistant for development workflows | Context-aware suggestions, multi-language support, IDE integration |
+| [Aider](https://aider.chat) | Pair Programmer | AI pair programmer for collaborative code generation and editing | Git integration, multi-file editing, command-line interface |
+| [Claude Code](https://docs.claude.com/en/docs/claude-code) | Advanced Assistant | Anthropic's specialized coding agent for complex projects | Multi-language support, project building, complex reasoning |
+| [Code Autopilot](https://codeautopilot.com) | Development Assistant | AI-powered automated coding and development workflows | Full-stack development, automated processes, code generation |
+| [CodeGPT](https://codegpt.co) | IDE Integration | AI coding assistant with GPT integration | IDE plugins, code completion, documentation generation |
+| [Continue](https://continue.dev) | Open Source Assistant | Open-source AI code assistant for VS Code and JetBrains | Local and cloud models, customizable, privacy-focused |
+| [Cursor](https://cursor.sh) | AI Editor | AI-powered code editor with intelligent assistance | Built-in AI, code prediction, natural language editing |
+| [GitHub Copilot](https://github.com/features/copilot) | Code Completion | Microsoft's AI pair programmer with real-time suggestions | IDE integration, code completion, chat interface, enterprise features |
+| [Kiro AI IDE](https://kiro.ai) | Development Environment | AI-enhanced integrated development environment | Built-in AI assistance, intelligent completion, project management |
+| [Replit Agent](https://replit.com/ai) | Cloud Development | AI-powered cloud development environment | Full-stack development, deployment, real-time collaboration |
+| [Sourcegraph Cody AI](https://sourcegraph.com/cody) | Code Intelligence | AI assistant for code search, understanding, and generation | Codebase intelligence, semantic search, development insights |
+| [Supermaven](https://supermaven.com) | Fast Completion | High-speed AI code completion with advanced prediction | Ultra-fast completion, context awareness, multi-language support |
+| [Tabby](https://tabby.tabbyml.com) | Self-hosted Assistant | Privacy-focused self-hosted AI coding assistant | Local deployment, customizable models, enterprise security |
+| [Tabnine](https://tabnine.com) | Enterprise Completion | AI code completion with team learning capabilities | Multi-language support, team insights, enterprise features |
+
+#### 📊 Code Completion & Assistance Comparison
+
+| Tool | IDE Support | Language Coverage | Deployment | Team Features | Pricing | Best For |
+|------|-------------|-------------------|------------|---------------|---------|----------|
+| Aide | Multiple IDEs | 20+ languages | Cloud | Limited | Contact sales | Context-aware development |
+| Aider | Command line | Multiple | Local/Cloud | Git integration | Open source | Terminal-based pair programming |
+| Claude Code | CLI/Terminal | 20+ languages | Cloud | Limited | Paid | Complex project automation |
+| Code Autopilot | Web-based | Full-stack | Cloud | Yes | Contact sales | Automated development workflows |
+| CodeGPT | VS Code, JetBrains | 12+ languages | Cloud/Local | Basic | Freemium | Plugin-based assistance |
+| Continue | VS Code, JetBrains | Multiple | Local/Cloud | Limited | Open source | Privacy-focused development |
+| Cursor | Built-in editor | Multiple | Cloud | Yes | Subscription | AI-first code editing |
+| GitHub Copilot | All major IDEs | 12+ languages | Cloud | Enterprise | $10-20/month | Industry standard completion |
+| Kiro AI IDE | Built-in IDE | Multiple | Cloud | Yes | Contact sales | Integrated development experience |
+| Replit Agent | Replit only | Multiple | Cloud | Yes | Freemium | Cloud-based development |
+| Sourcegraph Cody | Multiple IDEs | Multiple | Cloud/On-premise | Enterprise | Enterprise | Enterprise codebase intelligence |
+| Supermaven | Multiple IDEs | Multiple | Cloud | Basic | Freemium | Ultra-fast code completion |
+| Tabby | Multiple IDEs | Multiple | Self-hosted | Enterprise | Open source | Self-hosted privacy |
+| Tabnine | All major IDEs | 30+ languages | Cloud/Local | Enterprise | $12-39/month | Team learning and insights |
+
+### 🔍 Code Analysis & Quality
+
+| Name | Category | Description | Notable Features |
+|------|----------|-------------|------------------|
+| [AlphaCode](https://alphacode.deepmind.com) | Competitive Programming | DeepMind's AI system for algorithmic problem solving | Advanced algorithms, competitive programming, problem analysis |
+| [Amplify Security](https://amplify.security) | Security Analysis | AI-powered security analysis for applications | Vulnerability detection, security recommendations, compliance |
+| [AutoCodeRover](https://autocoderover.dev) | Code Review | Automated code review and analysis platform | Quality assessment, automated reviews, improvement suggestions |
+| [AutoPR](https://autopr.com) | Pull Request Automation | Automated pull request generation and review | PR automation, code analysis, workflow integration |
+| [Blinky: AI Debugging Agent](https://blinky.ai) | Debugging | Specialized AI agent for code debugging and error resolution | Error analysis, debugging assistance, automated fixes |
+| [Ellipsis AI](https://ellipsis.ai) | Automated Fixes | AI-powered code review with automated bug fixing | Automated fixes, quality improvement, continuous integration |
+| [Harness AI Code Agent](https://harness.io) | CI/CD Assistant | AI agent for continuous integration and deployment | Pipeline optimization, deployment automation, DevOps intelligence |
+| [PR-Agent](https://pr-agent.com) | Review Automation | AI agent for automated pull request analysis | PR review automation, quality analysis, feedback generation |
+| [Qodo](https://qodo.ai) | Testing Platform | AI-powered code quality and testing platform | Automated testing, quality metrics, continuous improvement |
+| [Refact.ai](https://refact.ai) | Code Refactoring | AI-powered code refactoring and optimization | Automated refactoring, code optimization, quality enhancement |
+| [Sweep](https://sweep.dev/) | Code Improvement | AI agent for code improvement and refactoring | PR reviews, automated fixes, documentation generation |
+
+### 🛠️ Specialized Development Tools
+
+| Name | Category | Description | Notable Features |
+|------|----------|-------------|------------------|
+| [AgentFlow](https://agentflow.dev/) | Visual Builder | Multi-agent automation builder for developer productivity | Drag-and-drop pipelines, workflow logic, code scheduling |
+| [AlphaEvolve](https://alphaevolve.ai) | Code Evolution | AI-enhanced development and code evolution platform | Code optimization, automated refactoring, performance enhancement |
+| [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/) | AWS Integration | AI coding companion integrated with AWS services | Security scanning, enterprise integration, cloud-native development |
+| [Blackbox AI](https://blackbox.ai) | Code Search | AI-powered code search and snippet generation | Code discovery, snippet extraction, programming assistance |
+| [bloop AI](https://bloop.ai) | Code Understanding | AI-powered code search and codebase understanding | Semantic search, codebase exploration, documentation generation |
+| [bumpgen](https://bumpgen.com) | Version Management | AI-powered version management and release automation | Automated versioning, changelog generation, release workflows |
+| [Clippinator](https://clippinator.com) | Snippet Management | AI-powered code snippet management and organization | Snippet organization, code templates, reusable components |
+| [Codename Goose](https://goose.ai) | Rapid Prototyping | AI-powered code generation for rapid development | Natural language to code, multi-framework support, quick prototyping |
+| [Cody by ajhous44](https://cody.ai) | Workflow Assistant | AI coding assistant for development workflow optimization | Context-aware assistance, codebase understanding, automation |
+| [Copilot Studio](https://copilot.microsoft.com/studio) | Low-code Builder | Visual interface for building custom AI agents | Customizable workflows, Microsoft integration, low-code development |
+| [DevGPT](https://devgpt.com) | Project Management | AI assistant for development project management | Project coordination, code generation, workflow optimization |
+| [DevOpsGPT](https://devopsgpt.com) | DevOps Automation | AI assistant for DevOps and infrastructure management | Infrastructure as code, deployment automation, monitoring |
+| [Devra](https://devra.ai) | Quality Assurance | AI-powered code review and quality assurance | Automated reviews, quality metrics, team collaboration |
+| [Devyan](https://devyan.ai) | Integrated Platform | AI-powered comprehensive development environment | Integrated experience, project management, code assistance |
+| [Dosu](https://dosu.dev) | Issue Management | AI-powered issue triage for open source projects | Issue analysis, automated responses, community management |
+| [GitLab Duo](https://docs.gitlab.com/ee/user/ai_features.html) | GitLab Integration | AI-powered features integrated into GitLab platform | Code suggestions, vulnerability detection, merge request assistance |
+| [GPT Migrate](https://gptmigrate.com) | Code Migration | AI-powered code migration and modernization | Language migration, framework updates, code transformation |
+| [GPT Pilot](https://gptpilot.ai) | Development Guidance | AI pilot for development process guidance | Project planning, architecture guidance, development strategy |
+| [GPT Runner](https://gptrunner.com) | Code Execution | AI-powered code execution and testing platform | Code running, testing automation, performance analysis |
+| [Grit](https://grit.io) | Large-scale Migration | AI-powered large-scale code migrations and refactoring | Automated refactoring, legacy modernization, codebase transformation |
+| [Jules](https://jules.app) | Development Companion | AI-powered coding companion for development tasks | Intelligent suggestions, code explanation, development guidance |
+| [Kimi-Dev](https://kimi.moonshot.cn) | Localized Assistant | AI development assistant optimized for Chinese developers | Chinese language support, local patterns, cultural adaptation |
+| [MicroGPT](https://microgpt.dev) | Lightweight Assistant | Resource-efficient AI coding assistant | Minimal resource usage, fast responses, essential features |
+| [Moddy](https://moddy.ai) | Code Enhancement | AI-powered code modification and enhancement | Automated improvements, refactoring suggestions, optimization |
+| [Neo](https://neo.ai) | Development Suite | Comprehensive AI-powered development platform | Full development suite, project management, code intelligence |
+| [Onlook](https://onlook.dev) | Visual Development | AI-powered visual development for UI creation | Visual editing, component generation, design-to-code conversion |
+| [PearAI](https://pear.ai) | Collaborative Assistant | AI-powered coding assistant with team features | Team collaboration, code sharing, intelligent assistance |
+| [Pieces](https://pieces.app) | Workflow Management | AI-powered code snippet and workflow management | Snippet organization, context preservation, workflow optimization |
+| [Smol AI Developer](https://smol.ai) | Micro-Development | AI assistant for small-scale development and prototyping | Rapid prototyping, small projects, learning assistance |
+| [Taxy AI](https://taxy.ai/) | Testing Automation | API and web UI testing agent with automation | Automated testing workflows, UI testing, API validation |
+| [v0](https://v0.dev) | UI Generation | AI-powered UI component generation from descriptions | Component creation, React/Vue support, rapid UI development |
+| [Windframe](https://windframe.dev) | Frontend Development | AI-powered frontend development and design platform | Visual development, component libraries, design systems |
+| [Windsurf](https://windsurf.ai) | Enhanced Environment | AI-enhanced development environment with intelligent features | Smart completion, project insights, development acceleration |
+| [ZipWP](https://zipwp.com) | WordPress Development | AI-powered WordPress development and optimization | WordPress-specific assistance, theme development, plugin creation |
+
+#### 📊 Specialized Development Tools Comparison
+
+| Tool | Category | Primary Focus | Deployment | Team Features | Pricing | Best For |
+|------|----------|---------------|------------|---------------|---------|----------|
+| AgentFlow | Visual Builder | Workflow automation | Cloud | Yes | Contact sales | Visual development pipelines |
+| AlphaEvolve | Code Evolution | Performance optimization | Cloud | Limited | Contact sales | Code enhancement and evolution |
+| Amazon CodeWhisperer | AWS Integration | Cloud-native development | Cloud | Enterprise | Free/Pro | AWS ecosystem development |
+| Blackbox AI | Code Search | Code discovery | Cloud | Basic | Freemium | Code snippet search |
+| bloop AI | Code Understanding | Codebase exploration | Cloud | Yes | Contact sales | Large codebase navigation |
+| bumpgen | Version Management | Release automation | Cloud | Yes | Contact sales | Version control workflows |
+| Clippinator | Snippet Management | Code organization | Cloud | Basic | Contact sales | Code snippet management |
+| Codename Goose | Rapid Prototyping | Quick development | Cloud | Limited | Contact sales | Fast prototyping |
+| Cody by ajhous44 | Workflow Assistant | Development optimization | Cloud | Basic | Contact sales | Workflow automation |
+| Copilot Studio | Low-code Builder | Visual agent building | Cloud | Enterprise | Enterprise | Microsoft-integrated development |
+| DevGPT | Project Management | Development coordination | Cloud | Yes | Contact sales | Project management |
+| DevOpsGPT | DevOps Automation | Infrastructure management | Cloud/On-premise | Yes | Contact sales | DevOps workflows |
+| Devra | Quality Assurance | Code quality | Cloud | Yes | Contact sales | Quality control |
+| Devyan | Integrated Platform | Full development suite | Cloud | Yes | Contact sales | Comprehensive development |
+| Dosu | Issue Management | Open source support | Cloud | Community | Contact sales | OSS project management |
+| GitLab Duo | GitLab Integration | GitLab enhancement | Cloud/On-premise | Enterprise | Add-on | GitLab workflows |
+| GPT Migrate | Code Migration | Legacy modernization | Cloud | Limited | Contact sales | Code transformation |
+| GPT Pilot | Development Guidance | Process guidance | Cloud | Limited | Contact sales | Development strategy |
+| GPT Runner | Code Execution | Testing automation | Cloud | Basic | Contact sales | Code testing |
+| Grit | Large-scale Migration | Enterprise refactoring | Cloud/On-premise | Enterprise | Contact sales | Large-scale migrations |
+| Jules | Development Companion | Coding assistance | Cloud | Basic | Contact sales | Individual productivity |
+| Kimi-Dev | Localized Assistant | Chinese development | Cloud | Basic | Contact sales | Chinese language support |
+| MicroGPT | Lightweight Assistant | Resource efficiency | Local/Cloud | Limited | Open source | Minimal resource usage |
+| Moddy | Code Enhancement | Code improvement | Cloud | Basic | Contact sales | Code optimization |
+| Neo | Development Suite | Comprehensive platform | Cloud | Yes | Contact sales | Full-stack development |
+| Onlook | Visual Development | UI creation | Cloud | Yes | Contact sales | Visual UI development |
+| PearAI | Collaborative Assistant | Team development | Cloud | High | Contact sales | Team collaboration |
+| Pieces | Workflow Management | Context preservation | Cloud/Local | Yes | Freemium | Developer productivity |
+| Smol AI Developer | Micro-Development | Small projects | Cloud | Limited | Contact sales | Learning and prototyping |
+| Taxy AI | Testing Automation | UI/API testing | Cloud | Yes | Contact sales | Automated testing |
+| v0 | UI Generation | Component creation | Cloud | Limited | Contact sales | React/Vue development |
+| Windframe | Frontend Development | Frontend tooling | Cloud | Yes | Contact sales | Frontend workflows |
+| Windsurf | Enhanced Environment | AI-enhanced IDE | Cloud | Yes | Contact sales | Enhanced development experience |
+| ZipWP | WordPress Development | WordPress optimization | Cloud | Basic | Contact sales | WordPress development |
 
 ---
 
