@@ -98,18 +98,23 @@ Domain-specific agents designed for particular industries or use cases.
 
 | Name | Category | Description | Notable Features |
 |------|----------|-------------|------------------|
-| [MultiOn](https://www.multion.ai/) | Personal Agent | Multi-purpose web assistant for bookings/orders | Automation for bookings, orders |
 | [Amelia](https://amelia.ai/) | Enterprise | Conversational AI for customer service | Omnichannel, workflow integration |
-| [ShopPal](https://shoppal.ai/) | Shopping Agent | Shopping assistant for e-commerce workflows | Automatic deals/coupons, browser |
-| [Lindy](https://www.lindy.ai/) | Workflow Agent | Personal workflow automation agent | Calendar, scheduling, task mgmt |
+| [Box AI Agents](https://www.box.com/ai) | Document Agent | AI-powered document processing, search, and automation | Content management, enterprise security |
+| [Clay](https://clay.com/) | Sales Agent | Automates sales prospecting, enrichment, outreach | CRM integration, personalization, workflow automation |
 | [Harvey AI](https://harvey.ai/) | Legal Agent | Legal-specific document and process automation | Contract review, legal research |
-| [Magic Loops](https://magicloops.dev/) | Automation | Personal automation building platform | No-code, multi-app workflows |
-| [Kadoa](https://www.kadoa.com/) | Web Automation | Web scraping and data extraction agent | Custom workflow design |
+| [HubSpot Breeze](https://www.hubspot.com/products/artificial-intelligence/breeze) | CRM/Marketing Agent | Automates marketing, sales, and customer service in HubSpot | Sales automation, meeting booking, email generation |
 | [Julius](https://julius.ai/) | Data Agent | Data processing, analysis, and visualization | Data-to-insights pipeline |
-| [Relevance AI](https://relevanceai.com/) | Enterprise | Enterprise AI workflow and insights platform | Multi-agent chains, business intelligence, data analysis |
-| [Zapier Central](https://zapier.com/central) | Automation | AI-powered workflow automation platform | Natural language automation, 5000+ app integrations |
+| [Kadoa](https://www.kadoa.com/) | Web Automation | Web scraping and data extraction agent | Custom workflow design |
+| [Lindy](https://www.lindy.ai/) | Workflow Agent | Personal workflow automation agent | Calendar, scheduling, task mgmt |
+| [Magic Loops](https://magicloops.dev/) | Automation | Personal automation building platform | No-code, multi-app workflows |
 | [Monday.com AI Assistant](https://monday.com/ai/) | Productivity | Project management and workflow AI assistant | Task automation, project insights, team collaboration |
+| [Moveworks](https://www.moveworks.com/) | Enterprise Automation | IT/HR/service desk agent for large organizations | Automated ticketing, resolution, employee self-service |
+| [MultiOn](https://www.multion.ai/) | Personal Agent | Multi-purpose web assistant for bookings/orders | Automation for bookings, orders |
 | [Notion AI](https://www.notion.so/product/ai) | Productivity | Workspace AI for writing, planning, and automation | Content generation, database queries, workflow automation |
+| [Relevance AI](https://relevanceai.com/) | Enterprise | Enterprise AI workflow and insights platform | Multi-agent chains, business intelligence, data analysis |
+| [SalesCloser AI](https://salescloser.ai/) | Sales Agent | Automated sales conversations, lead qualification | Conversation workflow, CRM sync, follow-up tasks |
+| [ShopPal](https://shoppal.ai/) | Shopping Agent | Shopping assistant for e-commerce workflows | Automatic deals/coupons, browser |
+| [Zapier Central](https://zapier.com/central) | Automation | AI-powered workflow automation platform | Natural language automation, 5000+ app integrations |
 
 ---
 
