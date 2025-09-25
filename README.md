@@ -375,20 +375,73 @@ Platforms for automating workflows, integrating APIs, and orchestrating digital 
 ## 📚 Resource Links & Further Reading
 
 ### Research Papers
-* [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629)
-* [Planning and Reasoning for Multi-Agent Systems](https://arxiv.org/abs/2310.08118)
-* [Tool Learning with Foundation Models](https://arxiv.org/abs/2304.08354)
 
-### Tutorials & Guides
-* [Building Your First AI Agent](https://example.com/guide)
-* [Multi-Agent Systems Best Practices](https://example.com/best-practices)
-* [Agent Orchestration Patterns](https://example.com/patterns)
+#### Foundation Papers
+* [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629) (2022) - Combines reasoning and task-specific actions with LLMs for interactive decision making
+* [AutoGPT: Enabling Autonomous Goal-Oriented Behavior in Language Models](https://arxiv.org/abs/2306.02224) (2023) - Foundation work on autonomous task completion
+* [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/abs/2304.03442) (2023) - Models human behaviors using generative AI
+* [Language Models as Agent Models](https://arxiv.org/abs/2212.01681) (2022) - Explores language models as frameworks for agentic thinking
+
+#### Multi-Agent Systems
+* [Communicative Agents for Software Development](https://arxiv.org/abs/2307.07924) (2023) - ChatDev research on multi-agent collaboration for coding
+* [Multi-Agent Collaboration: Harnessing Intelligent Software Agents](https://arxiv.org/abs/2306.03314) (2023) - Studies agent collaboration mechanisms
+* [AutoGen: Next-Gen LLM Multi-Agent Conversations](https://arxiv.org/abs/2308.08155) (2023) - Framework enabling multi-agent conversations
+* [MetaGPT: Collaborative Multi-Agent Framework](https://arxiv.org/abs/2308.00352) (2023) - Multi-role AI programming agent system
+
+#### Tool Use & Planning
+* [Tool Learning with Foundation Models](https://arxiv.org/abs/2304.08354) (2023) - Foundation models learning to use external tools effectively
+* [Toolformer: Self-Supervised Tool Use by LLMs](https://arxiv.org/abs/2302.04761) (2023) - LLMs teach themselves to use tools
+* [HuggingGPT: Collaborative AI using ChatGPT and Hugging Face](https://arxiv.org/abs/2303.17580) (2023) - AI collaboration framework using large language models
+* [Chain-of-Thought Prompting](https://arxiv.org/abs/2201.11903) (2022) - Improves reasoning in large language models
+
+#### Code Generation & Software Engineering
+* [Code Llama: Open Foundation Models for Code](https://arxiv.org/abs/2308.12950) (2023) - Open-source LLMs optimized for programming
+* [CodeT5+: Large Language Models for Code](https://arxiv.org/abs/2305.07922) (2023) - Advanced models for code understanding and generation
+* [SWE-bench: How well LMs handle real GitHub issues](https://arxiv.org/abs/2310.06770) (2023) - Benchmarking LLMs on software engineering challenges
+* [Is Self-Repair the Answer for Code Gen?](https://arxiv.org/abs/2306.09896) (2023) - Explores self-repair mechanisms for code generation
+
+### Industry Reports & Whitepapers
+* [The State of AI Agents 2024](https://www.anthropic.com/research/state-of-ai-agents) - Anthropic comprehensive ecosystem overview
+* [Enterprise AI Agent Adoption Study](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai) - McKinsey insights on agent adoption
+* [Autonomous AI Systems: Market Analysis 2024](https://www.gartner.com/en/information-technology/insights/artificial-intelligence) - Gartner market trends
+* [GitHub Copilot Impact Study](https://github.blog/2022-09-07-research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/) (2022) - Research on developer productivity gains
+
+### Books & Comprehensive Guides
+* **Artificial Intelligence: A Modern Approach** by Stuart Russell & Peter Norvig - Chapters on Multi-Agent Systems and AI fundamentals
+* **Programming Collective Intelligence** by Toby O'Reilly - Techniques for agent collaboration and recommendation
+* **Hands-On Machine Learning** by Aurélien Géron - Practical guide toward building ML agents
+* **Building LLM Apps** by Valentina Alto - Guide to creating LLM-powered autonomous systems
+
+### Technical Documentation
+* [LangChain Agents Documentation](https://python.langchain.com/docs/modules/agents/) - Building AI agents with LangChain
+* [OpenAI Function Calling Guide](https://platform.openai.com/docs/guides/function-calling) - Tool integration with OpenAI models
+* [Anthropic Claude Tool Use Documentation](https://docs.anthropic.com/claude/docs/tool-use) - Leveraging tools in Claude models
+* [Hugging Face Transformers Agents](https://huggingface.co/docs/transformers/transformers_agents) - Agentic capabilities in transformers library
 
 ### Community Resources
-* [AI Agent Discord Community](https://discord.gg/aiagents)
-* [r/AIAgents Subreddit](https://reddit.com/r/aiagents)
-* [AI Agent Newsletter](https://example.com/newsletter)
+* [AI Agent Discord](https://discord.gg/aiagents) - Active developer community
+* [r/MachineLearning](https://reddit.com/r/MachineLearning) - Cutting-edge research discussions
+* [r/LocalLLaMA](https://reddit.com/r/LocalLLaMA) - Open-source AI models community
+* [Towards Data Science](https://towardsdatascience.com/) - Tutorials and articles on AI and agents
+* [Papers with Code - Dialogue Agents](https://paperswithcode.com/task/dialogue-agents) - Research with code
+
+### Newsletters & Blogs
+* [The Gradient](https://thegradient.pub/) - Research perspectives and interviews
+* [AI Research](https://airesearch.com/) - Weekly research roundups
+* [Anthropic Blog](https://www.anthropic.com/research) - Latest in agent research
+* [OpenAI Blog](https://openai.com/blog/) - Updates on GPT and agents
+* [Google AI Blog](https://ai.googleblog.com/) - Research and applications in AI agents
+
+### Video Resources & Courses
+* [CS224N: Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n/) - Stanford course including agentic AI components
+* [Deep Reinforcement Learning](https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc) - Berkeley - Reinforcement learning tutorials
+* [LangChain & Vector Databases](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/) - DeepLearning.AI - Practical agent development
+* [Building LLM Applications](https://www.coursera.org/learn/generative-ai-llm-architecture) - Coursera - Course on generative AI and autonomous apps
 
 ### Conferences & Events
-* [Agent AI Conference 2025](https://example.com/conference)
-* [Autonomous Systems Workshop](https://example.com/workshop)
+* **NeurIPS** (Neural Information Processing Systems) - December annually
+* **ICML** (International Conference on Machine Learning) - July annually
+* **ICLR** (International Conference on Learning Representations) - May annually
+* **AAMAS** (Autonomous Agents and Multi-Agent Systems) - May annually
+* **AI Engineer Summit** - October annually
+* **Transform X** - Annual AI transformation conference
