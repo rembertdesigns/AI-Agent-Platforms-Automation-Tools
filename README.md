@@ -432,12 +432,6 @@ Platforms for automating workflows, integrating APIs, and orchestrating digital 
 * [OpenAI Blog](https://openai.com/blog/) - Updates on GPT and agents
 * [Google AI Blog](https://ai.googleblog.com/) - Research and applications in AI agents
 
-### Video Resources & Courses
-* [CS224N: Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n/) - Stanford course including agentic AI components
-* [Deep Reinforcement Learning](https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc) - Berkeley - Reinforcement learning tutorials
-* [LangChain & Vector Databases](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/) - DeepLearning.AI - Practical agent development
-* [Building LLM Applications](https://www.coursera.org/learn/generative-ai-llm-architecture) - Coursera - Course on generative AI and autonomous apps
-
 ### Conferences & Events
 * **NeurIPS** (Neural Information Processing Systems) - December annually
 * **ICML** (International Conference on Machine Learning) - July annually
