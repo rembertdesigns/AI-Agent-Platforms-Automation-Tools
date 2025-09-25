@@ -16,6 +16,7 @@ Discover the most comprehensive and up-to-date resource for autonomous AI agents
 | [👁️ Agent Observability Tools](#agent-observability-tools) | Monitoring, debugging, and performance tracking tools for AI agents |
 | [🤖 AI Model Serving Platforms](#-ai-model-serving-platforms) | Infrastructure and platforms for deploying and serving AI models at scale |
 | [₿ Crypto AI Agents](#-crypto-ai-agents) | Blockchain-based and cryptocurrency-focused AI agents |
+| [🔬 Vertical & Specialized AI Agents](#-vertical--specialized-ai-agents) | Niche and industry-specific AI agents for specialized applications |
 | [📚 Resources & Learning](#-resource-links--further-reading) | Research papers, tutorials, communities, and further reading materials |
 | [📄 License](#-license) | Usage terms and attribution requirements |
 
@@ -416,6 +417,66 @@ Blockchain-based AI agents and cryptocurrency-focused automation platforms that 
 | vvaifu.fun | Virtual Companions | Entertainment platform | Cloud | Subscription | AI companion interactions |
 | Wisdomise | Virtual Advisors | Expert consultation | Cloud | Contact sales | Specialized advisory services |
 | Zegent AI | Virtual Agents | Agent analytics | Cloud | Contact sales | Virtual agent deployment |
+
+---
+
+## 🔬 Vertical & Specialized AI Agents
+
+Niche and industry-specific AI agents designed for specialized applications across various domains. These agents serve targeted use cases in healthcare, creative industries, research, security, and other specialized fields that require domain expertise and tailored functionality.
+
+| Name | Category | Description | Notable Features |
+|------|----------|-------------|------------------|
+| [AI Image Generator NSFW](https://aiimagegennsfw.com) | Content Generation | AI-powered image generation for adult content | Specialized models, content filtering, privacy focus |
+| [Alvy AI Proctoring Agent](https://alvy.ai) | Educational Technology | AI-powered proctoring and exam monitoring system | Behavior analysis, integrity monitoring, automated assessment |
+| [Amazon SageMaker Studio Lab](https://studiolab.sagemaker.aws) | ML Development | Free machine learning development environment | Jupyter notebooks, pre-configured environments, AWS integration |
+| [Audio Muse](https://audiomuse.ai) | Audio Processing | AI agent for audio content creation and enhancement | Music generation, audio editing, sound design |
+| [Bright Data](https://brightdata.com) | Data Collection | Web scraping and data collection platform with AI assistance | Proxy networks, data extraction, compliance tools |
+| [Diagnostics AI (PCR AI)](https://pcrai.com) | Healthcare | AI-powered diagnostic analysis for medical testing | Medical imaging, test interpretation, clinical decision support |
+| [DJ Nova](https://djnova.ai) | Entertainment | AI-powered DJ and music mixing platform | Automated mixing, music selection, event management |
+| [DruAI](https://dru.ai) | Digital Assistant | Specialized AI assistant for specific workflow automation | Custom workflows, integration capabilities, task automation |
+| [Emoji Generator AI](https://emojigenerator.ai) | Creative Tools | AI platform for creating custom emojis and emoticons | Custom emoji creation, style variations, batch generation |
+| [EVA](https://eva.ai) | Virtual Assistant | Enterprise virtual assistant for business automation | Meeting scheduling, task management, business intelligence |
+| [Evo.ninja](https://evo.ninja) | Development Tools | AI-powered development and automation platform | Code generation, workflow automation, development assistance |
+| [Healthcare CoPilot](https://healthcarecopilot.ai) | Healthcare | AI assistant for healthcare professionals and workflows | Clinical documentation, patient management, medical research |
+| [Interviewer.AI](https://interviewer.ai) | Human Resources | AI-powered interview and candidate assessment platform | Automated interviews, candidate scoring, bias reduction |
+| [Local GPT](https://localgpt.ai) | Privacy AI | Locally-hosted language model for privacy-focused applications | On-premise deployment, data privacy, offline capability |
+| [Louisa AI](https://louisa.ai) | Personal Assistant | AI-powered personal assistant for individual productivity | Task management, scheduling, personal workflow optimization |
+| [Paige AI](https://paige.ai) | Healthcare | AI platform for pathology and medical diagnostics | Digital pathology, cancer detection, diagnostic assistance |
+| [Palo Alto Networks Prisma AI](https://prisma.pan.dev) | Cybersecurity | AI-powered security and threat detection platform | Security automation, threat analysis, incident response |
+| [PimEyes](https://pimeyes.com) | Image Recognition | Facial recognition and reverse image search platform | Face search, identity verification, privacy concerns |
+| [PrivateGPT](https://privategpt.io) | Privacy AI | Private, secure language model for sensitive applications | Data privacy, secure processing, enterprise compliance |
+| [Recrubo.ai](https://recrubo.ai) | Recruitment | AI-powered recruitment and talent acquisition platform | Candidate matching, interview automation, hiring optimization |
+| [Reviewnicely](https://reviewnicely.com) | Content Analysis | AI platform for review analysis and sentiment processing | Review analytics, sentiment analysis, business intelligence |
+| [Vegeta AI](https://vegeta.ai) | Performance Testing | AI-enhanced load testing and performance analysis platform | Automated testing, performance optimization, scalability analysis |
+| [VIDUR](https://vidur.ai) | Video Processing | AI platform for video analysis and content processing | Video analytics, content moderation, automated editing |
+
+### 📊 Vertical & Specialized AI Agents Comparison
+
+| Platform | Category | Industry Focus | Deployment | Pricing | Best For |
+|----------|----------|----------------|------------|---------|----------|
+| AI Image Generator NSFW | Content Generation | Adult Content | Cloud | Subscription | Specialized image generation |
+| Alvy AI Proctoring Agent | Educational Technology | Education | Cloud | Enterprise | Online exam monitoring |
+| Amazon SageMaker Studio Lab | ML Development | Technology | Cloud | Free | ML experimentation and learning |
+| Audio Muse | Audio Processing | Music/Entertainment | Cloud | Freemium | Audio content creation |
+| Bright Data | Data Collection | Data/Analytics | Cloud | Usage-based | Web scraping and data extraction |
+| Diagnostics AI (PCR AI) | Healthcare | Medical | Cloud/On-premise | Enterprise | Medical diagnostic analysis |
+| DJ Nova | Entertainment | Music/Events | Cloud | Subscription | Automated DJ services |
+| DruAI | Digital Assistant | Business | Cloud | Contact sales | Workflow automation |
+| Emoji Generator AI | Creative Tools | Design/Creative | Cloud | Freemium | Custom emoji creation |
+| EVA | Virtual Assistant | Enterprise | Cloud | Enterprise | Business process automation |
+| Evo.ninja | Development Tools | Technology | Cloud | Contact sales | Development automation |
+| Healthcare CoPilot | Healthcare | Medical | Cloud/On-premise | Enterprise | Clinical workflow assistance |
+| Interviewer.AI | Human Resources | Recruitment | Cloud | Subscription | Automated candidate assessment |
+| Local GPT | Privacy AI | Technology | Self-hosted | Open source | Private language model deployment |
+| Louisa AI | Personal Assistant | Productivity | Cloud | Subscription | Personal task management |
+| Paige AI | Healthcare | Medical Diagnostics | Cloud | Enterprise | Digital pathology |
+| Palo Alto Networks Prisma AI | Cybersecurity | Security | Cloud/On-premise | Enterprise | Security threat detection |
+| PimEyes | Image Recognition | Security/Identity | Cloud | Freemium | Facial recognition search |
+| PrivateGPT | Privacy AI | Technology | Self-hosted | Open source | Secure document processing |
+| Recrubo.ai | Recruitment | Human Resources | Cloud | Subscription | AI-powered hiring |
+| Reviewnicely | Content Analysis | Business Intelligence | Cloud | Contact sales | Review and sentiment analysis |
+| Vegeta AI | Performance Testing | Technology | Cloud | Contact sales | Load testing automation |
+| VIDUR | Video Processing | Media/Content | Cloud | Contact sales | Video analysis and processing |
 
 ---
 
