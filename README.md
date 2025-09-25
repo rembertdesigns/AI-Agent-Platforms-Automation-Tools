@@ -490,6 +490,47 @@ AI agents specialized in data analysis, visualization, and business intelligence
 | [Vanna AI](https://vanna.ai) | SQL Analytics | AI-powered SQL generation and database analysis platform | Automated SQL, database insights, query optimization |
 | [Wren AI](https://wren.ai) | Data Pipeline | AI-powered data pipeline and analytics automation platform | Data workflows, automated pipelines, analytics orchestration |
 
+### 📊 AI Data Analysts Comparison
+
+| Platform | Category | Primary Focus | Deployment | Query Interface | Pricing | Best For |
+|----------|----------|---------------|------------|-----------------|---------|----------|
+| Agent Analytics AI | Analytics Platform | Comprehensive analytics | Cloud | Dashboard | Contact sales | Enterprise reporting |
+| Amoeba | Data Processing | Data transformation | Cloud | API/Interface | Contact sales | Data pipeline automation |
+| Ask On Data | Query Interface | Natural language queries | Cloud | Natural language | Freemium | Database querying |
+| AskYourDatabase | Database Analytics | Database interaction | Cloud | Natural language | Subscription | SQL-free database analysis |
+| Athena Intelligence | Business Intelligence | Strategic analytics | Cloud | Executive dashboards | Enterprise | C-level insights |
+| Autonomous Field Mapper | Spatial Analytics | Geospatial analysis | Cloud/Edge | Mapping interface | Contact sales | Field data collection |
+| Avanzai | Financial Analytics | Financial modeling | Cloud | Specialized interface | Contact sales | Investment analysis |
+| BambooAI | Data Science | ML workflows | Cloud | Jupyter-like | Contact sales | Data science automation |
+| Blobr | Data Visualization | Chart generation | Cloud | Drag-and-drop | Freemium | Automated dashboards |
+| BlockSurvey | Survey Analytics | Survey insights | Cloud | Survey interface | Freemium | Privacy-focused surveys |
+| Capalyze | Performance Analytics | Optimization analysis | Cloud | Analytics dashboard | Contact sales | Performance optimization |
+| Claygent | Research Analytics | Automated research | Cloud | Research interface | Contact sales | Competitive intelligence |
+| Company Research Agent | Business Research | Company analysis | Cloud | Research dashboard | Contact sales | Market research |
+| Dot AI | Data Assistant | Personal analytics | Cloud | Conversational | Contact sales | Personal data insights |
+| Echobase AI | Knowledge Analytics | Document analysis | Cloud | Document interface | Contact sales | Knowledge extraction |
+| Edexia | Educational Analytics | Learning insights | Cloud | Educational dashboard | Contact sales | Student performance |
+| Fabi.ai | Business Analytics | Decision support | Cloud | Business interface | Contact sales | Business optimization |
+| Harvey | Legal Analytics | Legal research | Cloud | Legal interface | Enterprise | Legal document analysis |
+| Hex | Data Collaboration | Team analytics | Cloud | Notebook interface | Freemium | Collaborative analysis |
+| Hex Magic | Data Magic | Automated analysis | Cloud | AI-powered interface | Add-on | Instant insights |
+| HockeyStack | Marketing Analytics | Attribution analysis | Cloud | Marketing dashboard | Contact sales | Marketing ROI |
+| Inari | Agricultural Analytics | Crop optimization | Cloud | Agricultural interface | Contact sales | Farm analytics |
+| Louie | Conversational Analytics | Chat-based analysis | Cloud | Conversational | Contact sales | Natural language insights |
+| Maps Scraper AI | Location Analytics | Geographical insights | Cloud | Mapping interface | Contact sales | Location intelligence |
+| Mission Grey | Intelligence Analytics | Threat assessment | Cloud/On-premise | Security dashboard | Enterprise | Security analytics |
+| Model ML | Machine Learning | AutoML platform | Cloud | ML interface | Contact sales | Automated modeling |
+| NLSQL | Natural Language SQL | Query generation | Cloud | Natural language | Freemium | SQL automation |
+| PortableDocs | Document Analytics | Information extraction | Cloud | Document interface | Contact sales | Document processing |
+| SigTech MAGIC | Financial Analytics | Quantitative research | Cloud | Financial interface | Enterprise | Quantitative finance |
+| TalktoData | Data Conversation | Conversational insights | Cloud | Chat interface | Contact sales | Data storytelling |
+| TextQL | Text Analytics | Text mining | Cloud | Text interface | Contact sales | Content analysis |
+| Tilores | Identity Analytics | Entity resolution | Cloud | Identity interface | Contact sales | Data deduplication |
+| Trinka AI | Research Analytics | Academic analysis | Cloud | Research interface | Freemium | Academic insights |
+| Vairo AI | Predictive Analytics | Forecasting | Cloud | Prediction interface | Contact sales | Predictive modeling |
+| Vanna AI | SQL Analytics | Database optimization | Cloud | SQL interface | Contact sales | Query optimization |
+| Wren AI | Data Pipeline | Analytics automation | Cloud | Pipeline interface | Contact sales | Workflow orchestration |
+
 ---
 
 ## ₿ Crypto AI Agents
