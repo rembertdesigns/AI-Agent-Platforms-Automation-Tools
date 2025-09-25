@@ -83,9 +83,7 @@ Specialized agents focused on software development, code generation, and enginee
 | [Devin](https://www.cognition-labs.com/introducing-devin) | Coding Agent | Autonomous software engineer/agent | Code gen, repo mgmt, PR/issue management |
 | [Devika](https://github.com/stitionai/devika) | Coding Agent | Converts instructions to software projects, code, and workflows | Natural language to full projects, multi-language support |
 | [GitHub Copilot](https://github.com/features/copilot) | Coding Agent | AI pair programmer by Microsoft/GitHub | Code completion, chat, CLI integration, enterprise features |
-| [GitHub Copilot Agents](https://github.com/features/copilot/agents) | Coding Agent | Advanced role-based coding copilot and autonomous agent from GitHub | Natural language to repo, multi-file editing, task assignment |
 | [GPT Engineer](https://github.com/AntonOsika/gpt-engineer) | Coding Agent | Natural language to end-to-end codebase generator | Project scaffolding, iterative code dev |
-| [MetaGPT](https://github.com/geekan/MetaGPT) | Framework | Converts prompts into collaborative coding agent teams | Multiple agent roles, iterative development |
 | [OpenDevin](https://github.com/OpenDevin/OpenDevin) | Coding Agent | Open-source coding and debugging agent | FOSS, runs locally, interactive |
 | [Replit Agent](https://replit.com/ai) | Coding Agent | AI-powered development environment | Full-stack development, deployment, collaboration |
 | [SWE Agent](https://swe-agent.com/) | Coding Agent | Software engineering AI agent | Task breakdown, project delivery |
