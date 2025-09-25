@@ -124,18 +124,22 @@ Large-scale, enterprise-grade agent platforms and orchestration tools.
 
 | Name | Category | Description | Notable Features |
 |------|----------|-------------|------------------|
-| [Microsoft Copilot](https://copilot.microsoft.com/) | Enterprise | MS365 agent for autonomous task completion | Handles tasks in Dynamics, MS365 apps |
-| [Google Gemini Agents](https://gemini.google.com/) | Enterprise | Google's conversational AI w/ workflow agents | Native GCP and app integration |
-| [IBM watsonx Orchestrate](https://www.ibm.com/products/watsonx-orchestrate) | Orchestration | Enterprise-grade multi-agent workflow builder | App connectors, workflow editor |
-| [Oracle Miracle Agent](https://www.oracle.com/) | Enterprise | Embedded agent for finance/HR/supply chain | ERP workflow automation |
-| [E2B](https://e2b.dev/) | Infra Platform | Secure cloud computers for agents | Multi-cloud, secure tool sandbox |
-| [Manaflow](https://manaflow.ai/) | Business | Technical business workflow automation | Multi-agent, business process orchestration |
-| [Flowise](https://flowiseai.com/) | No-code Dev | Visual builder for AI workflows | Drag-n-drop, multi-agent builder |
+| [Agentforce by Salesforce](https://www.salesforce.com/products/agentforce/) | Enterprise Platform | Self-updating and autonomous Salesforce agents | Integrates with CRM, sales, and support workflows |
+| [Assistents.ai](https://assistents.ai/) | Enterprise Platform | Deployable multi-agent platform for business | Intelligent process automation, cross-tool integrations |
 | [AWS Bedrock Agents](https://aws.amazon.com/bedrock/agents/) | Enterprise | Scalable generative and reasoning agents for business automation | AWS integration, enterprise security, RAG capabilities |
+| [Beam AI](https://beam.ai/) | Agent Platform | Modular enterprise agent OS for true agentic automation | End-to-end automation, compliance, business process orchestration |
 | [Databricks Agents](https://www.databricks.com/product/machine-learning/lakehouse-ai) | Enterprise | Data pipeline, ETL, and workflow orchestration agent | Data lakehouse integration, MLOps, analytics workflows |
-| [ServiceNow Creator Agents](https://www.servicenow.com/products/now-platform/now-assist.html) | Enterprise | Prebuilt and customizable enterprise workflow agents | ITSM integration, custom workflows, enterprise automation |
-| [Salesforce Einstein](https://www.salesforce.com/products/einstein/) | Enterprise | CRM and business process automation agents | Sales automation, customer insights, predictive analytics |
+| [E2B](https://e2b.dev/) | Infra Platform | Secure cloud computers for agents | Multi-cloud, secure tool sandbox |
+| [Flowise](https://flowiseai.com/) | No-code Dev | Visual builder for AI workflows | Drag-n-drop, multi-agent builder |
+| [Google Gemini Agents](https://gemini.google.com/) | Enterprise | Google's conversational AI w/ workflow agents | Native GCP and app integration |
 | [HubSpot AI](https://www.hubspot.com/artificial-intelligence) | Enterprise | Marketing, sales, and service automation platform | Lead scoring, content generation, customer journey automation |
+| [IBM watsonx Orchestrate](https://www.ibm.com/products/watsonx-orchestrate) | Orchestration | Enterprise-grade multi-agent workflow builder | App connectors, workflow editor |
+| [Manaflow](https://manaflow.ai/) | Business | Technical business workflow automation | Multi-agent, business process orchestration |
+| [Microsoft Copilot](https://copilot.microsoft.com/) | Enterprise | MS365 agent for autonomous task completion | Handles tasks in Dynamics, MS365 apps |
+| [Oracle Miracle Agent](https://www.oracle.com/) | Enterprise | Embedded agent for finance/HR/supply chain | ERP workflow automation |
+| [Salesforce Einstein](https://www.salesforce.com/products/einstein/) | Enterprise | CRM and business process automation agents | Sales automation, customer insights, predictive analytics |
+| [SearchUnify](https://www.searchunify.com/) | Enterprise Platform | AI automation for knowledge management & customer support | Unified search, workflow automation, ML-powered suggestions |
+| [ServiceNow Creator Agents](https://www.servicenow.com/products/now-platform/now-assist.html) | Enterprise | Prebuilt and customizable enterprise workflow agents | ITSM integration, custom workflows, enterprise automation |
 
 ---
 
