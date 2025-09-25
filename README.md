@@ -69,6 +69,35 @@ These platforms and frameworks enable the development of AI agents that autonomo
 | [SuperAGI](https://github.com/TransformerOptimus/SuperAGI) | Framework | Fast, open-source agent platform for production use | Multi-agent support, plugin system, docker-based deployment |
 | [Voiceflow](https://www.voiceflow.com/) | No/Low-Code | Build, prototype, and deploy conversational agents across channels | Voice/chat interface builder, API integrations |
 
+### 📊 General Autonomous Agents Comparison
+
+| Agent | Ease of Use | Multi-Agent Support | Technical Setup | Deployment | Pricing | Best For |
+|-------|-------------|-------------------|-----------------|------------|---------|----------|
+| AgentGPT | High | Limited | Web-based | Cloud | Freemium | Quick prototypes, simple tasks |
+| Auto-GPT | Medium | No | Local install | Self-hosted | Open source | Complex automation, research |
+| AutoGen | Low | Yes | Python setup | Self-hosted/Cloud | Open source | Multi-agent research, enterprise |
+| BabyAGI | Medium | No | Python setup | Self-hosted | Open source | Task management experiments |
+| Camel | Low | Yes | Research setup | Self-hosted | Open source | Agent communication research |
+| ChatDev | Medium | Yes | Local setup | Self-hosted | Open source | Software development simulation |
+| CopilotKit | Medium | Yes | React integration | Cloud/Self-hosted | Open source | Production React apps |
+| CrewAI | Medium | Yes | Python setup | Self-hosted/Cloud | Open source | Team-based workflows |
+| DoubleO.ai | High | Yes | No-code interface | Cloud | Paid | Non-technical users, business automation |
+| LangChain | Low | Partial | Extensive setup | Self-hosted/Cloud | Open source | Custom agent development |
+| MetaGPT | Medium | Yes | Python setup | Self-hosted | Open source | Software project generation |
+| SuperAGI | Medium | Yes | Docker setup | Self-hosted/Cloud | Open source | Production deployment |
+| Voiceflow | High | No | Visual interface | Cloud | Freemium | Conversational agents, chatbots |
+
+### 🎯 Key Selection Criteria
+
+| Use Case | Recommended Agents | Why |
+|----------|-------------------|-----|
+| **Beginner/Non-Technical** | AgentGPT, DoubleO.ai, Voiceflow | No-code interfaces, minimal setup |
+| **Research & Experimentation** | BabyAGI, Camel, ChatDev | Open source, experimental features |
+| **Production Deployment** | SuperAGI, CopilotKit, CrewAI | Scalable, enterprise-ready |
+| **Multi-Agent Workflows** | AutoGen, CrewAI, MetaGPT | Built for agent collaboration |
+| **Custom Development** | LangChain, AutoGen, SuperAGI | Flexible frameworks, extensive APIs |
+| **Quick Prototyping** | AgentGPT, Voiceflow, CrewAI | Fast setup, immediate results |
+
 ---
 
 ## 💻 Coding & Development Agents
