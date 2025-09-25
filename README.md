@@ -54,14 +54,19 @@ These frameworks and platforms provide general-purpose autonomous agent capabili
 
 | Name | Category | Description | Notable Features |
 |------|----------|-------------|------------------|
-| [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) | Framework | GPT-4-based auto-agent that completes tasks autonomously | Task planning, multi-step actions, plugin/internet support |
 | [AgentGPT](https://agentgpt.reworkd.ai/) | Web Agent | Browser-based autonomous agent execution platform | Goal-to-task execution in-browser, no-code interface |
+| [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) | Framework | GPT-4-based auto-agent that completes tasks autonomously | Task planning, multi-step actions, plugin/internet support |
+| [AutoGen](https://github.com/microsoft/autogen) | Framework | Open-source framework for building LLM-powered multi-agent workflows | Custom agent logic, human-agent collaboration |
 | [BabyAGI](https://github.com/yoheinakajima/babyagi) | Framework | Task-driven, lightweight experimental agent | Dynamic reprioritization & recursive task planning |
-| [CrewAI](https://github.com/joaomdmoura/crewAI) | Orchestration | Role-based multi-agent workflow builder | Collaborative teams, long-running sessions |
-| [SuperAGI](https://github.com/TransformerOptimus/SuperAGI) | Framework | Fast, open-source agent platform for production use | Multi-agent support, plugin system, docker-based deployment |
 | [Camel](https://github.com/camel-ai/camel) | Experiment | Language modeling with agent-to-agent cooperation | Agent dialogue, multi-role scenarios |
 | [ChatDev](https://github.com/OpenBMB/ChatDev) | Experiment | AI-powered collaborative software development agent | Role assignment, project conversations |
 | [CopilotKit](https://www.copilotkit.ai/) | Framework | Multi-agent orchestration libraries and protocol standards | React integration, custom agents, production-ready |
+| [CrewAI](https://github.com/joaomdmoura/crewAI) | Orchestration | Role-based multi-agent workflow builder | Collaborative teams, long-running sessions |
+| [DoubleO.ai](https://doubleo.ai/) | No-Code | Automate tasks using multi-agent systems, accessible to non-technical users | User-friendly automation, multi-step workflows |
+| [LangChain](https://github.com/langchain-ai/langchain) | Orchestration | Toolkit for AI agent creation and language model apps | Chains, tools, memory, and agent orchestration |
+| [MetaGPT](https://github.com/geekan/MetaGPT) | Framework | Converts natural language prompts into structured, multi-role software development workflows | Team orchestration, project generation from prompts |
+| [SuperAGI](https://github.com/TransformerOptimus/SuperAGI) | Framework | Fast, open-source agent platform for production use | Multi-agent support, plugin system, docker-based deployment |
+| [Voiceflow](https://www.voiceflow.com/) | No/Low-Code | Build, prototype, and deploy conversational agents across channels | Voice/chat interface builder, API integrations |
 
 ---
 
