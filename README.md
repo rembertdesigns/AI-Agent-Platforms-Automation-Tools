@@ -13,8 +13,9 @@ Discover the most comprehensive and up-to-date resource for autonomous AI agents
 | [🎯 Productivity & Vertical Agents](#-productivity-assistant--vertical-agents) | Domain-specific agents for industries and specialized use cases |
 | [🏢 Enterprise & Platform Solutions](#-enterprise-orchestration--platform) | Large-scale, enterprise-grade agent platforms and orchestration tools |
 | [⚡ Automation Tools & Workflow Builders](#-automation-tools--workflow-builders) | Platforms for automating workflows, integrating APIs, and orchestrating digital tasks |
-| [👁️ Agent Observability Tools](#-agent-observability-tools) | Monitoring, debugging, and performance tracking tools for AI agents |
+| [👁️ Agent Observability Tools](#agent-observability-tools) | Monitoring, debugging, and performance tracking tools for AI agents |
 | [🤖 AI Model Serving Platforms](#-ai-model-serving-platforms) | Infrastructure and platforms for deploying and serving AI models at scale |
+| [₿ Crypto AI Agents](#-crypto-ai-agents) | Blockchain-based and cryptocurrency-focused AI agents |
 | [📚 Resources & Learning](#-resource-links--further-reading) | Research papers, tutorials, communities, and further reading materials |
 | [📄 License](#-license) | Usage terms and attribution requirements |
 
@@ -323,6 +324,98 @@ Infrastructure and platforms for deploying, scaling, and serving AI models that 
 | Replicate | Model hosting | Cloud | Medium | Usage-based | Quick model deployment, experimentation |
 | THEO | Model optimization | Cloud/On-premise | Optimized | Contact sales | Cost optimization, efficiency |
 | Weaviate | Vector database | Cloud/Self-hosted | High | Open source/Paid | Knowledge graphs, hybrid search |
+
+---
+
+## ₿ Crypto AI Agents
+
+Blockchain-based AI agents and cryptocurrency-focused automation platforms that operate within decentralized ecosystems. These agents handle trading, DeFi protocols, NFT management, and other blockchain-specific tasks while leveraging AI for decision-making and autonomous operations.
+
+| Name | Category | Description | Notable Features |
+|------|----------|-------------|------------------|
+| [3Commas](https://3commas.io) | Trading Bots | Automated cryptocurrency trading platform with AI-powered bots | Portfolio management, trading automation, exchange integration |
+| [AgentFi](https://agent.fi) | DeFi Agents | AI agents for decentralized finance protocols and strategies | DeFi automation, yield farming, protocol interaction |
+| [AgentLayer](https://agentlayer.xyz) | Blockchain Infrastructure | Infrastructure layer for deploying AI agents on blockchain networks | Cross-chain compatibility, agent orchestration, decentralized execution |
+| [AICell](https://aicell.io) | AI Trading | Advanced AI-powered trading and investment platform | Machine learning models, risk management, automated strategies |
+| [aixbt by Virtuals](https://virtuals.io/aixbt) | Social Trading | AI-powered social trading and market analysis agent | Social sentiment analysis, trading signals, community insights |
+| [Alethea AI](https://alethea.ai) | NFT AI Agents | Platform for creating AI-powered NFTs and virtual beings | Intelligent NFTs, character AI, blockchain-based virtual beings |
+| [Aurory AI](https://aurory.io) | Gaming AI | AI agents for blockchain gaming and virtual economies | Game automation, virtual asset management, player assistance |
+| [Bitget GetAgent](https://www.bitget.com) | Exchange AI | AI-powered trading assistant for cryptocurrency exchange | Smart trading, market analysis, automated order execution |
+| [Brian Knows](https://brianknows.org) | DeFi Assistant | AI assistant for navigating DeFi protocols and blockchain interactions | Protocol guidance, transaction assistance, educational support |
+| [BuzzAI](https://buzz.ai) | Market Intelligence | AI-powered cryptocurrency market intelligence and analysis | Market research, trend analysis, investment insights |
+| [ChainAware.ai](https://chainaware.ai) | Blockchain Monitoring | AI-powered blockchain monitoring and analysis platform | On-chain analytics, security monitoring, anomaly detection |
+| [ChainGPT AI Agent](https://chaingpt.org) | Blockchain AI | Comprehensive AI platform for blockchain and cryptocurrency applications | Multi-purpose blockchain AI, smart contract analysis, security auditing |
+| [Coinrule](https://coinrule.com) | Trading Automation | No-code cryptocurrency trading bot platform | Visual strategy builder, automated trading, portfolio management |
+| [CreatorBid](https://creatorbid.com) | NFT Platform | AI-enhanced NFT creation and marketplace platform | AI art generation, smart contracts, marketplace automation |
+| [Cryptohopper](https://cryptohopper.com) | Trading Bots | Cloud-based cryptocurrency trading bot platform | Strategy marketplace, backtesting, social trading |
+| [ElizaOS](https://eliza.builders) | Agent Framework | Open-source framework for building autonomous AI agents in crypto | Multi-chain support, agent development tools, community-driven |
+| [Exponent AI](https://exponent.fi) | DeFi Analytics | AI-powered analytics and insights for DeFi protocols | Yield optimization, risk analysis, protocol comparison |
+| [Fomo.fund](https://fomo.fund) | Investment AI | AI-driven cryptocurrency investment and portfolio management | Sentiment analysis, automated investing, risk management |
+| [iAgent Pro](https://iagent.pro) | Professional Trading | Professional-grade AI trading platform for cryptocurrencies | Advanced algorithms, institutional features, risk controls |
+| [IQ AI](https://iq.space) | Knowledge Platform | AI-powered knowledge platform for blockchain and cryptocurrency | Educational AI, research tools, market insights |
+| [KlapAI](https://klap.ai) | Content Creation | AI agent for creating cryptocurrency and blockchain content | Automated content, social media management, community engagement |
+| [Laika AI](https://laika.ai) | Trading Assistant | AI-powered trading assistant and market analysis tool | Technical analysis, trading signals, portfolio optimization |
+| [Mettalex](https://mettalex.com) | Derivatives Trading | AI-enhanced derivatives and commodities trading platform | Automated trading, risk management, market making |
+| [NetX](https://netx.ai) | Network Analytics | AI-powered blockchain network analysis and optimization | Network monitoring, performance optimization, security analysis |
+| [OctonetAI](https://octonet.ai) | Multi-Chain AI | AI agents operating across multiple blockchain networks | Cross-chain operations, multi-protocol support, unified interface |
+| [Olas](https://olas.network) | Autonomous Services | Platform for creating autonomous AI services on blockchain | Service orchestration, decentralized agents, economic incentives |
+| [Paal AI](https://paal.ai) | Telegram Bots | AI-powered Telegram bots for cryptocurrency communities | Community management, trading alerts, automated responses |
+| [Pionex](https://pionex.com) | Trading Bots | Cryptocurrency exchange with built-in trading bots | Grid trading, DCA bots, arbitrage automation |
+| [Sahara AI](https://sahara.ai) | Decentralized AI | Decentralized AI platform for blockchain applications | Distributed computing, AI marketplace, token incentives |
+| [Sender AI](https://sender.ai) | Communication | AI-powered communication and marketing automation for crypto projects | Community engagement, automated messaging, campaign management |
+| [Skyfire](https://skyfire.xyz) | Payment AI | AI agents for automated blockchain payments and transactions | Payment automation, smart routing, transaction optimization |
+| [SocialScan](https://socialscan.io) | Social Analytics | AI-powered social media analysis for cryptocurrency markets | Sentiment tracking, influencer analysis, trend detection |
+| [Story Foundation](https://story.foundation) | Narrative AI | AI agents for creating and managing digital narratives on blockchain | Story creation, narrative management, content monetization |
+| [SUI Agents](https://suiagents.com) | Virtual Characters | AI-powered virtual agents on the SUI blockchain | Blockchain integration, decentralized identity, virtual interactions |
+| [Theoriq AI](https://theoriq.ai) | AI Personas | Platform for creating and deploying AI-powered virtual personas | Character customization, personality modeling, multi-platform deployment |
+| [Virtuals Protocol](https://virtuals.io) | Virtual Beings | Protocol for creating autonomous virtual beings and characters | Autonomous behavior, cross-platform compatibility, virtual economy |
+| [vvaifu.fun](https://vvaifu.fun) | Virtual Companions | Platform for AI-powered virtual companions and characters | Interactive companions, personalized experiences, entertainment focus |
+| [Wisdomise](https://wisdomise.com) | Virtual Advisors | AI-powered virtual advisors and consultants | Expert knowledge, advisory services, specialized domains |
+| [Zegent AI](https://zegent.ai) | Virtual Agents | Comprehensive platform for virtual AI agent creation and deployment | Agent customization, deployment tools, interaction analytics |
+
+### 📊 Crypto AI Agents Comparison
+
+| Platform | Category | Focus Area | Deployment | Pricing | Best For |
+|----------|----------|------------|------------|---------|----------|
+| 3Commas | Trading Bots | Portfolio management | Cloud | Subscription | Automated trading strategies |
+| AgentFi | DeFi Agents | Protocol automation | Blockchain | Token-based | DeFi yield optimization |
+| AgentLayer | Infrastructure | Agent deployment | Multi-chain | Contact sales | Cross-chain agent orchestration |
+| AICell | AI Trading | Investment platform | Cloud | Contact sales | Advanced trading algorithms |
+| aixbt by Virtuals | Social Trading | Market sentiment | Blockchain | Token-based | Social trading signals |
+| Alethea AI | NFT AI | Virtual beings | Blockchain | NFT-based | Intelligent NFT creation |
+| Aurory AI | Gaming | Virtual economies | Blockchain | Gaming tokens | Blockchain game automation |
+| Bitget GetAgent | Exchange AI | Trading assistant | Exchange | Included | Exchange-integrated trading |
+| Brian Knows | DeFi Assistant | Protocol navigation | Blockchain | Free | DeFi education and guidance |
+| BuzzAI | Market Intelligence | Analysis platform | Cloud | Subscription | Market research and insights |
+| ChainAware.ai | Monitoring | Security analysis | Multi-chain | Contact sales | Blockchain security monitoring |
+| ChainGPT AI Agent | Blockchain AI | Multi-purpose platform | Multi-chain | Token-based | Comprehensive blockchain AI |
+| Coinrule | Trading Automation | Strategy builder | Cloud | Freemium | No-code trading automation |
+| CreatorBid | NFT Platform | Marketplace automation | Blockchain | Commission-based | AI-enhanced NFT creation |
+| Cryptohopper | Trading Bots | Cloud trading | Cloud | Subscription | Strategy marketplace |
+| ElizaOS | Framework | Agent development | Open-source | Free | Crypto agent development |
+| Exponent AI | Analytics | DeFi insights | Cloud | Contact sales | Protocol optimization |
+| Fomo.fund | Investment AI | Portfolio management | Cloud | Contact sales | Automated crypto investing |
+| iAgent Pro | Professional Trading | Institutional platform | Cloud | Enterprise | Professional trading |
+| IQ AI | Knowledge Platform | Educational AI | Blockchain | Token-based | Blockchain education |
+| KlapAI | Content Creation | Social media automation | Cloud | Subscription | Crypto content creation |
+| Laika AI | Trading Assistant | Market analysis | Cloud | Contact sales | Technical analysis |
+| Mettalex | Derivatives | Commodities trading | Blockchain | Contact sales | Derivatives automation |
+| NetX | Network Analytics | Performance optimization | Multi-chain | Contact sales | Network monitoring |
+| OctonetAI | Multi-Chain | Cross-chain operations | Multi-chain | Contact sales | Multi-protocol automation |
+| Olas | Autonomous Services | Service orchestration | Blockchain | Token-based | Decentralized agent services |
+| Paal AI | Telegram Bots | Community management | Telegram | Subscription | Community automation |
+| Pionex | Trading Bots | Built-in bots | Exchange | Commission-based | Exchange with bots |
+| Sahara AI | Decentralized AI | Distributed computing | Blockchain | Token-based | Decentralized AI marketplace |
+| Sender AI | Communication | Marketing automation | Cloud | Subscription | Crypto project marketing |
+| Skyfire | Payment AI | Transaction automation | Blockchain | Usage-based | Payment optimization |
+| SocialScan | Social Analytics | Sentiment tracking | Cloud | Contact sales | Social media analysis |
+| Story Foundation | Narrative AI | Content monetization | Blockchain | Token-based | Digital narrative management |
+| SUI Agents | Virtual Characters | Blockchain identity | SUI Network | Token-based | Virtual agent interactions |
+| Theoriq AI | AI Personas | Character deployment | Multi-platform | Contact sales | AI persona creation |
+| Virtuals Protocol | Virtual Beings | Character autonomy | Blockchain | Protocol fees | Autonomous virtual characters |
+| vvaifu.fun | Virtual Companions | Entertainment platform | Cloud | Subscription | AI companion interactions |
+| Wisdomise | Virtual Advisors | Expert consultation | Cloud | Contact sales | Specialized advisory services |
+| Zegent AI | Virtual Agents | Agent analytics | Cloud | Contact sales | Virtual agent deployment |
 
 ---
 
