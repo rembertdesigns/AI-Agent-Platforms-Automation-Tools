@@ -189,6 +189,62 @@ These AI agents are purpose-built for specific industries or workflows, deliveri
 | [ShopPal](https://shoppal.ai/) | Shopping Agent | Shopping assistant for e-commerce workflows | Automatic deals/coupons, browser |
 | [Zapier Central](https://zapier.com/central) | Automation | AI-powered workflow automation platform | Natural language automation, 5000+ app integrations |
 
+### 📊 Productivity, Assistant & Vertical Agents Comparison
+
+| Agent | Industry Focus | Ease of Use | Integration Depth | Autonomy Level | Pricing | Best For |
+|-------|----------------|-------------|-------------------|----------------|---------|----------|
+| Amelia | Customer Service | Medium | Enterprise systems | High | Enterprise | Large-scale customer support |
+| Box AI Agents | Document Management | High | Box ecosystem | Medium | Contact sales | Enterprise document workflows |
+| Clay | Sales | High | CRM-focused | Medium | $100+/month | Sales prospecting, lead enrichment |
+| Harvey AI | Legal | Medium | Legal tools | High | Enterprise | Contract review, legal research |
+| HubSpot Breeze | Marketing/Sales | High | HubSpot native | Medium | Included/Add-on | HubSpot users, marketing automation |
+| Julius | Data Analysis | Medium | Data tools | Medium | Freemium | Data visualization, analysis |
+| Kadoa | Web Scraping | Medium | Custom APIs | Medium | Contact sales | Data extraction, web monitoring |
+| Lindy | Personal/Workflow | High | Calendar/email | Medium | $20+/month | Personal automation, scheduling |
+| Magic Loops | General Automation | High | 1000+ apps | Low-Medium | Freemium | No-code automation, workflows |
+| Monday.com AI | Project Management | High | Monday.com native | Medium | Add-on | Project teams, task management |
+| Moveworks | Enterprise IT | Medium | Enterprise tools | High | Enterprise | IT support, employee services |
+| MultiOn | Personal Assistant | High | Web browsers | Medium | Contact sales | Personal web tasks, bookings |
+| Notion AI | Productivity | High | Notion native | Low-Medium | $8+/month | Content creation, workspace |
+| Relevance AI | Enterprise Analytics | Medium | Business tools | High | Contact sales | Business intelligence, data analysis |
+| SalesCloser AI | Sales | Medium | CRM systems | High | Contact sales | Sales conversations, lead qualification |
+| ShopPal | E-commerce | High | Shopping sites | Medium | Contact sales | Personal shopping, deal finding |
+| Zapier Central | General Automation | High | 5000+ apps | Medium | $20+/month | Workflow automation, app integration |
+
+### 🏢 Industry-Specific Use Cases
+
+| Industry | Recommended Agents | Primary Benefits |
+|----------|-------------------|------------------|
+| **Sales & Marketing** | Clay, HubSpot Breeze, SalesCloser AI | Lead generation, CRM automation, personalized outreach |
+| **Legal** | Harvey AI, Box AI Agents | Contract analysis, document review, legal research |
+| **Customer Support** | Amelia, Moveworks | 24/7 support, ticket resolution, self-service |
+| **Data & Analytics** | Julius, Relevance AI | Data processing, insights generation, reporting |
+| **Personal Productivity** | Lindy, Notion AI, MultiOn | Task automation, content creation, scheduling |
+| **E-commerce** | ShopPal, Magic Loops | Shopping automation, price monitoring, deals |
+| **Project Management** | Monday.com AI, Zapier Central | Task tracking, workflow automation, team coordination |
+
+### 🔧 Technical Setup
+
+| Agent | Setup Complexity | Team Collaboration |
+|-------|------------------|-------------------|
+| HubSpot Breeze | Low | Yes |
+| Notion AI | Low | Yes |
+| Monday.com AI | Low | Yes |
+| Magic Loops | Low | Limited |
+| Lindy | Low | Limited |
+| MultiOn | Low | No |
+| Julius | Medium | Limited |
+| Zapier Central | Medium | Yes |
+| Clay | Medium | Yes |
+| Kadoa | Medium | Limited |
+| Box AI Agents | Medium | Yes |
+| Amelia | High | Yes |
+| Moveworks | High | Yes |
+| Harvey AI | High | Yes |
+| Relevance AI | High | Yes |
+| SalesCloser AI | High | Yes |
+| ShopPal | Medium | No |
+
 ---
 
 ## 🏢 Enterprise, Orchestration & Platform
