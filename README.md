@@ -447,6 +447,51 @@ Infrastructure and platforms for deploying, scaling, and serving AI models that 
 
 ---
 
+## 📊 AI Data Analysts
+
+AI agents specialized in data analysis, visualization, and business intelligence. These platforms automate complex data workflows, from data collection and processing to advanced analytics and reporting, enabling organizations to extract actionable insights from their data through natural language queries and automated analysis.
+
+| Name | Category | Description | Notable Features |
+|------|----------|-------------|------------------|
+| [Agent Analytics AI](https://agentanalytics.ai) | Analytics Platform | Comprehensive AI-powered analytics and reporting platform | Automated insights, custom dashboards, predictive analytics |
+| [Amoeba](https://amoeba.ai) | Data Processing | AI-powered data processing and transformation platform | Data pipeline automation, real-time processing, scalable architecture |
+| [Ask On Data](https://askondata.com) | Query Interface | Natural language interface for database queries and analysis | SQL generation, natural language queries, database integration |
+| [AskYourDatabase](https://askyourdatabase.com) | Database Analytics | AI agent for natural language database interactions | Database querying, automated reports, data exploration |
+| [Athena Intelligence](https://athena.ai) | Business Intelligence | AI-powered business intelligence and analytics platform | Executive dashboards, automated insights, strategic analytics |
+| [Autonomous Field Mapper](https://fieldmapper.ai) | Spatial Analytics | AI agent for autonomous field mapping and spatial data analysis | Geospatial analysis, automated mapping, field data collection |
+| [Avanzai](https://avanzai.com) | Financial Analytics | AI-powered financial data analysis and modeling platform | Financial modeling, risk analysis, investment insights |
+| [BambooAI](https://bambooai.com) | Data Science | AI assistant for data science workflows and analysis | Data science automation, model building, statistical analysis |
+| [Blobr](https://blobr.io) | Data Visualization | AI-powered data visualization and dashboard creation | Automated charts, interactive dashboards, data storytelling |
+| [BlockSurvey](https://blocksurvey.io) | Survey Analytics | AI-enhanced survey platform with advanced analytics | Survey automation, response analysis, privacy-focused data collection |
+| [Capalyze](https://capalyze.com) | Performance Analytics | AI-driven performance analysis and optimization platform | Performance metrics, optimization recommendations, trend analysis |
+| [Claygent](https://clay.com/claygent) | Research Analytics | AI agent for automated research and data analysis | Research automation, data enrichment, competitive intelligence |
+| [Company Research Agent](https://companyresearch.ai) | Business Research | AI agent specialized in company and market research | Company profiling, market analysis, competitive research |
+| [Dot AI](https://dot.ai) | Data Assistant | AI-powered personal data assistant and analytics platform | Personal analytics, data insights, automated reporting |
+| [Echobase AI](https://echobase.ai) | Knowledge Analytics | AI platform for knowledge base analysis and insights | Document analysis, knowledge extraction, content intelligence |
+| [Edexia](https://edexia.com) | Educational Analytics | AI-powered analytics for educational data and learning insights | Learning analytics, student performance, educational insights |
+| [Fabi.ai](https://fabi.ai) | Business Analytics | AI-powered business analysis and decision support platform | Business metrics, automated analysis, decision recommendations |
+| [Harvey](https://harvey.ai) | Legal Analytics | AI-powered legal document analysis and research platform | Legal research, document review, case analysis |
+| [Hex](https://hex.tech) | Data Collaboration | Collaborative data platform with AI-powered analytics | Team collaboration, notebook interface, data sharing |
+| [Hex Magic](https://hex.tech/magic) | Data Magic | AI-powered data analysis and visualization within Hex platform | Automated analysis, code generation, insight discovery |
+| [HockeyStack](https://hockeystack.com) | Marketing Analytics | AI-powered marketing analytics and attribution platform | Marketing attribution, customer journey analysis, ROI optimization |
+| [Inari](https://inari.ai) | Agricultural Analytics | AI platform for agricultural data analysis and crop optimization | Crop analytics, yield prediction, agricultural insights |
+| [Louie](https://louie.ai) | Conversational Analytics | AI-powered conversational interface for data analysis | Natural language analytics, automated insights, data conversations |
+| [Maps Scraper AI](https://mapsscraper.ai) | Location Analytics | AI-powered platform for scraping and analyzing location data | Location intelligence, business mapping, geographical insights |
+| [Mission Grey](https://missiongrey.com) | Intelligence Analytics | AI platform for intelligence analysis and threat assessment | Security analytics, threat intelligence, risk assessment |
+| [Model ML](https://model.ml) | Machine Learning | AI platform for automated machine learning model development | AutoML, model optimization, predictive analytics |
+| [NLSQL](https://nlsql.com) | Natural Language SQL | AI platform for converting natural language to SQL queries | SQL generation, database querying, natural language interface |
+| [PortableDocs](https://portabledocs.com) | Document Analytics | AI-powered document analysis and information extraction | Document processing, data extraction, automated insights |
+| [SigTech MAGIC](https://sigtech.com) | Financial Analytics | AI-powered financial analytics and quantitative research platform | Quantitative analysis, financial modeling, market research |
+| [TalktoData](https://talktodata.com) | Data Conversation | AI platform for conversational data analysis and insights | Natural language queries, automated insights, data storytelling |
+| [TextQL](https://textql.com) | Text Analytics | AI-powered text analysis and natural language processing platform | Text mining, sentiment analysis, content analytics |
+| [Tilores](https://tilores.com) | Identity Analytics | AI-powered identity resolution and entity analytics platform | Entity resolution, identity matching, data deduplication |
+| [Trinka AI](https://trinka.ai) | Research Analytics | AI-powered academic and research writing analysis platform | Research insights, writing analytics, academic intelligence |
+| [Vairo AI](https://vairo.ai) | Predictive Analytics | AI platform for predictive analytics and forecasting | Predictive modeling, forecasting, trend analysis |
+| [Vanna AI](https://vanna.ai) | SQL Analytics | AI-powered SQL generation and database analysis platform | Automated SQL, database insights, query optimization |
+| [Wren AI](https://wren.ai) | Data Pipeline | AI-powered data pipeline and analytics automation platform | Data workflows, automated pipelines, analytics orchestration |
+
+---
+
 ## ₿ Crypto AI Agents
 
 Blockchain-based AI agents and cryptocurrency-focused automation platforms that operate within decentralized ecosystems. These agents handle trading, DeFi protocols, NFT management, and other blockchain-specific tasks while leveraging AI for decision-making and autonomous operations.
