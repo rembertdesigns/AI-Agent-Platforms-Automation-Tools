@@ -76,17 +76,21 @@ Specialized agents focused on software development, code generation, and enginee
 
 | Name | Category | Description | Notable Features |
 |------|----------|-------------|------------------|
-| [Devin](https://www.cognition-labs.com/introducing-devin) | Coding Agent | Autonomous software engineer/agent | Code gen, repo mgmt, PR/issue management |
+| [AgentFlow](https://agentflow.dev/) | Coding/Automation | Visual multi-agent and automation builder, focused on developer productivity | Drag-and-drop pipelines, code scheduling, workflow logic |
+| [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/) | Coding Agent | AI coding companion by AWS | Security scanning, enterprise integration, multi-language |
 | [Claude Code](https://docs.claude.com/en/docs/claude-code) | Coding Agent | Complex coding and automation agent by Anthropic | Multi-language support, project build |
-| [SWE Agent](https://swe-agent.com/) | Coding Agent | Software engineering AI agent | Task breakdown, project delivery |
-| [Sweep](https://sweep.dev/) | Coding Agent | Code improvement and refactor agent | PR review, fixes, doc generation |
-| [GPT Engineer](https://github.com/AntonOsika/gpt-engineer) | Coding Agent | Natural language to end-to-end codebase generator | Project scaffolding, iterative code dev |
-| [OpenDevin](https://github.com/OpenDevin/OpenDevin) | Coding Agent | Open-source coding and debugging agent | FOSS, runs locally, interactive |
-| [Taxy AI](https://taxy.ai/) | Dev Tooling | API and web UI testing agent | Automated workflow and test agents |
+| [Copilot Studio](https://copilot.microsoft.com/studio) | Low-code Agent Builder | Build custom agents with low-code/visual interface | Easily customizable workflows, MS integration |
+| [Devin](https://www.cognition-labs.com/introducing-devin) | Coding Agent | Autonomous software engineer/agent | Code gen, repo mgmt, PR/issue management |
 | [Devika](https://github.com/stitionai/devika) | Coding Agent | Converts instructions to software projects, code, and workflows | Natural language to full projects, multi-language support |
 | [GitHub Copilot](https://github.com/features/copilot) | Coding Agent | AI pair programmer by Microsoft/GitHub | Code completion, chat, CLI integration, enterprise features |
-| [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/) | Coding Agent | AI coding companion by AWS | Security scanning, enterprise integration, multi-language |
+| [GitHub Copilot Agents](https://github.com/features/copilot/agents) | Coding Agent | Advanced role-based coding copilot and autonomous agent from GitHub | Natural language to repo, multi-file editing, task assignment |
+| [GPT Engineer](https://github.com/AntonOsika/gpt-engineer) | Coding Agent | Natural language to end-to-end codebase generator | Project scaffolding, iterative code dev |
+| [MetaGPT](https://github.com/geekan/MetaGPT) | Framework | Converts prompts into collaborative coding agent teams | Multiple agent roles, iterative development |
+| [OpenDevin](https://github.com/OpenDevin/OpenDevin) | Coding Agent | Open-source coding and debugging agent | FOSS, runs locally, interactive |
 | [Replit Agent](https://replit.com/ai) | Coding Agent | AI-powered development environment | Full-stack development, deployment, collaboration |
+| [SWE Agent](https://swe-agent.com/) | Coding Agent | Software engineering AI agent | Task breakdown, project delivery |
+| [Sweep](https://sweep.dev/) | Coding Agent | Code improvement and refactor agent | PR review, fixes, doc generation |
+| [Taxy AI](https://taxy.ai/) | Dev Tooling | API and web UI testing agent | Automated workflow and test agents |
 
 ---
 
