@@ -17,6 +17,7 @@ Discover the most comprehensive and up-to-date resource for autonomous AI agents
 | [🤖 AI Model Serving Platforms](#-ai-model-serving-platforms) | Infrastructure and platforms for deploying and serving AI models at scale |
 | [₿ Crypto AI Agents](#-crypto-ai-agents) | Blockchain-based and cryptocurrency-focused AI agents |
 | [🔬 Vertical & Specialized AI Agents](#-vertical--specialized-ai-agents) | Niche and industry-specific AI agents for specialized applications |
+| [🎬 Video AI Agents](#-video-ai-agents) | AI agents specialized in video creation, editing, and processing |
 | [📚 Resources & Learning](#-resource-links--further-reading) | Research papers, tutorials, communities, and further reading materials |
 | [📄 License](#-license) | Usage terms and attribution requirements |
 
@@ -477,6 +478,90 @@ Niche and industry-specific AI agents designed for specialized applications acro
 | Reviewnicely | Content Analysis | Business Intelligence | Cloud | Contact sales | Review and sentiment analysis |
 | Vegeta AI | Performance Testing | Technology | Cloud | Contact sales | Load testing automation |
 | VIDUR | Video Processing | Media/Content | Cloud | Contact sales | Video analysis and processing |
+
+---
+
+## 🎬 Video AI Agents
+
+AI agents specialized in video creation, editing, processing, and enhancement. These platforms leverage artificial intelligence to automate video production workflows, from content generation and editing to animation and post-production, enabling creators to produce professional-quality video content efficiently.
+
+| Name | Category | Description | Notable Features |
+|------|----------|-------------|------------------|
+| [aicut](https://aicut.pro) | Video Editing | AI-powered video editing and cutting platform | Automated editing, scene detection, smart trimming |
+| [Animaker AI](https://animaker.com) | Animation | AI-driven animation and video creation platform | Character animation, template library, voice synthesis |
+| [Animate AI](https://animate.ai) | Animation | AI platform for creating animated videos and content | Motion graphics, character rigging, automated animation |
+| [D-ID Creative Reality™ Studio](https://studio.d-id.com) | Avatar Creation | AI platform for creating talking avatar videos | Realistic avatars, lip-sync technology, multilingual support |
+| [DeepReel](https://deepreel.ai) | Video Generation | AI-powered video content generation platform | Personalized videos, automated production, scalable content |
+| [Descript](https://descript.com) | Video Editing | AI-enhanced video and podcast editing platform | Text-based editing, voice cloning, automated transcription |
+| [Edinakor](https://edinakor.com) | Video Production | AI-assisted video production and enhancement platform | Production automation, quality enhancement, workflow optimization |
+| [Elai.io](https://elai.io) | Avatar Videos | AI platform for creating avatar-based video content | Custom avatars, multilingual videos, automated production |
+| [Face Swap AI](https://faceswap.ai) | Face Manipulation | AI-powered face swapping and replacement technology | Real-time face swap, video processing, deepfake creation |
+| [Fliki AI](https://fliki.ai) | Text-to-Video | AI platform converting text content into videos | Text-to-speech, automated visuals, social media optimization |
+| [FocuSee](https://focusee.com) | Screen Recording | AI-enhanced screen recording and video creation | Automated editing, zoom effects, professional presentations |
+| [Hailuo AI](https://hailuo.ai) | Video Generation | AI-powered video creation and generation platform | Content automation, style transfer, video synthesis |
+| [Hedra](https://hedra.com) | Character Videos | AI platform for creating character-driven video content | Character animation, voice synthesis, story generation |
+| [HeyGen.ai](https://heygen.com) | Avatar Videos | AI-powered avatar video creation platform | Realistic avatars, multilingual support, brand customization |
+| [HeyGen](https://heygen.com) | Video Creation | Comprehensive AI video generation platform | Avatar creation, voice cloning, automated video production |
+| [Higgsfield AI](https://higgsfield.ai) | Video Processing | AI-powered video analysis and processing platform | Content analysis, automated editing, quality enhancement |
+| [Hour One](https://hourone.ai) | Corporate Videos | AI platform for creating professional corporate videos | Business avatars, training videos, scalable content production |
+| [InVideo AI](https://invideo.io) | Video Creation | AI-powered video creation and editing platform | Template automation, content suggestions, social media optimization |
+| [Kaiber](https://kaiber.ai) | Creative Videos | AI platform for artistic video creation and transformation | Style transfer, music visualization, creative effects |
+| [Lumen5](https://lumen5.com) | Social Videos | AI-powered social media video creation platform | Content repurposing, automated layouts, brand integration |
+| [Moovly](https://moovly.com) | Video Marketing | AI-enhanced video marketing and creation platform | Marketing templates, automated production, analytics integration |
+| [Pactory AI](https://pactory.ai) | Video Production | AI-powered video production and automation platform | Production workflows, quality control, batch processing |
+| [Pictory AI](https://pictory.ai) | Content Videos | AI platform for turning content into engaging videos | Blog-to-video, highlight generation, automatic captions |
+| [Promptus](https://promptus.ai) | Video Prompting | AI platform for video content ideation and creation | Content suggestions, script generation, creative prompts |
+| [Rask AI](https://rask.ai) | Video Translation | AI-powered video translation and localization platform | Voice cloning, multilingual dubbing, subtitle generation |
+| [RenderLion](https://renderlion.com) | Video Rendering | AI-enhanced video rendering and processing platform | Automated rendering, quality optimization, batch processing |
+| [Runway](https://runway.com) | Creative AI | Advanced AI platform for video generation and editing | Gen AI models, creative tools, professional workflows |
+| [Seedance](https://seedance.ai) | Dance Videos | AI platform for creating dance and movement videos | Motion capture, dance generation, choreography automation |
+| [ShortGPT](https://shortgpt.ai) | Short Videos | AI platform for creating short-form video content | Social media optimization, viral content generation, automated editing |
+| [Sora](https://sora.com) | Video Generation | OpenAI's text-to-video generation model | High-quality video synthesis, prompt-based generation, realistic output |
+| [Spot AI](https://spot.ai) | Security Videos | AI-powered video surveillance and analysis platform | Security monitoring, automated alerts, incident detection |
+| [TopView AI](https://topview.ai) | Video Analytics | AI platform for video performance analysis and optimization | Content analytics, engagement metrics, optimization suggestions |
+| [VEED.IO](https://veed.io) | Video Editing | AI-powered online video editing platform | Automated subtitles, background removal, smart editing tools |
+| [Veo 2](https://deepmind.google/technologies/veo) | Video Generation | Google's advanced AI video generation model | High-resolution output, long-form videos, realistic motion |
+| [Vidnoz AI](https://vidnoz.com) | Avatar Videos | AI platform for creating avatar-based marketing videos | Business avatars, marketing automation, multilingual content |
+
+### 📊 Video AI Agents Comparison
+
+| Platform | Category | Primary Focus | Deployment | Pricing | Best For |
+|----------|----------|---------------|------------|---------|----------|
+| aicut | Video Editing | Automated editing | Cloud | Freemium | Quick video cuts and trimming |
+| Animaker AI | Animation | Character animation | Cloud | Freemium | Educational and marketing animations |
+| Animate AI | Animation | Motion graphics | Cloud | Subscription | Professional animation workflows |
+| D-ID Creative Reality™ Studio | Avatar Creation | Talking avatars | Cloud | Usage-based | Personalized avatar videos |
+| DeepReel | Video Generation | Personalized content | Cloud | Enterprise | Scalable video production |
+| Descript | Video Editing | Text-based editing | Cloud | Subscription | Podcast and video editing |
+| Edinakor | Video Production | Production enhancement | Cloud | Contact sales | Professional video production |
+| Elai.io | Avatar Videos | Custom avatars | Cloud | Subscription | Training and educational videos |
+| Face Swap AI | Face Manipulation | Face replacement | Cloud | Usage-based | Entertainment and creative content |
+| Fliki AI | Text-to-Video | Content conversion | Cloud | Freemium | Social media content creation |
+| FocuSee | Screen Recording | Presentation videos | Cloud | Subscription | Tutorial and demo videos |
+| Hailuo AI | Video Generation | Content automation | Cloud | Contact sales | Automated video production |
+| Hedra | Character Videos | Character animation | Cloud | Contact sales | Story-driven content |
+| HeyGen.ai | Avatar Videos | Realistic avatars | Cloud | Subscription | Marketing and communication |
+| HeyGen | Video Creation | Comprehensive platform | Cloud | Subscription | Business video production |
+| Higgsfield AI | Video Processing | Content analysis | Cloud | Contact sales | Video optimization |
+| Hour One | Corporate Videos | Business content | Cloud | Enterprise | Corporate communications |
+| InVideo AI | Video Creation | Social media focus | Cloud | Freemium | Marketing video creation |
+| Kaiber | Creative Videos | Artistic transformation | Cloud | Subscription | Creative and artistic projects |
+| Lumen5 | Social Videos | Marketing automation | Cloud | Freemium | Social media marketing |
+| Moovly | Video Marketing | Marketing workflows | Cloud | Subscription | Brand video content |
+| Pactory AI | Video Production | Batch processing | Cloud | Contact sales | Large-scale video production |
+| Pictory AI | Content Videos | Blog-to-video | Cloud | Subscription | Content repurposing |
+| Promptus | Video Prompting | Content ideation | Cloud | Contact sales | Creative video planning |
+| Rask AI | Video Translation | Multilingual content | Cloud | Usage-based | Global content localization |
+| RenderLion | Video Rendering | Processing optimization | Cloud | Contact sales | High-volume rendering |
+| Runway | Creative AI | Advanced generation | Cloud | Usage-based | Professional creative work |
+| Seedance | Dance Videos | Movement generation | Cloud | Contact sales | Dance and fitness content |
+| ShortGPT | Short Videos | Social media optimization | Cloud | Contact sales | Viral content creation |
+| Sora | Video Generation | High-quality synthesis | Limited access | Research | Premium video generation |
+| Spot AI | Security Videos | Surveillance analysis | On-premise | Enterprise | Security and monitoring |
+| TopView AI | Video Analytics | Performance optimization | Cloud | Contact sales | Content strategy optimization |
+| VEED.IO | Video Editing | Online editing | Cloud | Freemium | Quick video editing tasks |
+| Veo 2 | Video Generation | Advanced AI models | Limited access | Research | High-end video production |
+| Vidnoz AI | Avatar Videos | Marketing focus | Cloud | Freemium | Business marketing videos |
 
 ---
 
