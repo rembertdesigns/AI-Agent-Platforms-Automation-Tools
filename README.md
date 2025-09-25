@@ -14,6 +14,7 @@ Discover the most comprehensive and up-to-date resource for autonomous AI agents
 | [🏢 Enterprise & Platform Solutions](#-enterprise-orchestration--platform) | Large-scale, enterprise-grade agent platforms and orchestration tools |
 | [⚡ Automation Tools & Workflow Builders](#-automation-tools--workflow-builders) | Platforms for automating workflows, integrating APIs, and orchestrating digital tasks |
 | [👁️ Agent Observability Tools](#-agent-observability-tools) | Monitoring, debugging, and performance tracking tools for AI agents |
+| [🤖 AI Model Serving Platforms](#-ai-model-serving-platforms) | Infrastructure and platforms for deploying and serving AI models at scale |
 | [📚 Resources & Learning](#-resource-links--further-reading) | Research papers, tutorials, communities, and further reading materials |
 | [📄 License](#-license) | Usage terms and attribution requirements |
 
@@ -290,6 +291,38 @@ Monitoring, debugging, and performance tracking tools specifically designed for 
 | Screenpipe | Desktop monitoring | Self-hosted | Open source | Desktop automation agents |
 | Temperstack | Infrastructure | Cloud | Contact sales | Infrastructure monitoring |
 | Wayfound AI | Navigation agents | Cloud | Contact sales | Navigation and routing agents |
+
+---
+
+# 🤖 AI Model Serving Platforms
+
+Infrastructure and platforms for deploying, scaling, and serving AI models that power autonomous agents. These platforms provide the foundational model serving capabilities that enable agents to access and utilize large language models, specialized AI models, and custom-trained models in production environments.
+
+| Name | Category | Description | Notable Features |
+|------|----------|-------------|------------------|
+| [Dcup](https://dcup.dev) | Model Serving | Lightweight model serving platform for edge deployment | Edge optimization, low latency, resource efficient |
+| [DeepMind's AlphaFold](https://alphafold.ebi.ac.uk) | Specialized Models | Protein structure prediction models and serving infrastructure | Scientific AI models, research applications, high accuracy |
+| [GLM-4.5](https://open.bigmodel.cn) | Language Models | Advanced language model serving platform by Zhipu AI | Multilingual support, reasoning capabilities, API access |
+| [Groq](https://groq.com) | High-Performance Inference | Ultra-fast inference platform for language models | Low latency inference, hardware optimization, real-time applications |
+| [Jina AI](https://jina.ai) | Multimodal AI | Platform for serving multimodal AI models and embeddings | Vector search, multimodal models, neural search |
+| [Pinecone](https://pinecone.io) | Vector Database | Managed vector database for AI applications and RAG systems | Vector similarity search, real-time updates, scalable infrastructure |
+| [Replicate](https://replicate.com) | Model Hosting | Platform for running and scaling machine learning models | Easy deployment, version control, API access |
+| [THEO](https://theo.ai) | Model Optimization | AI model optimization and serving platform | Model compression, inference optimization, cost reduction |
+| [Weaviate](https://weaviate.io) | Vector Database | Open-source vector database for AI-powered applications | Semantic search, hybrid search, GraphQL API |
+
+### 📊 AI Model Serving Platforms Comparison
+
+| Platform | Focus Area | Deployment | Performance | Pricing | Best For |
+|----------|------------|------------|-------------|---------|----------|
+| Dcup | Edge serving | Edge/Local | High | Contact sales | Edge AI applications |
+| DeepMind's AlphaFold | Scientific models | Cloud | Specialized | Free/Research | Scientific research, biology |
+| GLM-4.5 | Language models | Cloud | High | Contact sales | Chinese language, reasoning tasks |
+| Groq | High-speed inference | Cloud | Ultra-high | Usage-based | Real-time applications, low latency |
+| Jina AI | Multimodal AI | Cloud/Self-hosted | Medium | Freemium | Multimodal search, embeddings |
+| Pinecone | Vector search | Cloud | High | Usage-based | RAG applications, semantic search |
+| Replicate | Model hosting | Cloud | Medium | Usage-based | Quick model deployment, experimentation |
+| THEO | Model optimization | Cloud/On-premise | Optimized | Contact sales | Cost optimization, efficiency |
+| Weaviate | Vector database | Cloud/Self-hosted | High | Open source/Paid | Knowledge graphs, hybrid search |
 
 ---
 
