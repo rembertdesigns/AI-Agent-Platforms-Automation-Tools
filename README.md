@@ -11,6 +11,7 @@ Discover the most comprehensive and up-to-date resource for autonomous AI agents
 | [💻 Coding & Development Agents](#-coding--development-agents) | Specialized agents for software development, code generation, and engineering |
 | [🎯 Productivity & Vertical Agents](#-productivity-assistant--vertical-agents) | Domain-specific agents for industries and specialized use cases |
 | [🏢 Enterprise & Platform Solutions](#-enterprise-orchestration--platform) | Large-scale, enterprise-grade agent platforms and orchestration tools |
+| [⚡ Automation Tools & Workflow Builders](#-automation-tools--workflow-builders) | Platforms for automating workflows, integrating APIs, and orchestrating digital tasks |
 | [📚 Resources & Learning](#-resource-links--further-reading) | Research papers, tutorials, communities, and further reading materials |
 | [📄 License](#-license) | Usage terms and attribution requirements |
 
@@ -140,6 +141,21 @@ Large-scale, enterprise-grade agent platforms and orchestration tools.
 | [Salesforce Einstein](https://www.salesforce.com/products/einstein/) | Enterprise | CRM and business process automation agents | Sales automation, customer insights, predictive analytics |
 | [SearchUnify](https://www.searchunify.com/) | Enterprise Platform | AI automation for knowledge management & customer support | Unified search, workflow automation, ML-powered suggestions |
 | [ServiceNow Creator Agents](https://www.servicenow.com/products/now-platform/now-assist.html) | Enterprise | Prebuilt and customizable enterprise workflow agents | ITSM integration, custom workflows, enterprise automation |
+
+---
+
+## ⚡ Automation Tools & Workflow Builders
+
+Platforms for automating workflows, integrating APIs, and orchestrating digital tasks. These systems are perfect complements to agentic frameworks—serving as foundation technology for creating multi-step automations or connecting agents with external APIs and tools.
+
+| Name | Category | Description | Notable Features |
+|------|----------|-------------|------------------|
+| [Gumloop](https://gumloop.com/) | Automation Builder | AI-powered tool for automating business and digital processes | LLM plugins, extensible workflows |
+| [Make](https://www.make.com/) | Workflow Automation | No-code service for integrating applications and automating tasks | Drag-and-drop builder, scalable scenarios |
+| [n8n](https://n8n.io/) | Workflow Automation | Open-source automation platform for connecting apps and APIs | Visual editor, 400+ integrations |
+| [Parabola](https://parabola.io/) | Data Workflow | Automates spreadsheet, data, and API tasks | Visual workflow, data manipulation |
+| [Unio](https://unio.ai/) | Agent-Workflow Mix | Orchestrates agentic and automation workflows | LLM connectors, webhook triggers |
+| [Zapier](https://zapier.com/) | Automation Platform | Online platform for automating web apps and services | 5000+ integrations, triggers/actions |
 
 ---
 
