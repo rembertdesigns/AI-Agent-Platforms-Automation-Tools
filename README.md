@@ -62,3 +62,65 @@ These frameworks and platforms provide general-purpose autonomous agent capabili
 | [Camel](https://github.com/camel-ai/camel) | Experiment | Language modeling with agent-to-agent cooperation | Agent dialogue, multi-role scenarios |
 | [ChatDev](https://github.com/OpenBMB/ChatDev) | Experiment | AI-powered collaborative software development agent | Role assignment, project conversations |
 | [CopilotKit](https://www.copilotkit.ai/) | Framework | Multi-agent orchestration libraries and protocol standards | React integration, custom agents, production-ready |
+
+---
+
+## 💻 Coding & Development Agents
+
+Specialized agents focused on software development, code generation, and engineering tasks.
+
+| Name | Category | Description | Notable Features |
+|------|----------|-------------|------------------|
+| [Devin](https://www.cognition-labs.com/introducing-devin) | Coding Agent | Autonomous software engineer/agent | Code gen, repo mgmt, PR/issue management |
+| [Claude Code](https://docs.claude.com/en/docs/claude-code) | Coding Agent | Complex coding and automation agent by Anthropic | Multi-language support, project build |
+| [SWE Agent](https://swe-agent.com/) | Coding Agent | Software engineering AI agent | Task breakdown, project delivery |
+| [Sweep](https://sweep.dev/) | Coding Agent | Code improvement and refactor agent | PR review, fixes, doc generation |
+| [GPT Engineer](https://github.com/AntonOsika/gpt-engineer) | Coding Agent | Natural language to end-to-end codebase generator | Project scaffolding, iterative code dev |
+| [OpenDevin](https://github.com/OpenDevin/OpenDevin) | Coding Agent | Open-source coding and debugging agent | FOSS, runs locally, interactive |
+| [Taxy AI](https://taxy.ai/) | Dev Tooling | API and web UI testing agent | Automated workflow and test agents |
+| [Devika](https://github.com/stitionai/devika) | Coding Agent | Converts instructions to software projects, code, and workflows | Natural language to full projects, multi-language support |
+| [GitHub Copilot](https://github.com/features/copilot) | Coding Agent | AI pair programmer by Microsoft/GitHub | Code completion, chat, CLI integration, enterprise features |
+| [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/) | Coding Agent | AI coding companion by AWS | Security scanning, enterprise integration, multi-language |
+| [Replit Agent](https://replit.com/ai) | Coding Agent | AI-powered development environment | Full-stack development, deployment, collaboration |
+
+---
+
+## 🎯 Productivity, Assistant & Vertical Agents
+
+Domain-specific agents designed for particular industries or use cases.
+
+| Name | Category | Description | Notable Features |
+|------|----------|-------------|------------------|
+| [MultiOn](https://www.multion.ai/) | Personal Agent | Multi-purpose web assistant for bookings/orders | Automation for bookings, orders |
+| [Amelia](https://amelia.ai/) | Enterprise | Conversational AI for customer service | Omnichannel, workflow integration |
+| [ShopPal](https://shoppal.ai/) | Shopping Agent | Shopping assistant for e-commerce workflows | Automatic deals/coupons, browser |
+| [Lindy](https://www.lindy.ai/) | Workflow Agent | Personal workflow automation agent | Calendar, scheduling, task mgmt |
+| [Harvey AI](https://harvey.ai/) | Legal Agent | Legal-specific document and process automation | Contract review, legal research |
+| [Magic Loops](https://magicloops.dev/) | Automation | Personal automation building platform | No-code, multi-app workflows |
+| [Kadoa](https://www.kadoa.com/) | Web Automation | Web scraping and data extraction agent | Custom workflow design |
+| [Julius](https://julius.ai/) | Data Agent | Data processing, analysis, and visualization | Data-to-insights pipeline |
+| [Relevance AI](https://relevanceai.com/) | Enterprise | Enterprise AI workflow and insights platform | Multi-agent chains, business intelligence, data analysis |
+| [Zapier Central](https://zapier.com/central) | Automation | AI-powered workflow automation platform | Natural language automation, 5000+ app integrations |
+| [Monday.com AI Assistant](https://monday.com/ai/) | Productivity | Project management and workflow AI assistant | Task automation, project insights, team collaboration |
+| [Notion AI](https://www.notion.so/product/ai) | Productivity | Workspace AI for writing, planning, and automation | Content generation, database queries, workflow automation |
+
+---
+
+## 🏢 Enterprise, Orchestration & Platform
+
+Large-scale, enterprise-grade agent platforms and orchestration tools.
+
+| Name | Category | Description | Notable Features |
+|------|----------|-------------|------------------|
+| [Microsoft Copilot](https://copilot.microsoft.com/) | Enterprise | MS365 agent for autonomous task completion | Handles tasks in Dynamics, MS365 apps |
+| [Google Gemini Agents](https://gemini.google.com/) | Enterprise | Google's conversational AI w/ workflow agents | Native GCP and app integration |
+| [IBM watsonx Orchestrate](https://www.ibm.com/products/watsonx-orchestrate) | Orchestration | Enterprise-grade multi-agent workflow builder | App connectors, workflow editor |
+| [Oracle Miracle Agent](https://www.oracle.com/) | Enterprise | Embedded agent for finance/HR/supply chain | ERP workflow automation |
+| [E2B](https://e2b.dev/) | Infra Platform | Secure cloud computers for agents | Multi-cloud, secure tool sandbox |
+| [Manaflow](https://manaflow.ai/) | Business | Technical business workflow automation | Multi-agent, business process orchestration |
+| [Flowise](https://flowiseai.com/) | No-code Dev | Visual builder for AI workflows | Drag-n-drop, multi-agent builder |
+| [AWS Bedrock Agents](https://aws.amazon.com/bedrock/agents/) | Enterprise | Scalable generative and reasoning agents for business automation | AWS integration, enterprise security, RAG capabilities |
+| [Databricks Agents](https://www.databricks.com/product/machine-learning/lakehouse-ai) | Enterprise | Data pipeline, ETL, and workflow orchestration agent | Data lakehouse integration, MLOps, analytics workflows |
+| [ServiceNow Creator Agents](https://www.servicenow.com/products/now-platform/now-assist.html) | Enterprise | Prebuilt and customizable enterprise workflow agents | ITSM integration, custom workflows, enterprise automation |
+| [Salesforce Einstein](https://www.salesforce.com/products/einstein/) | Enterprise | CRM and business process automation agents | Sales automation, customer insights, predictive analytics |
+| [HubSpot AI](https://www.hubspot.com/artificial-intelligence) | Enterprise | Marketing, sales, and service automation platform | Lead scoring, content generation, customer journey automation |
