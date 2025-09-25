@@ -10,7 +10,7 @@ Discover the most comprehensive and up-to-date resource for autonomous AI agents
 | [🤝 How to Contribute](#-how-to-contribute) | Community guidelines for adding agents and improving the resource |
 | [🔧 General Autonomous Agents](#-general-autonomous-agents) | Multi-purpose frameworks and platforms for general agent development |
 | [💻 Coding & Development Agents](#-coding--development-agents) | Specialized agents for software development, code generation, and engineering |
-| [🎯 Productivity & Vertical Agents](#-productivity-assistant--vertical-agents) | Domain-specific agents for industries and specialized use cases |
+| [🎯 Productivity & Business Agents](#-productivity--business-agents) | Workflow, CRM, sales, HR, and general business automation agents |
 | [🏢 Enterprise & Platform Solutions](#-enterprise-orchestration--platform) | Large-scale, enterprise-grade agent platforms and orchestration tools |
 | [⚡ Automation Tools & Workflow Builders](#-automation-tools--workflow-builders) | Platforms for automating workflows, integrating APIs, and orchestrating digital tasks |
 | [👁️ Agent Observability Tools](#agent-observability-tools) | Monitoring, debugging, and performance tracking tools for AI agents |
@@ -135,47 +135,55 @@ These AI agents specialize in automating software development tasks by autonomou
 
 ---
 
-## 🎯 Productivity, Assistant & Vertical Agents
+## 🎯 Productivity & Business Agents
 
-These AI agents are purpose-built for specific industries or workflows, delivering tailored automation, insights, and assistance. By understanding domain-specific contexts and data, they improve workflow efficiency and accuracy in areas such as customer service, sales, legal, marketing, and data analysis.
+AI agents purpose-built for workflow automation, CRM, sales, HR, and general business process optimization. These agents deliver tailored automation and insights for specific business functions, improving operational efficiency and accuracy in customer service, sales operations, legal workflows, marketing campaigns, and data analysis.
 
 | Name | Category | Description | Notable Features |
 |------|----------|-------------|------------------|
 | [Amelia](https://amelia.ai/) | Enterprise | Conversational AI for customer service | Omnichannel, workflow integration |
 | [Box AI Agents](https://www.box.com/ai) | Document Agent | AI-powered document processing, search, and automation | Content management, enterprise security |
 | [Clay](https://clay.com/) | Sales Agent | Automates sales prospecting, enrichment, outreach | CRM integration, personalization, workflow automation |
+| [EVA](https://eva.ai) | Virtual Assistant | Enterprise virtual assistant for business automation | Meeting scheduling, task management, business intelligence |
 | [Harvey AI](https://harvey.ai/) | Legal Agent | Legal-specific document and process automation | Contract review, legal research |
 | [HubSpot Breeze](https://www.hubspot.com/products/artificial-intelligence/breeze) | CRM/Marketing Agent | Automates marketing, sales, and customer service in HubSpot | Sales automation, meeting booking, email generation |
+| [Interviewer.AI](https://interviewer.ai) | Human Resources | AI-powered interview and candidate assessment platform | Automated interviews, candidate scoring, bias reduction |
 | [Julius](https://julius.ai/) | Data Agent | Data processing, analysis, and visualization | Data-to-insights pipeline |
 | [Kadoa](https://www.kadoa.com/) | Web Automation | Web scraping and data extraction agent | Custom workflow design |
 | [Lindy](https://www.lindy.ai/) | Workflow Agent | Personal workflow automation agent | Calendar, scheduling, task mgmt |
+| [Louisa AI](https://louisa.ai) | Personal Assistant | AI-powered personal assistant for individual productivity | Task management, scheduling, personal workflow optimization |
 | [Magic Loops](https://magicloops.dev/) | Automation | Personal automation building platform | No-code, multi-app workflows |
 | [Monday.com AI Assistant](https://monday.com/ai/) | Productivity | Project management and workflow AI assistant | Task automation, project insights, team collaboration |
 | [Moveworks](https://www.moveworks.com/) | Enterprise Automation | IT/HR/service desk agent for large organizations | Automated ticketing, resolution, employee self-service |
 | [MultiOn](https://www.multion.ai/) | Personal Agent | Multi-purpose web assistant for bookings/orders | Automation for bookings, orders |
 | [Notion AI](https://www.notion.so/product/ai) | Productivity | Workspace AI for writing, planning, and automation | Content generation, database queries, workflow automation |
+| [Recrubo.ai](https://recrubo.ai) | Recruitment | AI-powered recruitment and talent acquisition platform | Candidate matching, interview automation, hiring optimization |
 | [Relevance AI](https://relevanceai.com/) | Enterprise | Enterprise AI workflow and insights platform | Multi-agent chains, business intelligence, data analysis |
 | [SalesCloser AI](https://salescloser.ai/) | Sales Agent | Automated sales conversations, lead qualification | Conversation workflow, CRM sync, follow-up tasks |
 | [ShopPal](https://shoppal.ai/) | Shopping Agent | Shopping assistant for e-commerce workflows | Automatic deals/coupons, browser |
 | [Zapier Central](https://zapier.com/central) | Automation | AI-powered workflow automation platform | Natural language automation, 5000+ app integrations |
 
-### 📊 Productivity, Assistant & Vertical Agents Comparison
+### 📊 Productivity & Business Agents Comparison
 
 | Agent | Industry Focus | Ease of Use | Integration Depth | Autonomy Level | Pricing | Best For |
 |-------|----------------|-------------|-------------------|----------------|---------|----------|
 | Amelia | Customer Service | Medium | Enterprise systems | High | Enterprise | Large-scale customer support |
 | Box AI Agents | Document Management | High | Box ecosystem | Medium | Contact sales | Enterprise document workflows |
 | Clay | Sales | High | CRM-focused | Medium | $100+/month | Sales prospecting, lead enrichment |
+| EVA | Enterprise Productivity | Medium | Business tools | Medium | Contact sales | Meeting scheduling, task automation |
 | Harvey AI | Legal | Medium | Legal tools | High | Enterprise | Contract review, legal research |
 | HubSpot Breeze | Marketing/Sales | High | HubSpot native | Medium | Included/Add-on | HubSpot users, marketing automation |
+| Interviewer.AI | Human Resources | Medium | HR platforms | Medium | Subscription | Candidate assessment, interview automation |
 | Julius | Data Analysis | Medium | Data tools | Medium | Freemium | Data visualization, analysis |
 | Kadoa | Web Scraping | Medium | Custom APIs | Medium | Contact sales | Data extraction, web monitoring |
 | Lindy | Personal/Workflow | High | Calendar/email | Medium | $20+/month | Personal automation, scheduling |
+| Louisa AI | Personal Productivity | High | Personal apps | Low-Medium | Subscription | Individual task management, scheduling |
 | Magic Loops | General Automation | High | 1000+ apps | Low-Medium | Freemium | No-code automation, workflows |
 | Monday.com AI | Project Management | High | Monday.com native | Medium | Add-on | Project teams, task management |
 | Moveworks | Enterprise IT | Medium | Enterprise tools | High | Enterprise | IT support, employee services |
 | MultiOn | Personal Assistant | High | Web browsers | Medium | Contact sales | Personal web tasks, bookings |
 | Notion AI | Productivity | High | Notion native | Low-Medium | $8+/month | Content creation, workspace |
+| Recrubo.ai | Recruitment | Medium | ATS systems | Medium | Subscription | Talent acquisition, hiring optimization |
 | Relevance AI | Enterprise Analytics | Medium | Business tools | High | Contact sales | Business intelligence, data analysis |
 | SalesCloser AI | Sales | Medium | CRM systems | High | Contact sales | Sales conversations, lead qualification |
 | ShopPal | E-commerce | High | Shopping sites | Medium | Contact sales | Personal shopping, deal finding |
