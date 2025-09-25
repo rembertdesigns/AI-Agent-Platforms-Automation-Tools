@@ -13,7 +13,7 @@ Discover the most comprehensive and up-to-date resource for autonomous AI agents
 | [🎯 Productivity & Vertical Agents](#-productivity-assistant--vertical-agents) | Domain-specific agents for industries and specialized use cases |
 | [🏢 Enterprise & Platform Solutions](#-enterprise-orchestration--platform) | Large-scale, enterprise-grade agent platforms and orchestration tools |
 | [⚡ Automation Tools & Workflow Builders](#-automation-tools--workflow-builders) | Platforms for automating workflows, integrating APIs, and orchestrating digital tasks |
-| [👁️ Agent Observability Tools](#agent-observability-tools) | Monitoring, debugging, and performance tracking tools for AI agents |
+| [👁️ Agent Observability Tools](#-agent-observability-tools) | Monitoring, debugging, and performance tracking tools for AI agents |
 | [🤖 AI Model Serving Platforms](#-ai-model-serving-platforms) | Infrastructure and platforms for deploying and serving AI models at scale |
 | [📚 Resources & Learning](#-resource-links--further-reading) | Research papers, tutorials, communities, and further reading materials |
 | [📄 License](#-license) | Usage terms and attribution requirements |
