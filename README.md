@@ -51,7 +51,7 @@ Found a broken link or outdated information? Please [open an issue](https://gith
 
 ## 🔧 General Autonomous Agents
 
-These frameworks and platforms provide general-purpose autonomous agent capabilities.
+These platforms and frameworks enable the development of AI agents that autonomously plan, reason, and execute complex, multi-step tasks with minimal human intervention. They combine adaptive learning, tool usage, memory, and decision-making capabilities to build versatile agents capable of operating in dynamic environments across diverse applications.
 
 | Name | Category | Description | Notable Features |
 |------|----------|-------------|------------------|
@@ -73,7 +73,7 @@ These frameworks and platforms provide general-purpose autonomous agent capabili
 
 ## 💻 Coding & Development Agents
 
-Specialized agents focused on software development, code generation, and engineering tasks.
+These AI agents specialize in automating software development tasks by autonomously generating, testing, debugging, and optimizing code. They seamlessly integrate with developer tools and workflows, enabling faster project delivery, improved code quality, and smarter engineering productivity through natural language instructions and autonomous decision making.
 
 | Name | Category | Description | Notable Features |
 |------|----------|-------------|------------------|
@@ -95,7 +95,7 @@ Specialized agents focused on software development, code generation, and enginee
 
 ## 🎯 Productivity, Assistant & Vertical Agents
 
-Domain-specific agents designed for particular industries or use cases.
+These AI agents are purpose-built for specific industries or workflows, delivering tailored automation, insights, and assistance. By understanding domain-specific contexts and data, they improve workflow efficiency and accuracy in areas such as customer service, sales, legal, marketing, and data analysis.
 
 | Name | Category | Description | Notable Features |
 |------|----------|-------------|------------------|
@@ -121,7 +121,7 @@ Domain-specific agents designed for particular industries or use cases.
 
 ## 🏢 Enterprise, Orchestration & Platform
 
-Large-scale, enterprise-grade agent platforms and orchestration tools.
+Enterprise-grade AI agent platforms deliver robust, scalable, and secure automation by autonomously coordinating complex workflows across business systems. These solutions integrate deeply with enterprise infrastructure like CRMs, ERPs, and communication tools to enable intelligent decision-making, real-time task execution, and seamless orchestration of multi-agent processes that improve operational efficiency and business agility.
 
 | Name | Category | Description | Notable Features |
 |------|----------|-------------|------------------|
