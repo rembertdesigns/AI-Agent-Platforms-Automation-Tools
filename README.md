@@ -3,6 +3,7 @@
 Discover the most comprehensive and up-to-date resource for autonomous AI agents, frameworks, and platforms. This community-powered directory showcases leading-edge agentic technologies—from task automation and workflow orchestration to next-generation digital employees—making it easy to track, compare, and select the right tools for both research and real-world deployment. Explore the rapidly evolving landscape of autonomous AI and stay at the forefront of this transformative field by finding, sharing, and contributing the latest developments and breakthroughs.
 
 ## 🚀 Quick Navigation
+
 | Section | Description |
 |---------|-------------|
 | [🌟 Introduction & Overview](#-introduction--overview) | Understanding AI agents and the evolving autonomous systems landscape |
@@ -12,6 +13,7 @@ Discover the most comprehensive and up-to-date resource for autonomous AI agents
 | [🎯 Productivity & Vertical Agents](#-productivity-assistant--vertical-agents) | Domain-specific agents for industries and specialized use cases |
 | [🏢 Enterprise & Platform Solutions](#-enterprise-orchestration--platform) | Large-scale, enterprise-grade agent platforms and orchestration tools |
 | [⚡ Automation Tools & Workflow Builders](#-automation-tools--workflow-builders) | Platforms for automating workflows, integrating APIs, and orchestrating digital tasks |
+| [👁️ Agent Observability Tools](#-agent-observability-tools) | Monitoring, debugging, and performance tracking tools for AI agents |
 | [📚 Resources & Learning](#-resource-links--further-reading) | Research papers, tutorials, communities, and further reading materials |
 | [📄 License](#-license) | Usage terms and attribution requirements |
 
@@ -370,6 +372,26 @@ Platforms for automating workflows, integrating APIs, and orchestrating digital 
 | Parabola | Medium | Medium | Yes |
 | Unio | Medium | High | Limited |
 
+## 👁️ Agent Observability Tools
+
+Monitoring, debugging, and performance tracking tools specifically designed for AI agents. These platforms help developers and organizations understand agent behavior, track performance metrics, identify bottlenecks, and ensure reliable autonomous system operation in production environments.
+
+| Name | Category | Description | Notable Features |
+|------|----------|-------------|------------------|
+| [AgentOps](https://agentops.ai) | Agent Monitoring | Comprehensive observability platform for AI agents | Session tracking, performance analytics, debugging tools |
+| [Arize AI](https://arize.com) | ML Observability | Machine learning and AI model monitoring platform | Drift detection, performance monitoring, explainability |
+| [CICube](https://cicube.io) | Agent Analytics | Analytics and monitoring solution for autonomous agents | Real-time metrics, behavior analysis, system health monitoring |
+| [Coval](https://coval.dev) | Agent Testing | Testing and evaluation framework for AI agents | Automated testing, performance benchmarks, reliability scoring |
+| [Crawl4AI](https://github.com/unclecode/crawl4ai) | Web Agent Monitoring | Specialized monitoring for web scraping and automation agents | Web interaction tracking, success rate monitoring, error analysis |
+| [Guardrails AI](https://guardrailsai.com) | Safety & Compliance | AI safety and compliance monitoring for agent systems | Safety guardrails, compliance tracking, risk assessment |
+| [Helicone](https://helicone.ai) | LLM Observability | Observability platform focused on language model agents | Token usage tracking, latency monitoring, cost analysis |
+| [Langfuse](https://langfuse.com) | Agent Tracing | Open-source observability for LLM-powered agents | Distributed tracing, prompt engineering, performance optimization |
+| [LangSmith](https://smith.langchain.com) | Development Tools | Development and debugging platform for language agents | Prompt optimization, agent debugging, performance testing |
+| [Log10](https://log10.io) | Agent Logging | Logging and monitoring solution for AI agent workflows | Comprehensive logging, search capabilities, audit trails |
+| [NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) | Safety Framework | NVIDIA's framework for building safe and reliable AI agents | Safety policies, content filtering, behavioral constraints |
+| [Screenpipe](https://github.com/mediar-ai/screenpipe) | Screen Monitoring | Monitoring tool for agents that interact with desktop applications | Screen activity tracking, automation verification, UI interaction monitoring |
+| [Temperstack](https://temperstack.com) | Agent Infrastructure | Infrastructure monitoring for AI agent deployments | Resource utilization, scaling metrics, deployment health |
+| [Wayfound AI](https://wayfound.ai) | Navigation Monitoring | Specialized monitoring for navigation and pathfinding agents | Route optimization tracking, decision analysis, performance metrics |
 ---
 
 ## 📚 Resource Links & Further Reading
