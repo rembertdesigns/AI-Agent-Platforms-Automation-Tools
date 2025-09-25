@@ -124,3 +124,26 @@ Large-scale, enterprise-grade agent platforms and orchestration tools.
 | [ServiceNow Creator Agents](https://www.servicenow.com/products/now-platform/now-assist.html) | Enterprise | Prebuilt and customizable enterprise workflow agents | ITSM integration, custom workflows, enterprise automation |
 | [Salesforce Einstein](https://www.salesforce.com/products/einstein/) | Enterprise | CRM and business process automation agents | Sales automation, customer insights, predictive analytics |
 | [HubSpot AI](https://www.hubspot.com/artificial-intelligence) | Enterprise | Marketing, sales, and service automation platform | Lead scoring, content generation, customer journey automation |
+
+---
+
+## 📚 Resource Links & Further Reading
+
+### Research Papers
+* [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629)
+* [Planning and Reasoning for Multi-Agent Systems](https://arxiv.org/abs/2310.08118)
+* [Tool Learning with Foundation Models](https://arxiv.org/abs/2304.08354)
+
+### Tutorials & Guides
+* [Building Your First AI Agent](https://example.com/guide)
+* [Multi-Agent Systems Best Practices](https://example.com/best-practices)
+* [Agent Orchestration Patterns](https://example.com/patterns)
+
+### Community Resources
+* [AI Agent Discord Community](https://discord.gg/aiagents)
+* [r/AIAgents Subreddit](https://reddit.com/r/aiagents)
+* [AI Agent Newsletter](https://example.com/newsletter)
+
+### Conferences & Events
+* [Agent AI Conference 2025](https://example.com/conference)
+* [Autonomous Systems Workshop](https://example.com/workshop)
