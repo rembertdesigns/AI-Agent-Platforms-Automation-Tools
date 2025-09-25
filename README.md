@@ -120,6 +120,49 @@ These AI agents specialize in automating software development tasks by autonomou
 | [Sweep](https://sweep.dev/) | Coding Agent | Code improvement and refactor agent | PR review, fixes, doc generation |
 | [Taxy AI](https://taxy.ai/) | Dev Tooling | API and web UI testing agent | Automated workflow and test agents |
 
+### 📊 Coding & Development Agents Comparison
+
+| Agent | Code Generation | IDE Integration | Language Support | Autonomy Level | Pricing | Best For |
+|-------|-----------------|-----------------|------------------|----------------|---------|----------|
+| AgentFlow | Limited | Custom | Multiple | Medium | Contact sales | Developer workflow automation |
+| Amazon CodeWhisperer | High | VS Code, JetBrains | 15+ languages | Low | Free/Pro $19/mo | AWS ecosystem development |
+| Claude Code | High | CLI/Terminal | 20+ languages | High | Paid | Complex project automation |
+| Copilot Studio | Medium | Visual interface | Limited | Medium | Contact sales | Low-code agent building |
+| Devin | Very High | Web interface | Multiple | Very High | Paid | Full autonomous development |
+| Devika | High | Local setup | Multiple | High | Open source | Project generation from scratch |
+| GitHub Copilot | High | All major IDEs | 12+ languages | Low-Medium | $10-19/mo | Code completion, pair programming |
+| GPT Engineer | High | Command line | Multiple | Medium | Open source | Rapid prototyping, scaffolding |
+| OpenDevin | High | Local/web | Multiple | High | Open source | Privacy-focused development |
+| Replit Agent | High | Replit IDE | Multiple | Medium-High | Freemium | Full-stack web development |
+| SWE Agent | Medium | GitHub integration | Multiple | Medium | Open source | Issue resolution, maintenance |
+| Sweep | Medium | GitHub integration | Multiple | Medium | $120+/mo | Code review automation |
+| Taxy AI | Limited | Browser-based | JavaScript/Web | Medium | Contact sales | API/UI testing automation |
+
+### 🎯 Development Use Case Guide
+
+| Development Need | Recommended Agents | Why |
+|------------------|-------------------|-----|
+| **Code Completion** | GitHub Copilot, CodeWhisperer | Real-time suggestions, IDE integration |
+| **Full Project Creation** | Devin, Devika, GPT Engineer | End-to-end project generation |
+| **Code Review & Refactoring** | Sweep, SWE Agent | Automated PR reviews, issue fixing |
+| **Rapid Prototyping** | Replit Agent, GPT Engineer | Fast iteration, immediate deployment |
+| **Enterprise Security** | CodeWhisperer, GitHub Copilot Enterprise | Security scanning, compliance features |
+| **Open Source/Privacy** | OpenDevin, Devika, GPT Engineer | Local deployment, data control |
+| **Testing & QA** | Taxy AI, Sweep | Automated testing workflows |
+
+### 🔧 Technical Requirements
+
+| Agent | Setup Complexity | Team Collaboration |
+|-------|------------------|-------------------|
+| GitHub Copilot | Low | Yes |
+| Devin | Low | Yes |
+| CodeWhisperer | Low | Yes |
+| Replit Agent | Low | Yes |
+| GPT Engineer | Medium | Limited |
+| OpenDevin | Medium | Limited |
+| Devika | High | No |
+| SWE Agent | Medium | Yes |
+
 ---
 
 ## 🎯 Productivity, Assistant & Vertical Agents
