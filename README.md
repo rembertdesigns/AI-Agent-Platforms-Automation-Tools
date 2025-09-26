@@ -1111,6 +1111,49 @@ AI agents specialized in sales automation, lead generation, and revenue optimiza
 | [Vengo AI](https://vengo.ai) | Sales Engagement | AI platform for advanced sales engagement and interaction | Advanced engagement, interaction optimization, relationship building |
 | [Virtuans AI](https://virtuans.ai) | Virtual Sales | AI platform for virtual sales experiences and digital selling | Virtual demonstrations, digital sales rooms, remote selling |
 
+### 📊 Sales AI Agents Comparison
+
+| Platform | Category | Primary Focus | Deployment | Pricing | Best For |
+|----------|----------|---------------|------------|---------|----------|
+| 11x AI | Sales Automation | SDR automation | Cloud | Usage-based | Automated outbound sales |
+| Agently | Sales Assistant | Customer interactions | Cloud | Subscription | Sales team coaching |
+| AgentsLed | Lead Generation | Lead qualification | Cloud | Contact sales | Lead generation teams |
+| AI Lead Agent | Lead Management | Lead nurturing | Cloud | Subscription | Small to medium businesses |
+| AiSDR | Sales Development | Outbound sales | Cloud | Usage-based | Sales development teams |
+| Alora AI | Sales Intelligence | Market insights | Cloud | Enterprise | Strategic sales planning |
+| Amplemarket AI | Sales Platform | Multi-channel outreach | Cloud | Subscription | Modern sales teams |
+| Aomni | Sales Research | Account intelligence | Cloud | Subscription | Enterprise account research |
+| Artisan | Sales Automation | Process automation | Cloud | Contact sales | Workflow optimization |
+| B2B Rocket | B2B Sales | Sales acceleration | Cloud | Subscription | B2B sales teams |
+| Cara AI | Sales Analytics | Performance optimization | Cloud | Enterprise | Sales performance analysis |
+| Cust AI | Customer Intelligence | Customer insights | Cloud | Contact sales | Customer-centric organizations |
+| Cynthia AI | Sales Assistant | CRM automation | Cloud | Subscription | CRM-focused sales teams |
+| Jazon | Sales Automation | Revenue optimization | Cloud | Enterprise | Revenue-focused organizations |
+| Jummbo | Sales Enablement | Training and coaching | Cloud | Subscription | Sales training programs |
+| MagicSales.AI | Sales Magic | Conversion optimization | Cloud | Contact sales | E-commerce and online sales |
+| Myestro AI | Sales Orchestra | Complex sales processes | Cloud | Enterprise | Enterprise sales organizations |
+| OneShot AI | Sales Optimization | Deal closing | Cloud | Contact sales | High-value deal closers |
+| OnRise AI | Sales Growth | Scaling strategies | Cloud | Enterprise | Growing sales organizations |
+| Origami Agents | Sales Transformation | Process modernization | Cloud | Enterprise | Digital transformation teams |
+| Rashed by Teammates.ai | Team Sales | Collaboration | Cloud | Subscription | Collaborative sales teams |
+| Rep AI | Sales Representative | Customer service | Cloud | Freemium | E-commerce customer support |
+| RITA | Sales Intelligence | Real-time insights | Cloud | Contact sales | Dynamic pricing environments |
+| SalesAPE.ai | Sales Acceleration | Performance enhancement | Cloud | Subscription | Performance-driven teams |
+| Salesloft | Sales Engagement | Engagement automation | Cloud | Subscription | Sales engagement optimization |
+| Sales Machines AI | Sales Automation | Consistent processes | Cloud | Enterprise | Scalable sales operations |
+| Salezilla | Sales Domination | Market leadership | Cloud | Contact sales | Competitive market environments |
+| SDRx | SDR Automation | Prospecting automation | Cloud | Usage-based | SDR teams and lead generation |
+| SignalHero | Sales Signals | Opportunity identification | Cloud | Subscription | Timing-sensitive sales |
+| Solda AI | Sales Optimization | Revenue maximization | Cloud | Enterprise | Profit optimization focused |
+| Sparkbase | Sales Acceleration | Growth hacking | Cloud | Contact sales | Rapid growth companies |
+| Tailo AI | Tailored Sales | Personalization | Cloud | Subscription | Personalized sales approaches |
+| Terri | Sales Territory | Territory management | Cloud | Subscription | Geographic sales teams |
+| tl;dv AI Agent for Meetings | Meeting Intelligence | Meeting insights | Cloud | Freemium | Meeting-heavy sales processes |
+| Topo.io | Sales Operations | Process optimization | Cloud | Enterprise | Sales operations teams |
+| Unify | Sales Unification | Data integration | Cloud | Enterprise | Multi-system sales environments |
+| Vengo AI | Sales Engagement | Advanced interaction | Cloud | Contact sales | Relationship-focused sales |
+| Virtuans AI | Virtual Sales | Digital selling | Cloud | Subscription | Remote sales teams |
+
 ---
 
 ## ₿ Crypto AI Agents
