@@ -333,6 +333,14 @@ Development libraries, SDKs, and frameworks for building AI agents. These tools 
 ---
 
 ## 🛠️ AI Agent Development Frameworks
+<img 
+  width="1584" 
+  height="396" 
+  alt="AI Agent Development Frameworks - Comprehensive frameworks, libraries, and development tools for building, training, and deploying AI agents" 
+  title="AI Agent Development Frameworks: Agent Building Libraries & Development Tools"
+  src="https://github.com/user-attachments/assets/5292da0e-1d29-4bc7-bad4-322fe9b7ca14"
+  loading="lazy"
+/>
 
 Comprehensive frameworks, libraries, and development tools designed specifically for building, training, and deploying AI agents. These platforms provide the foundational infrastructure, APIs, and development environments needed to create sophisticated AI agent systems.
 
@@ -2575,6 +2583,14 @@ AI agents designed to function as virtual employees, automating complex business
 ---
 
 ## 🤖 AI Robotics
+<img 
+  width="1584" 
+  height="396" 
+  alt="AI Robotics - AI-powered robotics systems for autonomous vehicles, manufacturing automation, and intelligent physical world interaction" 
+  title="AI Robotics: Intelligent Robotics Systems & Autonomous Vehicle Platforms"
+  src="https://github.com/user-attachments/assets/486ec6aa-6c57-40d1-a34c-440d46b4a322"
+  loading="lazy"
+/>
 
 AI agents integrated with robotics systems to enable autonomous operation in the physical world. These platforms combine artificial intelligence with robotic hardware for applications in autonomous vehicles, manufacturing automation, service robots, and intelligent physical interaction systems.
 
