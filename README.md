@@ -733,6 +733,66 @@ AI agents specialized in marketing automation, campaign management, and growth o
 | [UFOstart](https://ufostart.com) | Startup Marketing | AI marketing platform specialized for startup growth | Startup marketing, growth hacking, early-stage optimization |
 | [Yala](https://yala.ai) | Social Media Management | AI-powered social media management and optimization platform | Social automation, content optimization, engagement analytics |
 
+### 📊 Marketing AI Agents Comparison
+
+| Platform | Marketing Focus | Primary Function | Deployment | Team Features | Pricing | Best For |
+|----------|----------------|------------------|------------|---------------|---------|----------|
+| Ability AI | Marketing Automation | Campaign optimization | Cloud | Yes | Contact sales | Multi-channel automation |
+| Agent WordLift | SEO Marketing | Semantic optimization | Cloud | Basic | Subscription | Content SEO |
+| Agents Base | Marketing Platform | Comprehensive marketing | Cloud | Enterprise | Contact sales | Full-service marketing |
+| AI Brand Monitoring | Brand Intelligence | Reputation management | Cloud | Yes | Contact sales | Brand protection |
+| Akira AI | Competitive Intelligence | Market analysis | Cloud | Team features | Contact sales | Competitive research |
+| Audience Analysis AI | Audience Intelligence | Segmentation analysis | Cloud | Yes | Contact sales | Audience insights |
+| BacklinkBot | SEO Automation | Link building | Cloud | Basic | Subscription | SEO automation |
+| Beno AI | Marketing Assistant | Campaign management | Cloud | Basic | Contact sales | Marketing support |
+| BillyBuzz | Buzz Marketing | Viral content | Cloud | Limited | Contact sales | Viral marketing |
+| Buildform | Form Optimization | Conversion optimization | Cloud | Basic | Freemium | Lead generation |
+| ClosersCopy | Sales Copy | High-converting copy | Cloud | Basic | Subscription | Sales copywriting |
+| Competely AI | Competitive Analysis | Market research | Cloud | Team features | Contact sales | Competitor analysis |
+| CopyMonkey | E-commerce Copy | Amazon optimization | Cloud | Basic | Subscription | E-commerce listings |
+| CustomerFinderBot | Lead Generation | Prospect discovery | Cloud | Basic | Contact sales | Lead automation |
+| Customers.ai | Customer Intelligence | Lifecycle management | Cloud | Enterprise | Contact sales | Customer analytics |
+| Dental Genius | Dental Marketing | Practice marketing | Cloud | Basic | Subscription | Dental practices |
+| Dydas | Marketing Analytics | Performance tracking | Cloud | Yes | Contact sales | Campaign analytics |
+| Email AI Extractor | Email Marketing | List building | Cloud | Basic | Contact sales | Email extraction |
+| Fanalytics | Fan Analytics | Community analysis | Cloud | Yes | Contact sales | Fan engagement |
+| FB Group AI Extractor | Social Media Mining | Data extraction | Cloud | Basic | Contact sales | Social mining |
+| Flowsend | Email Automation | Email sequences | Cloud | Yes | Contact sales | Email marketing |
+| groas | E-commerce Analytics | Shopping insights | Cloud | Yes | Contact sales | E-commerce optimization |
+| Halion AI | Marketing Intelligence | Campaign automation | Cloud | Enterprise | Contact sales | Marketing intelligence |
+| HarvestLeads | Lead Generation | Lead qualification | Cloud | CRM integration | Contact sales | B2B lead generation |
+| Humanic AI | Customer Experience | Experience optimization | Cloud | Enterprise | Contact sales | CX personalization |
+| Icon AI | Visual Marketing | Design automation | Cloud | Basic | Contact sales | Visual content |
+| Jacquard | Dynamic Content | Content personalization | Cloud | Enterprise | Enterprise | Dynamic messaging |
+| Kathy | Competitor Intelligence | Competitive analysis | Cloud | Yes | Contact sales | Competitor tracking |
+| Klaviyo | Email & SMS Marketing | Behavioral targeting | Cloud | Enterprise | Subscription | E-commerce marketing |
+| kwrds.ai | Keyword Research | SEO optimization | Cloud | Basic | Subscription | Keyword analysis |
+| LangChain Social Media Agent | Social Automation | Social management | Cloud | Limited | Contact sales | Social media automation |
+| ListingBott | Listing Optimization | Product listings | Cloud | Basic | Contact sales | Marketplace optimization |
+| Marxx AI | Marketing Automation | Multi-channel campaigns | Cloud | Enterprise | Contact sales | Comprehensive automation |
+| Maxwell AI | Marketing Intelligence | Strategic insights | Cloud | Team features | Contact sales | Marketing strategy |
+| Mentio | Brand Monitoring | Social listening | Cloud | Yes | Contact sales | Brand tracking |
+| Morph AI | Marketing Transformation | Process optimization | Cloud | Enterprise | Contact sales | Marketing evolution |
+| NinjaCat AI Agents | Marketing Analytics | Performance reporting | Cloud | Enterprise | Contact sales | Analytics automation |
+| Notus | Notification Marketing | Smart messaging | Cloud | Yes | Contact sales | Notification optimization |
+| Opencord AI | Community Marketing | Community management | Cloud | Yes | Contact sales | Community engagement |
+| Persado | Message Optimization | Emotional targeting | Cloud | Enterprise | Enterprise | Message personalization |
+| Promarkia | Marketing Automation | Professional campaigns | Cloud | Enterprise | Contact sales | B2B marketing |
+| Qeen AI | Marketing Assistant | Campaign optimization | Cloud | Basic | Contact sales | Marketing assistance |
+| Quso AI | Marketing Intelligence | Strategic analysis | Cloud | Team features | Contact sales | Market intelligence |
+| ReachifyMe | Outreach Automation | Lead engagement | Cloud | CRM integration | Contact sales | Outreach campaigns |
+| ReplyGuy | Social Engagement | Automated replies | Cloud | Basic | Contact sales | Social automation |
+| SEO AI Bot | SEO Automation | Ranking optimization | Cloud | Basic | Subscription | SEO automation |
+| SEO Core AI | SEO Management | Comprehensive SEO | Cloud | Team features | Subscription | SEO strategy |
+| SEObotAI | SEO Assistant | Website optimization | Cloud | Basic | Freemium | SEO analysis |
+| Skail | Email Marketing | Deliverability optimization | Cloud | Yes | Contact sales | Email deliverability |
+| Strata Insights | Marketing Insights | Advanced analytics | Cloud | Enterprise | Contact sales | Marketing intelligence |
+| Surge AI | Growth Marketing | User acquisition | Cloud | Yes | Contact sales | Growth optimization |
+| Twitter Personality Agent | Twitter Marketing | Personality analysis | Cloud | Basic | Contact sales | Twitter insights |
+| TwitterCopilot | Twitter Automation | Content management | Cloud | Basic | Subscription | Twitter automation |
+| UFOstart | Startup Marketing | Growth hacking | Cloud | Basic | Contact sales | Startup growth |
+| Yala | Social Media Management | Social optimization | Cloud | Team features | Subscription | Social media management |
+
 ---
 
 ## ₿ Crypto AI Agents
