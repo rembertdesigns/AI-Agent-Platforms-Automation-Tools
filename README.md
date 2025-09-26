@@ -1861,6 +1861,45 @@ AI agents specialized in sales automation, lead generation, and revenue optimiza
 
 ---
 
+## 🤵 Virtual Worker AI Agents
+
+AI agents designed to function as virtual employees, automating complex business processes and augmenting human workforces. These platforms enable organizations to deploy AI workers that can handle routine tasks, execute multi-step workflows, and integrate seamlessly into existing business operations.
+
+| Name | Category | Description | Notable Features |
+|------|----------|-------------|------------------|
+| [Ace by General Agents](https://ace.generalagents.com/) | Virtual Worker | AI-powered virtual employee platform for business process automation | Multi-task execution, workflow integration |
+| [ActionAgents](https://actionagents.ai/) | Virtual Worker | Autonomous agents for executing business actions and workflows | Action-based automation, business process optimization |
+| [Anthropic's Claude Computer Use](https://www.anthropic.com/news/developing-computer-use) | Virtual Worker | AI assistant capable of controlling computers and executing digital tasks | Screen interaction, application control, task automation |
+| [Avaamo](https://avaamo.ai/) | Virtual Worker | Conversational AI platform for enterprise virtual assistants | Enterprise integration, conversational workflows |
+| [BrowseGPT](https://browsegpt.ai/) | Virtual Worker | AI agent for automating web browsing and online tasks | Web automation, browser control, online task execution |
+| [Cleric](https://cleric.ai/) | Virtual Worker | AI-powered virtual assistant for business process automation | Document processing, workflow automation |
+| [Convergence Proxy](https://convergenceproxy.com/) | Virtual Worker | AI proxy service for automated task execution and workflow management | Proxy automation, task delegation |
+| [Cykel AI](https://cykel.ai/) | Virtual Worker | AI-powered virtual worker for business process automation | Process automation, virtual employee capabilities |
+| [DoozerAI](https://doozer.ai/) | Virtual Worker | AI worker platform for automating repetitive business tasks | Task automation, workflow optimization |
+| [Globus Agent](https://globus.agent/) | Virtual Worker | AI agent platform for enterprise process automation | Enterprise integration, global workflow management |
+| [HotelHero.ai](https://hotelhero.ai/) | Virtual Worker | AI-powered virtual concierge and hospitality automation platform | Hospitality automation, guest services |
+| [Hugging Face Open Computer](https://huggingface.co/spaces/HuggingFaceH4/open_computer_use) | Virtual Worker | Open-source computer use AI agent for desktop automation | Open-source, desktop control, task automation |
+| [JACE AI](https://jace.ai/) | Virtual Worker | AI-powered virtual assistant for business process execution | Business automation, virtual assistant capabilities |
+| [Jumbo Mana](https://jumbomana.com/) | Virtual Worker | AI workforce platform for scaling business operations | Workforce scaling, operational automation |
+| [Klyr](https://klyr.ai/) | Virtual Worker | AI-powered virtual employee platform for business automation | Virtual employee management, business process automation |
+| [Kwal](https://kwal.ai/) | Virtual Worker | AI agent platform for automating knowledge work and business processes | Knowledge automation, process optimization |
+| [Manus](https://manus.ai/) | Virtual Worker | AI-powered virtual workforce for business process automation | Virtual workforce management, process execution |
+| [Marcus](https://marcus.ai/) | Virtual Worker | AI assistant platform for business process automation and virtual work | Business automation, virtual work capabilities |
+| [Nova Act](https://nova-act.com/) | Virtual Worker | AI-powered virtual assistant for business process automation | Process automation, virtual assistant integration |
+| [One Click Store](https://oneclickstore.ai/) | Virtual Worker | AI-powered e-commerce automation and virtual store management | E-commerce automation, store management |
+| [OpenAI Operator](https://openai.com/operator/) | Virtual Worker | AI agent for computer use and task automation | Computer control, task execution, workflow automation |
+| [OpenOperator](https://openoperator.ai/) | Virtual Worker | Open-source AI operator for automating digital tasks and workflows | Open-source automation, digital task execution |
+| [Project Mariner](https://blog.google/technology/google-deepmind/project-mariner/) | Virtual Worker | Google's experimental AI agent for web navigation and task automation | Web navigation, browser automation, experimental AI |
+| [Querix](https://querix.ai/) | Virtual Worker | AI-powered virtual worker platform for business process automation | Virtual worker deployment, process automation |
+| [Raya by Teammates.ai](https://teammates.ai/raya) | Virtual Worker | AI-powered virtual teammate for collaborative work and process automation | Team collaboration, virtual teammate integration |
+| [Roo Code](https://roo.code/) | Virtual Worker | AI-powered coding assistant and virtual developer | Code automation, development assistance |
+| [Sintra AI](https://sintra.ai/) | Virtual Worker | AI-powered virtual employee platform for business automation | Virtual employee management, business automation |
+| [Suna by Kortix AI](https://kortix.ai/suna) | Virtual Worker | AI-powered virtual assistant for business process optimization | Process optimization, virtual assistant capabilities |
+| [Tally AI](https://tally.ai/) | Virtual Worker | AI-powered virtual worker for data processing and business automation | Data automation, business process execution |
+| [TeamX](https://teamx.ai/) | Virtual Worker | AI-powered virtual team platform for collaborative work automation | Virtual team management, collaborative automation |
+
+---
+
 ## ₿ Crypto AI Agents
 <img 
   width="1584" 
