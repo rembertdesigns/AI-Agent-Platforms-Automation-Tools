@@ -9,6 +9,7 @@ Discover the most comprehensive and up-to-date resource for autonomous AI agents
 | [🤝 How to Contribute](#-how-to-contribute) | Community guidelines for adding agents and improving the resource |
 | [🔧 General Autonomous Agents](#-general-autonomous-agents) | Multi-purpose frameworks and platforms for general agent development |
 | [💻 Coding & Development Agents](#-coding--development-agents) | Specialized agents for software development, code generation, and engineering |
+| [📚 Coding Libraries & SDKs](#-coding-libraries--sdks) | Development libraries, SDKs, and frameworks for building AI agents |
 | [🧪 Software Testing (QA) Agents](#-software-testing-qa-agents) | AI agents specialized in automated testing, quality assurance, and bug detection |
 | [🎯 Productivity & Business Agents](#-productivity--business-agents) | Workflow, CRM, sales, HR, and general business automation agents |
 | [🏢 Enterprise & Platform Solutions](#-enterprise-orchestration--platform) | Large-scale, enterprise-grade agent platforms and orchestration tools |
