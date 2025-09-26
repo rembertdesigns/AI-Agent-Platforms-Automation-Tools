@@ -1864,6 +1864,156 @@ AI agents specialized in sales automation, lead generation, and revenue optimiza
 
 ---
 
+## 🎧 Customer Service AI Agents
+
+AI agents designed to enhance customer service operations through automated support, intelligent chatbots, and comprehensive service delivery platforms. These tools help businesses provide 24/7 customer support, resolve queries efficiently, and improve overall customer satisfaction.
+
+| Name | Category | Description | Notable Features |
+|------|----------|-------------|------------------|
+| [Ada](https://ada.cx/) | Customer Support | AI-powered customer service platform for automated support and resolution | Automated resolution, conversation AI, multi-channel support |
+| [Agentforce Service Agent](https://salesforce.com/products/agentforce/) | Enterprise Support | Salesforce's AI agent for customer service automation and case management | CRM integration, case automation, enterprise-grade support |
+| [Air AI](https://air.ai/) | Voice Support | AI-powered voice agent for phone-based customer service | Voice interaction, phone support, conversational AI |
+| [Amelia AI](https://amelia.ai/) | Enterprise Support | Conversational AI platform for enterprise customer service automation | Enterprise integration, intelligent automation, omnichannel support |
+| [Ascendo AI](https://ascendo.ai/) | Customer Support | AI customer service platform for automated support and engagement | Customer engagement, automated support, service optimization |
+| [Auralis AI](https://auralis.ai/) | Customer Support | AI-powered customer service platform for support automation | Support automation, customer interaction, service delivery |
+| [Autonomous HR Chatbot](https://autonomoushr.com/) | HR Support | AI chatbot for human resources and employee support services | HR automation, employee support, internal service delivery |
+| [AutoNurture AI](https://autonurture.ai/) | Customer Engagement | AI platform for automated customer nurturing and engagement | Customer nurturing, engagement automation, relationship management |
+| [Boost.ai](https://boost.ai/) | Conversational AI | AI-powered chatbot platform for customer service and support | Conversational AI, chatbot development, customer interaction |
+| [CallZero AI](https://callzero.ai/) | Call Center | AI platform for call center automation and customer service optimization | Call center automation, voice analytics, customer service optimization |
+| [Canvas AI](https://canvas.ai/) | Customer Support | AI-powered customer service canvas for support workflow automation | Workflow automation, support canvas, customer service optimization |
+| [Chat Whisperer](https://chatwhisperer.com/) | Chat Support | AI platform for chat-based customer support and conversation management | Chat automation, conversation management, customer support |
+| [ChatBot.com](https://chatbot.com/) | Chatbot Platform | Comprehensive chatbot platform for customer service automation | Chatbot builder, customer service automation, multi-channel support |
+| [CloseBot.ai](https://closebot.ai/) | Sales Support | AI bot for sales support and customer engagement automation | Sales automation, customer engagement, lead conversion |
+| [Conveyor AI](https://conveyor.ai/) | Customer Support | AI platform for customer support automation and service delivery | Support automation, service delivery, customer interaction |
+| [CoSupport AI](https://cosupport.ai/) | Customer Support | AI-powered co-pilot for customer support teams and service enhancement | Support co-pilot, team assistance, service enhancement |
+| [Decagon](https://decagon.ai/) | Customer Support | AI platform for customer support automation and query resolution | Query resolution, support automation, customer service |
+| [Dori Chatbot](https://dori.ai/) | Chatbot | AI chatbot for customer service and support automation | Chatbot automation, customer service, support delivery |
+| [Droxy AI](https://droxy.ai/) | Customer Support | AI platform for customer support and service automation | Support automation, customer interaction, service delivery |
+| [Duckie.ai](https://duckie.ai/) | Customer Support | AI-powered customer support platform for automated assistance | Automated assistance, customer support, service optimization |
+| [Echo AI](https://echo.ai/) | Voice Support | AI voice platform for customer service and voice-based support | Voice support, conversational AI, customer interaction |
+| [Effie](https://effie.ai/) | Customer Support | AI assistant for customer support and service automation | Support assistance, customer service, automation platform |
+| [Espressive](https://espressive.com/) | IT Support | AI platform for IT service desk and employee support automation | IT support automation, service desk, employee assistance |
+| [EveryAnswer](https://everyanswer.com/) | Knowledge Base | AI-powered knowledge base and customer support platform | Knowledge management, customer support, information delivery |
+| [Forethought AI](https://forethought.ai/) | Customer Support | AI platform for customer support automation and deflection | Support automation, ticket deflection, customer service optimization |
+| [Helpcare AI](https://helpcare.ai/) | Healthcare Support | AI platform for healthcare customer support and patient assistance | Healthcare support, patient assistance, medical service delivery |
+| [HumAIns](https://humains.ai/) | Customer Support | AI-powered human-like customer service agents | Human-like interaction, customer service, AI agents |
+| [interface.ai](https://interface.ai/) | Conversational AI | AI platform for conversational customer service and support automation | Conversational interface, customer service, support automation |
+| [Jotform AI Agents](https://jotform.com/ai/) | Form Support | AI agents for form-based customer support and data collection | Form automation, customer support, data collection |
+| [Kaia's Team](https://kaia.ai/) | Customer Support | AI team platform for customer support and service delivery | Team automation, customer support, service coordination |
+| [kapa.ai](https://kapa.ai/) | Technical Support | AI platform for technical documentation and developer support | Technical support, documentation, developer assistance |
+| [Leaping AI](https://leaping.ai/) | Customer Support | AI platform for customer support automation and engagement | Support automation, customer engagement, service delivery |
+| [LiveAgent](https://liveagent.com/) | Help Desk | Comprehensive help desk platform with AI-powered customer support | Help desk automation, customer support, ticketing system |
+| [Meya AI](https://meya.ai/) | Conversational AI | AI platform for building conversational customer service experiences | Conversational platform, customer service, chatbot development |
+| [Narrot](https://narrot.ai/) | Customer Support | AI-powered customer support platform for automated assistance | Support automation, customer assistance, service delivery |
+| [NewOaks AI](https://newoaks.ai/) | Customer Support | AI platform for customer support and service automation | Support automation, customer service, AI assistance |
+| [Nuqualis](https://nuqualis.com/) | Quality Assurance | AI platform for customer service quality assurance and monitoring | Quality monitoring, service assurance, performance tracking |
+| [Outverse](https://outverse.com/) | Customer Engagement | AI platform for customer engagement and community support | Customer engagement, community support, interaction automation |
+| [Parahelp](https://parahelp.ai/) | Customer Support | AI assistant for customer support and help desk automation | Support assistance, help desk automation, customer service |
+| [Periscope Chat](https://periscope.chat/) | Chat Support | AI-powered chat platform for customer support and engagement | Chat automation, customer support, engagement platform |
+| [Phoenix AI Assistant](https://phoenix.ai/) | Customer Support | AI assistant platform for customer support and service automation | Support automation, customer assistance, service delivery |
+| [PrimeCX](https://primecx.com/) | Customer Experience | AI platform for customer experience optimization and support | Customer experience, support optimization, service enhancement |
+| [Reef.ai](https://reef.ai/) | Customer Support | AI platform for customer support automation and service delivery | Support automation, customer service, AI assistance |
+| [Regal AI Phone Agent](https://regal.io/) | Phone Support | AI phone agent for customer service and sales support | Phone automation, customer service, sales support |
+| [Requesty](https://requesty.com/) | Customer Support | AI platform for customer request management and support automation | Request management, support automation, customer service |
+| [ResponseCX](https://responsecx.com/) | Customer Experience | AI platform for customer experience management and support | Customer experience, support management, service optimization |
+| [Ringly.io](https://ringly.io/) | Communication | AI platform for customer communication and engagement automation | Communication automation, customer engagement, interaction management |
+| [Sendbird AI Agent](https://sendbird.com/) | Messaging Support | AI agent for in-app messaging and customer support | Messaging automation, in-app support, customer communication |
+| [ShowAndTell AI](https://showandtell.ai/) | Visual Support | AI platform for visual customer support and demonstration | Visual support, demonstration automation, customer assistance |
+| [Siena AI CX](https://siena.ai/) | Customer Experience | AI platform for customer experience automation and support | Customer experience automation, support optimization, service delivery |
+| [Sierra AI](https://sierra.ai/) | Customer Support | AI platform for conversational customer support and service automation | Conversational support, customer service, automation platform |
+| [SiteGPT](https://sitegpt.ai/) | Website Support | AI chatbot for website customer support and visitor assistance | Website support, visitor assistance, chatbot automation |
+| [Skydis](https://skydis.com/) | Customer Support | AI platform for customer support and service delivery automation | Support automation, customer service, service delivery |
+| [Taalk](https://taalk.co/) | Conversational AI | AI platform for conversational customer support and engagement | Conversational support, customer engagement, AI interaction |
+| [telli](https://telli.ai/) | Customer Support | AI platform for customer support automation and assistance | Support automation, customer assistance, service delivery |
+| [Thinkstack AI](https://thinkstack.ai/) | Customer Support | AI platform for customer support and service automation | Support automation, customer service, AI assistance |
+| [Thynk Forward](https://thynkforward.com/) | Customer Support | AI platform for forward-thinking customer support and service | Advanced support, customer service, innovation platform |
+| [Tidio](https://tidio.com/) | Live Chat | AI-powered live chat platform for customer support and engagement | Live chat automation, customer support, engagement platform |
+| [Tidio Copilot](https://tidio.com/copilot/) | Chat Assistant | AI copilot for chat-based customer support and assistance | Chat assistance, support copilot, customer service |
+| [Twig](https://twig.so/) | Customer Support | AI platform for customer support and service automation | Support automation, customer service, AI assistance |
+| [Twilio AI Assistants](https://twilio.com/) | Communication Support | Twilio's AI assistants for customer communication and support automation | Communication automation, customer support, messaging platform |
+| [Verify AI](https://verify.ai/) | Verification Support | AI platform for customer verification and identity support services | Identity verification, customer support, security automation |
+| [Visito](https://visito.ai/) | Visitor Support | AI platform for website visitor support and engagement | Visitor support, website engagement, customer assistance |
+| [VoiceSpin](https://voicespin.com/) | Voice Support | AI platform for voice-based customer support and call automation | Voice support, call automation, customer service |
+| [Webex AI Agents](https://webex.com/) | Enterprise Support | Cisco Webex AI agents for enterprise customer support and collaboration | Enterprise support, collaboration automation, customer service |
+| [Webio](https://webio.ai/) | Conversational AI | AI platform for conversational customer engagement and support | Conversational engagement, customer support, AI interaction |
+| [Wizy.Pro](https://wizy.pro/) | Customer Support | AI platform for professional customer support and service automation | Professional support, customer service, automation platform |
+| [Zowie AI](https://zowie.ai/) | E-commerce Support | AI platform for e-commerce customer support and service automation | E-commerce support, customer service, retail automation |
+
+### 📊 Customer Service AI Agents Comparison
+
+| Agent | Ease of Use | Channel Support | Technical Setup | Deployment | Pricing | Best For |
+|-------|-------------|-----------------|-----------------|------------|---------|----------|
+| Ada | High | Multi-channel | No-code platform | Cloud | Enterprise | Automated resolution, conversation AI |
+| Agentforce Service Agent | Medium | Multi-channel | Salesforce integration | Cloud | Enterprise | CRM-integrated support, case management |
+| Air AI | Medium | Voice only | API integration | Cloud | Paid | Phone-based customer service |
+| Amelia AI | Medium | Multi-channel | Enterprise setup | Cloud/On-premise | Enterprise | Large-scale enterprise support |
+| Ascendo AI | High | Multi-channel | Platform setup | Cloud | Paid | Customer engagement automation |
+| Auralis AI | High | Multi-channel | Platform setup | Cloud | Paid | Support automation, service delivery |
+| Autonomous HR Chatbot | Medium | Chat/Web | Platform setup | Cloud | Paid | HR support, employee services |
+| AutoNurture AI | High | Multi-channel | Platform setup | Cloud | Paid | Customer nurturing, engagement |
+| Boost.ai | High | Chat/Web | No-code platform | Cloud | Freemium | Chatbot development, conversation AI |
+| CallZero AI | Medium | Voice only | Platform setup | Cloud | Paid | Call center automation, voice analytics |
+| Canvas AI | Medium | Multi-channel | Platform setup | Cloud | Paid | Workflow automation, support canvas |
+| Chat Whisperer | High | Chat only | Platform setup | Cloud | Paid | Chat automation, conversation management |
+| ChatBot.com | High | Multi-channel | No-code platform | Cloud | Freemium | Chatbot builder, multi-channel support |
+| CloseBot.ai | Medium | Chat/Web | Platform setup | Cloud | Paid | Sales support, lead conversion |
+| Conveyor AI | High | Multi-channel | Platform setup | Cloud | Paid | Support automation, service delivery |
+| CoSupport AI | Medium | Multi-channel | Team integration | Cloud | Paid | Support team assistance, co-pilot |
+| Decagon | Medium | Multi-channel | Platform setup | Cloud | Paid | Query resolution, support automation |
+| Dori Chatbot | High | Chat/Web | Platform setup | Cloud | Paid | Chatbot automation, customer service |
+| Droxy AI | High | Multi-channel | Platform setup | Cloud | Paid | Support automation, customer interaction |
+| Duckie.ai | High | Multi-channel | Platform setup | Cloud | Paid | Automated assistance, support optimization |
+| Echo AI | Medium | Voice only | API integration | Cloud | Paid | Voice support, conversational AI |
+| Effie | High | Multi-channel | Platform setup | Cloud | Paid | Support assistance, automation |
+| Espressive | Medium | IT/Internal | Enterprise setup | Cloud/On-premise | Enterprise | IT service desk, employee support |
+| EveryAnswer | High | Web/Knowledge | Platform setup | Cloud | Paid | Knowledge management, information delivery |
+| Forethought AI | Medium | Multi-channel | Platform integration | Cloud | Enterprise | Support automation, ticket deflection |
+| Helpcare AI | Medium | Healthcare | Industry setup | Cloud | Paid | Healthcare support, patient assistance |
+| HumAIns | High | Multi-channel | Platform setup | Cloud | Paid | Human-like interaction, AI agents |
+| interface.ai | Medium | Multi-channel | API integration | Cloud | Paid | Conversational interface, support automation |
+| Jotform AI Agents | High | Forms/Web | Form integration | Cloud | Freemium | Form automation, data collection |
+| Kaia's Team | Medium | Multi-channel | Team platform | Cloud | Paid | Team automation, service coordination |
+| kapa.ai | Medium | Technical/Docs | Documentation setup | Cloud | Paid | Technical support, developer assistance |
+| Leaping AI | High | Multi-channel | Platform setup | Cloud | Paid | Support automation, customer engagement |
+| LiveAgent | Medium | Multi-channel | Platform setup | Cloud | Paid | Help desk automation, ticketing |
+| Meya AI | Low | Multi-channel | Developer setup | Cloud/Self-hosted | Paid | Conversational platform, chatbot development |
+| Narrot | High | Multi-channel | Platform setup | Cloud | Paid | Support automation, customer assistance |
+| NewOaks AI | High | Multi-channel | Platform setup | Cloud | Paid | Support automation, AI assistance |
+| Nuqualis | Medium | Quality/Analytics | Analytics setup | Cloud | Enterprise | Quality monitoring, performance tracking |
+| Outverse | High | Community/Social | Platform setup | Cloud | Paid | Customer engagement, community support |
+| Parahelp | High | Multi-channel | Platform setup | Cloud | Paid | Support assistance, help desk automation |
+| Periscope Chat | High | Chat only | Platform setup | Cloud | Paid | Chat automation, engagement platform |
+| Phoenix AI Assistant | High | Multi-channel | Platform setup | Cloud | Paid | Support automation, service delivery |
+| PrimeCX | Medium | Multi-channel | Enterprise setup | Cloud | Enterprise | Customer experience optimization |
+| Reef.ai | High | Multi-channel | Platform setup | Cloud | Paid | Support automation, AI assistance |
+| Regal AI Phone Agent | Medium | Voice only | API integration | Cloud | Paid | Phone automation, sales support |
+| Requesty | High | Multi-channel | Platform setup | Cloud | Paid | Request management, support automation |
+| ResponseCX | Medium | Multi-channel | Enterprise setup | Cloud | Enterprise | Customer experience management |
+| Ringly.io | High | Communication | Platform setup | Cloud | Paid | Communication automation, engagement |
+| Sendbird AI Agent | Medium | In-app/Mobile | SDK integration | Cloud | Paid | In-app messaging, mobile support |
+| ShowAndTell AI | Medium | Visual/Video | Platform setup | Cloud | Paid | Visual support, demonstration automation |
+| Siena AI CX | Medium | Multi-channel | Platform setup | Cloud | Paid | Customer experience automation |
+| Sierra AI | High | Multi-channel | Platform setup | Cloud | Paid | Conversational support, automation |
+| SiteGPT | High | Website only | Website integration | Cloud | Freemium | Website support, visitor assistance |
+| Skydis | High | Multi-channel | Platform setup | Cloud | Paid | Support automation, service delivery |
+| Taalk | High | Multi-channel | Platform setup | Cloud | Paid | Conversational support, AI interaction |
+| telli | High | Multi-channel | Platform setup | Cloud | Paid | Support automation, customer assistance |
+| Thinkstack AI | High | Multi-channel | Platform setup | Cloud | Paid | Support automation, AI assistance |
+| Thynk Forward | Medium | Multi-channel | Platform setup | Cloud | Paid | Advanced support, innovation platform |
+| Tidio | High | Live Chat/Web | Website integration | Cloud | Freemium | Live chat automation, engagement |
+| Tidio Copilot | High | Chat only | Platform integration | Cloud | Paid | Chat assistance, support copilot |
+| Twig | High | Multi-channel | Platform setup | Cloud | Paid | Support automation, AI assistance |
+| Twilio AI Assistants | Medium | Multi-channel | API integration | Cloud | Paid | Communication automation, messaging |
+| Verify AI | Medium | Verification | API integration | Cloud | Paid | Identity verification, security automation |
+| Visito | High | Website only | Website integration | Cloud | Paid | Visitor support, website engagement |
+| VoiceSpin | Medium | Voice only | Platform setup | Cloud | Paid | Voice support, call automation |
+| Webex AI Agents | Medium | Enterprise/Video | Enterprise integration | Cloud | Enterprise | Enterprise support, collaboration |
+| Webio | High | Multi-channel | Platform setup | Cloud | Paid | Conversational engagement, AI interaction |
+| Wizy.Pro | High | Multi-channel | Platform setup | Cloud | Paid | Professional support, automation |
+| Zowie AI | High | E-commerce | E-commerce integration | Cloud | Paid | E-commerce support, retail automation |
+
+---
+
 ## 🔬 Research AI Agents
 
 AI agents designed to accelerate and enhance research processes across academic, scientific, and professional domains. These platforms automate literature reviews, assist with data analysis, generate research insights, and support the entire research workflow from hypothesis generation to publication.
