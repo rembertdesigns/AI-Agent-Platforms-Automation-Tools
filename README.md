@@ -332,6 +332,289 @@ Development libraries, SDKs, and frameworks for building AI agents. These tools 
 
 ---
 
+## 🛠️ AI Agent Development Frameworks
+
+Comprehensive frameworks, libraries, and development tools designed specifically for building, training, and deploying AI agents. These platforms provide the foundational infrastructure, APIs, and development environments needed to create sophisticated AI agent systems.
+
+| Name | Category | Description | Notable Features |
+|------|----------|-------------|------------------|
+| [Adala](https://github.com/HumanSignal/Adala) | Framework | Autonomous data labeling agent framework for machine learning | Data labeling automation, ML pipeline integration |
+| [Agency Swarm](https://github.com/VRSEN/agency-swarm) | Multi-Agent Framework | Framework for creating swarms of AI agents with specialized roles | Agent swarms, role specialization, collaborative AI |
+| [Agent Genesis](https://github.com/LinkSoul-AI/Agent-Genesis) | Framework | Comprehensive framework for AI agent development and deployment | Agent creation, development tools, deployment platform |
+| [Agent Network Protocol](https://github.com/agentprotocol/agent-protocol) | Protocol | Standardized protocol for AI agent communication and interoperability | Agent communication, protocol standards, interoperability |
+| [Agent Q](https://github.com/AgentQ-AI/AgentQ) | Framework | Q-learning based agent framework for reinforcement learning | Q-learning, reinforcement learning, agent training |
+| [Agent Zero](https://github.com/frdel/agent-zero) | Framework | Lightweight framework for building autonomous AI agents | Lightweight design, autonomous agents, minimal setup |
+| [Agent4Rec](https://github.com/LehengTHU/Agent4Rec) | Recommendation Framework | Agent framework specialized for recommendation systems | Recommendation agents, personalization, user modeling |
+| [AgentForge](https://github.com/DataBassGit/AgentForge) | Framework | Low-code framework for rapid AI agent development | Low-code development, rapid prototyping, agent creation |
+| [AgentKit](https://github.com/holmesworcester/agentkit) | Toolkit | Comprehensive toolkit for building and deploying AI agents | Development toolkit, agent utilities, deployment tools |
+| [AgentScope](https://github.com/modelscope/agentscope) | Framework | Multi-agent platform for building and managing agent ecosystems | Multi-agent systems, agent management, ecosystem platform |
+| [Agience](https://github.com/iassafrancisco/agience) | Framework | Framework for building intelligent autonomous agents | Autonomous intelligence, agent development, smart systems |
+| [AGiXT](https://github.com/Josh-XT/AGiXT) | Framework | Extensible AI agent framework with plugin architecture | Plugin system, extensible design, modular architecture |
+| [AI Legion](https://github.com/eumemic/ai-legion) | Framework | Framework for creating legions of collaborative AI agents | Collaborative agents, team coordination, multi-agent systems |
+| [AIWaves Agents](https://github.com/aiwaves-cn/agents) | Framework | Multi-agent framework for complex task automation | Complex tasks, multi-agent coordination, automation platform |
+| [Allice](https://github.com/myshell-ai/AIlice) | Framework | Modular AI agent framework with customizable components | Modular design, customizable agents, component-based |
+| [Apollo AI](https://github.com/apollo-ai/apollo) | Framework | Enterprise-grade AI agent development platform | Enterprise features, scalable architecture, production-ready |
+| [Apple Ferret-UI](https://github.com/apple/ml-ferret) | UI Framework | Apple's framework for UI-understanding AI agents | UI interaction, visual understanding, mobile AI |
+| [AskUI Vision Agents](https://github.com/askui/askui) | Vision Framework | Framework for building vision-based UI automation agents | Computer vision, UI automation, visual AI |
+| [assistant-ui](https://github.com/Yonom/assistant-ui) | UI Framework | React components for building AI assistant interfaces | React components, UI development, assistant interfaces |
+| [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) | Autonomous Framework | Framework for building autonomous GPT-powered agents | Autonomous operation, GPT integration, self-directed agents |
+| [AutoAgent](https://github.com/Link-AGI/AutoAgent) | Framework | Automated agent generation and deployment framework | Agent automation, auto-generation, deployment automation |
+| [AutoGen](https://github.com/microsoft/autogen) | Multi-Agent Framework | Microsoft's framework for multi-agent conversation systems | Multi-agent conversations, role-based agents, collaborative AI |
+| [Automata](https://github.com/emrgnt-cmplxty/automata) | Framework | Self-improving agent framework with learning capabilities | Self-improvement, learning agents, adaptive systems |
+| [AutoML-Agent](https://github.com/MLSysOps/AutoML-Agent) | ML Framework | Framework for building AutoML-powered AI agents | AutoML integration, machine learning automation, ML agents |
+| [Awesome MCP Servers](https://github.com/punkpeye/awesome-mcp-servers) | Resource Collection | Curated list of Model Context Protocol servers and tools | MCP servers, protocol tools, development resources |
+| [Ax](https://github.com/axilla-io/ax) | Framework | Adaptive experimentation framework for AI agents | Experimentation platform, adaptive testing, agent optimization |
+| [BabyAGI](https://github.com/yoheinakajima/babyagi) | Framework | Simple autonomous agent framework with task management | Task management, autonomous operation, lightweight design |
+| [BabyBeeAGI](https://github.com/yoheinakajima/babyeeagi) | Framework | Enhanced version of BabyAGI with improved capabilities | Enhanced autonomy, improved task handling, agent evolution |
+| [BabyCatAGI](https://github.com/yoheinakajima/babycatagi) | Framework | Specialized BabyAGI variant for specific use cases | Specialized tasks, variant architecture, focused capabilities |
+| [BabyCommandAGI](https://github.com/yoheinakajima/babycommandagi) | Framework | Command-line focused BabyAGI implementation | CLI interface, command execution, terminal-based agents |
+| [BabyDeerAGI](https://github.com/yoheinakajima/babydeeragi) | Framework | Nature-inspired BabyAGI variant with organic behaviors | Nature-inspired design, organic behaviors, bio-mimetic agents |
+| [BabyElfAGI](https://github.com/yoheinakajima/babyelfagi) | Framework | Magical-themed BabyAGI implementation with fantasy elements | Fantasy theme, creative implementation, themed development |
+| [BaseAI.dev](https://github.com/baseai-dev/baseai) | Development Platform | Comprehensive development platform for AI agents | Development environment, agent tools, platform services |
+| [Bee Agent Framework](https://github.com/i-am-bee/bee-agent-framework) | Framework | Production-ready framework for enterprise AI agents | Enterprise features, production deployment, scalable architecture |
+| [BondAI](https://github.com/krohling/bondai) | Framework | Bond-inspired AI agent framework with sophisticated capabilities | Sophisticated agents, advanced features, professional-grade |
+| [Browser-Use](https://github.com/browser-use/browser-use) | Browser Framework | Framework for building browser-based AI agents | Browser automation, web interaction, browser control |
+| [Burr](https://github.com/dagworks-inc/burr) | Workflow Framework | Framework for building stateful AI agent workflows | Stateful workflows, process management, workflow automation |
+| [CACA Agent](https://github.com/livingbio/CACA-agent) | Framework | Conversational AI agent framework with advanced dialogue | Conversational AI, dialogue systems, advanced communication |
+| [Camel AI](https://github.com/camel-ai/camel) | Framework | Multi-agent framework for role-playing and communication | Role-playing agents, agent communication, social simulation |
+| [Cerebrum: AIOS SDK](https://github.com/cerebrium/aios-sdk) | SDK | Software development kit for AI operating system agents | OS integration, system-level agents, SDK tools |
+| [ChatArena](https://github.com/Farama-Foundation/chatarena) | Framework | Multi-agent framework for conversational AI environments | Conversational environments, multi-agent chat, dialogue systems |
+| [ChatDev](https://github.com/OpenBMB/ChatDev) | Development Framework | Framework for AI-powered software development teams | Software development, team simulation, coding agents |
+| [Chroma](https://github.com/chroma-core/chroma) | Vector Database | Vector database for AI agent memory and knowledge storage | Vector storage, agent memory, knowledge management |
+| [Claude MCP Agents](https://github.com/modelcontextprotocol/servers) | MCP Framework | Claude's Model Context Protocol for agent development | Model context protocol, Claude integration, agent communication |
+| [CodeFuse](https://github.com/codefuse-ai/codefuse) | Code Framework | Framework for building code-generation AI agents | Code generation, programming agents, development automation |
+| [ControlFlow](https://github.com/PrefectHQ/ControlFlow) | Workflow Framework | Framework for building controllable AI agent workflows | Workflow control, process orchestration, agent coordination |
+| [CRAB: Cross-environment Agent Benchmark](https://github.com/camel-ai/crab) | Benchmark Framework | Benchmarking framework for cross-environment AI agents | Agent benchmarking, performance testing, evaluation tools |
+| [DAgent](https://github.com/AI-Tech-Research-Lab/DAgent) | Framework | Distributed agent framework for scalable AI systems | Distributed systems, scalable agents, network coordination |
+| [DeepFace AI](https://github.com/serengil/deepface) | Vision Framework | Deep learning framework for facial recognition agents | Facial recognition, computer vision, identity agents |
+| [DeepSeek R1](https://github.com/deepseek-ai/DeepSeek-R1) | Framework | Advanced reasoning framework for AI agents | Advanced reasoning, cognitive agents, intelligence framework |
+| [DemoGPT](https://github.com/melih-unsal/DemoGPT) | Demo Framework | Framework for creating GPT-powered demonstration agents | Demo creation, GPT integration, presentation agents |
+| [Dendrite](https://github.com/dendrite-systems/dendrite) | Framework | Neural network inspired framework for AI agent systems | Neural architecture, brain-inspired design, cognitive agents |
+| [DSPy](https://github.com/stanfordnlp/dspy) | Framework | Framework for programming foundation models as agents | Foundation models, programming interface, model agents |
+| [Eidolon AI](https://github.com/eidolon-ai/eidolon) | Framework | Enterprise AI agent framework with advanced capabilities | Enterprise features, advanced agents, business integration |
+| [FastAgency](https://github.com/airtai/fastagency) | Framework | Fast deployment framework for AI agents | Rapid deployment, quick setup, efficient agents |
+| [FloAI](https://github.com/flo-ai/FloAI) | Framework | Flow-based AI agent framework for process automation | Flow-based design, process automation, workflow agents |
+| [Gemma 3](https://github.com/google-deepmind/gemma) | Framework | Google's Gemma framework for building AI agents | Google technology, advanced capabilities, research-grade |
+| [GenSphere](https://github.com/gensphere/gensphere) | Framework | Generative AI agent framework for creative applications | Generative AI, creative agents, content generation |
+| [Giselle](https://github.com/giselle-ai/giselle) | Framework | Elegant framework for building sophisticated AI agents | Elegant design, sophisticated agents, refined architecture |
+| [Google A2A](https://github.com/google-research/google-research/tree/master/a2a) | Framework | Google's Agent-to-Agent communication framework | Agent communication, Google research, inter-agent protocols |
+| [Google Agent Development Kit](https://github.com/google-ai-edge/mediapipe) | Development Kit | Google's comprehensive toolkit for agent development | Google tools, development kit, comprehensive platform |
+| [GPTSwarm](https://github.com/metauto-ai/gptswarm) | Swarm Framework | Framework for creating swarms of GPT-based agents | GPT swarms, collective intelligence, distributed agents |
+| [Griptape](https://github.com/griptape-ai/griptape) | Framework | Python framework for building AI agents and workflows | Python-based, workflow automation, agent pipelines |
+| [Gwenflow](https://github.com/gwen-ai/gwenflow) | Framework | Flow-based framework for AI agent orchestration | Flow orchestration, agent coordination, process management |
+| [Haystack](https://github.com/deepset-ai/haystack) | Framework | Framework for building search and question-answering agents | Search agents, QA systems, information retrieval |
+| [Hermes 3](https://github.com/NousResearch/Hermes-3) | Framework | Advanced framework for building conversational AI agents | Conversational AI, advanced dialogue, communication agents |
+| [HuggingGPT](https://github.com/microsoft/JARVIS) | Framework | Microsoft's framework for multi-modal AI agents | Multi-modal agents, Microsoft technology, JARVIS-inspired |
+| [Imbue](https://github.com/imbue-ai/imbue) | Framework | Framework for imbuing AI agents with specific capabilities | Capability injection, skill embedding, agent enhancement |
+| [Inferable](https://github.com/inferablehq/inferable) | Framework | Framework for building inferable and explainable AI agents | Explainable AI, inference agents, transparent systems |
+| [Internet of Agents](https://github.com/internet-of-agents/internet-of-agents) | Network Framework | Framework for creating interconnected agent networks | Agent networks, IoT-style connectivity, distributed intelligence |
+| [Inworld AI](https://github.com/inworld-ai/inworld-web-sdk) | Framework | Framework for building interactive character agents | Character agents, interactive AI, personality systems |
+| [JARVIS](https://github.com/microsoft/JARVIS) | Framework | Microsoft's comprehensive AI agent framework | Comprehensive platform, Microsoft technology, full-featured |
+| [kagent](https://github.com/kagent-ai/kagent) | Framework | Knowledge-aware agent framework for intelligent systems | Knowledge integration, intelligent agents, semantic systems |
+| [KaibanJS](https://github.com/kaiban-ai/kaibanjs) | JavaScript Framework | JavaScript framework for building AI agents in web environments | JavaScript-based, web agents, browser compatibility |
+| [L2MAC](https://github.com/l2mac/l2mac) | Framework | Learning to Communicate framework for multi-agent systems | Agent communication, learning systems, adaptive protocols |
+| [LAgent](https://github.com/LAgent-AI/LAgent) | Framework | Lightweight agent framework for efficient AI systems | Lightweight design, efficient agents, minimal overhead |
+| [LangChain](https://github.com/langchain-ai/langchain) | Framework | Comprehensive framework for building LLM-powered agents | LLM integration, chain composition, agent workflows |
+| [LangGraph](https://github.com/langchain-ai/langgraph) | Graph Framework | Graph-based framework for building stateful AI agents | Graph-based design, stateful agents, workflow graphs |
+| [LangMem](https://github.com/langmem/langmem) | Memory Framework | Framework for building AI agents with persistent memory | Persistent memory, agent cognition, memory management |
+| [Langroid](https://github.com/langroid/langroid) | Framework | Multi-agent framework with natural language programming | Natural language programming, multi-agent systems, conversational dev |
+| [LaVague](https://github.com/lavague-ai/LaVague) | Automation Framework | Framework for building web automation agents | Web automation, browser agents, automated interactions |
+| [legacy-use](https://github.com/legacy-use/legacy-use) | Framework | Framework for integrating legacy systems with AI agents | Legacy integration, system compatibility, modernization agents |
+| [Letta AI](https://github.com/letta-ai/letta) | Framework | Framework for building AI agents with long-term memory | Long-term memory, persistent agents, memory-augmented AI |
+| [LiteLLM](https://github.com/BerriAI/litellm) | Framework | Lightweight framework for LLM-powered agents | Lightweight LLM, efficient agents, streamlined development |
+| [LiveKit Agents](https://github.com/livekit/agents) | Real-time Framework | Framework for building real-time AI agents | Real-time agents, live interaction, streaming AI |
+| [Llama Guard](https://github.com/meta-llama/llama-guard) | Safety Framework | Safety framework for AI agent content filtering | Safety systems, content filtering, agent protection |
+| [LlamaGym](https://github.com/KhoomeiK/LlamaGym) | Training Framework | Reinforcement learning framework for training AI agents | RL training, agent learning, skill development |
+| [LlamaIndex](https://github.com/run-llama/llama_index) | Framework | Framework for building knowledge-augmented AI agents | Knowledge augmentation, RAG systems, information agents |
+| [LobeChat](https://github.com/lobehub/lobe-chat) | Chat Framework | Framework for building conversational AI agents | Chat agents, conversation systems, dialogue frameworks |
+| [LoopGPT](https://github.com/farizrahman4u/loopgpt) | Framework | Framework for building iterative GPT-powered agents | Iterative processing, loop-based agents, continuous improvement |
+| [MADS](https://github.com/mads-ai/mads) | Framework | Multi-Agent Development System for collaborative AI | Collaborative agents, development system, team coordination |
+| [Marvin](https://github.com/prefecthq/marvin) | Framework | Framework for building AI agents with natural language interfaces | Natural language interface, intuitive agents, user-friendly AI |
+| [MCP-Use](https://github.com/mcp-use/mcp-use) | Protocol Framework | Framework for Model Context Protocol implementation | MCP implementation, protocol tools, context management |
+| [MemGPT](https://github.com/cpacker/MemGPT) | Memory Framework | Framework for building AI agents with hierarchical memory | Hierarchical memory, advanced cognition, memory-centric agents |
+| [MetaGPT](https://github.com/geekan/MetaGPT) | Meta Framework | Meta-framework for building software development agents | Meta-programming, software agents, development automation |
+| [MiniMax-M1](https://github.com/minimax-ai/minimax-m1) | Framework | Compact framework for building efficient AI agents | Compact design, efficient agents, optimized performance |
+| [Mirascope](https://github.com/Mirascope/mirascope) | Framework | Framework for building AI agents with advanced capabilities | Advanced features, sophisticated agents, comprehensive tools |
+| [Mistral AI Agents](https://github.com/mistralai/mistral-agents) | Framework | Mistral's framework for building AI agents | Mistral technology, advanced agents, research-grade tools |
+| [Mosaic AI Agent Framework](https://github.com/mosaic-ml/mosaic-agent-framework) | Framework | Comprehensive framework for building scalable AI agents | Scalable architecture, enterprise-grade, production-ready |
+| [Multi-Agent Orchestrator](https://github.com/awslabs/multi-agent-orchestrator) | Orchestration Framework | AWS framework for orchestrating multiple AI agents | Agent orchestration, AWS integration, cloud-native agents |
+| [Multi-GPT](https://github.com/multi-gpt/multi-gpt) | Multi-Model Framework | Framework for building agents with multiple GPT models | Multi-model support, GPT integration, diverse capabilities |
+| [Nexa AI](https://github.com/nexa-ai/nexa) | Framework | Next-generation framework for building AI agents | Next-gen technology, advanced agents, cutting-edge features |
+| [NPi AI](https://github.com/npi-ai/npi) | Framework | Neural Programming Interface for AI agent development | Neural programming, interface design, cognitive agents |
+| [OpenAGI](https://github.com/agiresearch/OpenAGI) | Framework | Open-source framework for artificial general intelligence agents | AGI research, open-source, general intelligence |
+| [OpenAI Swarm](https://github.com/openai/swarm) | Swarm Framework | OpenAI's framework for building agent swarms | OpenAI technology, agent swarms, collective intelligence |
+| [PC Agent](https://github.com/pc-agent/pc-agent) | Desktop Framework | Framework for building desktop automation agents | Desktop automation, PC control, system-level agents |
+| [Phidata](https://github.com/phidatahq/phidata) | Framework | Framework for building AI agents with data integration | Data integration, analytics agents, information processing |
+| [PraisonAI](https://github.com/MervinPraison/PraisonAI) | Framework | Praise-driven framework for building positive AI agents | Positive reinforcement, encouraging agents, supportive AI |
+| [Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) | Framework | Qwen-based framework for building Chinese AI agents | Chinese language support, Qwen integration, localized agents |
+| [Restack](https://github.com/restackio/restack) | Framework | Stack-based framework for building modular AI agents | Modular design, stack architecture, component-based agents |
+| [Sagentic.ai](https://github.com/sagentic-ai/sagentic) | Framework | Sage-inspired framework for building wise AI agents | Wisdom-focused, sage-like agents, intelligent decision-making |
+| [Scrapeless](https://github.com/scrapeless/scrapeless) | Scraping Framework | Framework for building web scraping AI agents | Web scraping, data extraction, automated harvesting |
+| [ScreenAgent](https://github.com/screen-agent/screen-agent) | Screen Framework | Framework for building screen interaction AI agents | Screen automation, UI agents, visual interaction |
+| [SimplAI](https://github.com/simpl-ai/simpl-ai) | Framework | Simple framework for building straightforward AI agents | Simple design, easy development, beginner-friendly |
+| [smolagents](https://github.com/huggingface/smolagents) | Lightweight Framework | Hugging Face's lightweight framework for small AI agents | Lightweight agents, efficient design, resource-friendly |
+| [Stagehand](https://github.com/browserbase/stagehand) | Automation Framework | Framework for building browser automation agents | Browser automation, web agents, automated testing |
+| [Strands Agents](https://github.com/strands-project/strands) | Robotics Framework | Framework for building long-term autonomous robotic agents | Robotics agents, long-term autonomy, robotic intelligence |
+| [Superagent](https://github.com/superagent-ai/superagent) | Framework | Super-powered framework for building advanced AI agents | Advanced capabilities, powerful agents, enhanced features |
+| [SuperAGI](https://github.com/TransformerOptimus/SuperAGI) | Framework | Super artificial general intelligence framework | AGI development, advanced intelligence, comprehensive platform |
+| [TaskWeaver](https://github.com/microsoft/TaskWeaver) | Task Framework | Microsoft's framework for building task-oriented AI agents | Task automation, Microsoft technology, workflow agents |
+| [Teenage-AGI](https://github.com/seanpixel/Teenage-AGI) | Framework | Teenage-themed AGI framework for learning AI agents | Learning agents, developmental AI, growth-oriented systems |
+| [Temporal AI Agent](https://github.com/temporal-ai/temporal-agent) | Temporal Framework | Framework for building time-aware AI agents | Temporal reasoning, time-aware agents, chronological intelligence |
+| [TEN Framework](https://github.com/ten-framework/ten) | Framework | Comprehensive framework for building enterprise AI agents | Enterprise features, comprehensive tools, business-grade agents |
+| [TensorFlow](https://github.com/tensorflow/tensorflow) | ML Framework | Google's machine learning framework with agent capabilities | Machine learning, Google technology, ML-powered agents |
+| [TheAgentic](https://github.com/theagentic/theagentic) | Framework | Comprehensive framework for building agentic AI systems | Agentic systems, autonomous intelligence, self-directed agents |
+| [ToRA](https://github.com/microsoft/ToRA) | Reasoning Framework | Tool-integrated Reasoning Agent framework | Tool integration, reasoning agents, problem-solving AI |
+| [uAgent](https://github.com/fetchai/uAgents) | Microservice Framework | Framework for building microservice-based AI agents | Microservices, distributed agents, service-oriented architecture |
+| [UFO](https://github.com/microsoft/UFO) | Framework | Microsoft's framework for building UI-focused AI agents | UI automation, Microsoft technology, interface agents |
+| [Vercel AI SDK](https://github.com/vercel/ai) | Web Framework | Vercel's SDK for building web-based AI agents | Web development, Vercel integration, frontend agents |
+| [Voyager](https://github.com/MineDojo/Voyager) | Game Framework | Framework for building game-playing AI agents | Game AI, embodied agents, virtual world intelligence |
+| [WebVoyager](https://github.com/web-voyager/web-voyager) | Web Framework | Framework for building web navigation AI agents | Web navigation, browser agents, automated browsing |
+| [Wildcard AI / agents.json](https://github.com/wildcard-ai/agents-json) | Configuration Framework | JSON-based configuration framework for AI agents | Configuration management, JSON format, agent setup |
+| [XAgent](https://github.com/OpenBMB/XAgent) | Framework | Experimental framework for building advanced AI agents | Experimental features, advanced agents, research platform |
+| [Yawning Titan](https://github.com/dstl/YAWNING-TITAN) | Security Framework | Framework for building cybersecurity AI agents | Cybersecurity, security agents, threat intelligence |
+| [Zep](https://github.com/getzep/zep) | Memory Framework | Framework for building AI agents with advanced memory systems | Advanced memory, persistent storage, memory-augmented agents |
+
+### 📊 AI Agent Development Frameworks Comparison
+| Framework | Ease of Use | Language/Tech | Architecture | Deployment | Pricing | Best For |
+|-----------|-------------|---------------|--------------|------------|---------|----------|
+| Adala | Medium | Python | Data labeling | Self-hosted | Open source | ML data labeling automation |
+| Agency Swarm | Medium | Python | Multi-agent swarm | Self-hosted/Cloud | Open source | Agent swarms, role specialization |
+| Agent Genesis | Medium | Multi-language | Comprehensive | Cloud/Self-hosted | Paid | Full-stack agent development |
+| Agent Network Protocol | Low | Protocol/API | Network protocol | Distributed | Open source | Agent interoperability |
+| Agent Q | Low | Python | Q-learning | Self-hosted | Open source | Reinforcement learning agents |
+| Agent Zero | High | Python | Lightweight | Self-hosted | Open source | Simple autonomous agents |
+| Agent4Rec | Medium | Python | Recommendation | Self-hosted | Open source | Recommendation systems |
+| AgentForge | High | Low-code | Visual builder | Cloud | Freemium | Rapid prototyping, low-code |
+| AgentKit | Medium | Python | Toolkit | Self-hosted/Cloud | Open source | Comprehensive development |
+| AgentScope | Medium | Python | Multi-agent | Self-hosted/Cloud | Open source | Agent ecosystem management |
+| Agience | Medium | Python | Autonomous | Self-hosted | Open source | Intelligent autonomous agents |
+| AGiXT | Medium | Python | Plugin-based | Self-hosted/Cloud | Open source | Extensible agent systems |
+| AI Legion | Medium | Python | Collaborative | Self-hosted | Open source | Collaborative agent teams |
+| AIWaves Agents | Medium | Python | Multi-agent | Self-hosted/Cloud | Open source | Complex task automation |
+| Allice | Medium | Python | Modular | Self-hosted | Open source | Modular agent systems |
+| Apollo AI | Low | Enterprise | Enterprise-grade | Cloud/Enterprise | Enterprise | Large-scale enterprise deployment |
+| Apple Ferret-UI | Low | Apple/iOS | UI-focused | iOS/macOS | Research | Mobile UI automation |
+| AskUI Vision Agents | Medium | Cross-platform | Computer vision | Cloud/Self-hosted | Paid | UI automation, visual agents |
+| assistant-ui | High | React/JS | UI components | Web | Open source | Assistant interface development |
+| Auto-GPT | Medium | Python | Autonomous | Self-hosted | Open source | Autonomous GPT agents |
+| AutoAgent | Medium | Python | Auto-generation | Self-hosted/Cloud | Open source | Automated agent creation |
+| AutoGen | Medium | Python | Conversational | Self-hosted/Cloud | Open source | Multi-agent conversations |
+| Automata | Low | Python | Self-improving | Self-hosted | Open source | Learning agent systems |
+| AutoML-Agent | Low | Python/ML | AutoML-focused | Self-hosted/Cloud | Open source | Machine learning automation |
+| Awesome MCP Servers | High | Documentation | Resource list | Various | Free | MCP protocol resources |
+| Ax | Medium | Python | Experimentation | Self-hosted/Cloud | Open source | Agent optimization, testing |
+| BabyAGI | High | Python | Simple autonomous | Self-hosted | Open source | Task management, simple AGI |
+| BabyBeeAGI | High | Python | Enhanced | Self-hosted | Open source | Improved task handling |
+| BabyCatAGI | High | Python | Specialized | Self-hosted | Open source | Specific use cases |
+| BabyCommandAGI | High | Python/CLI | Command-line | Self-hosted | Open source | CLI-based agents |
+| BabyDeerAGI | High | Python | Nature-inspired | Self-hosted | Open source | Organic behavior patterns |
+| BabyElfAGI | High | Python | Fantasy-themed | Self-hosted | Open source | Creative implementations |
+| BaseAI.dev | Medium | Multi-language | Development platform | Cloud | Paid | Comprehensive development |
+| Bee Agent Framework | Medium | TypeScript | Production-ready | Cloud/Self-hosted | Open source | Enterprise deployment |
+| BondAI | Medium | Python | Sophisticated | Self-hosted | Open source | Advanced agent capabilities |
+| Browser-Use | High | Python | Browser automation | Self-hosted | Open source | Web automation agents |
+| Burr | Medium | Python | Workflow-based | Self-hosted | Open source | Stateful agent workflows |
+| CACA Agent | Medium | Python | Conversational | Self-hosted | Open source | Advanced dialogue systems |
+| Camel AI | Medium | Python | Role-playing | Self-hosted | Open source | Multi-agent communication |
+| Cerebrum: AIOS SDK | Low | Multi-language | OS integration | System-level | Paid | Operating system agents |
+| ChatArena | Medium | Python | Conversational | Self-hosted | Open source | Multi-agent chat environments |
+| ChatDev | Medium | Python | Development teams | Self-hosted | Open source | Software development simulation |
+| Chroma | Medium | Python | Vector database | Self-hosted/Cloud | Open source | Agent memory, knowledge storage |
+| Claude MCP Agents | Medium | MCP Protocol | Protocol-based | Cloud | Anthropic | Claude agent integration |
+| CodeFuse | Medium | Python | Code generation | Self-hosted/Cloud | Open source | Programming automation |
+| ControlFlow | Medium | Python | Workflow control | Self-hosted/Cloud | Open source | Controllable workflows |
+| CRAB | Medium | Python | Benchmarking | Self-hosted | Open source | Agent performance testing |
+| DAgent | Low | Python | Distributed | Distributed | Open source | Scalable distributed agents |
+| DeepFace AI | Medium | Python | Computer vision | Self-hosted | Open source | Facial recognition agents |
+| DeepSeek R1 | Low | Python | Advanced reasoning | Self-hosted/Cloud | Research | Cognitive reasoning agents |
+| DemoGPT | High | Python | Demo creation | Self-hosted | Open source | GPT demonstration agents |
+| Dendrite | Low | Python | Neural-inspired | Self-hosted | Open source | Brain-inspired architectures |
+| DSPy | Low | Python | Foundation models | Self-hosted | Open source | Advanced model programming |
+| Eidolon AI | Medium | Python | Enterprise | Cloud/Enterprise | Paid | Business-grade agents |
+| FastAgency | High | Python | Fast deployment | Cloud | Open source | Rapid agent deployment |
+| FloAI | Medium | Python | Flow-based | Self-hosted | Open source | Process automation workflows |
+| Gemma 3 | Low | Python/Research | Advanced | Research/Cloud | Research | Research-grade agents |
+| GenSphere | Medium | Python | Generative | Self-hosted/Cloud | Open source | Creative content agents |
+| Giselle | Medium | Python | Sophisticated | Self-hosted | Open source | Elegant agent architectures |
+| Google A2A | Low | Research | Communication | Research | Research | Agent-to-agent protocols |
+| Google Agent Development Kit | Medium | Multi-platform | Comprehensive | Cloud | Google | Google ecosystem integration |
+| GPTSwarm | Medium | Python | GPT swarms | Self-hosted | Open source | Collective GPT intelligence |
+| Griptape | Medium | Python | Workflow-focused | Self-hosted/Cloud | Open source | Agent pipelines, workflows |
+| Gwenflow | Medium | Python | Flow orchestration | Self-hosted | Open source | Process coordination |
+| Haystack | Medium | Python | Search/QA | Self-hosted/Cloud | Open source | Information retrieval agents |
+| Hermes 3 | Low | Research | Conversational | Research/Cloud | Research | Advanced dialogue systems |
+| HuggingGPT | Medium | Python | Multi-modal | Self-hosted | Open source | Multi-modal agent systems |
+| Imbue | Medium | Python | Capability injection | Self-hosted | Open source | Agent skill enhancement |
+| Inferable | Medium | Python | Explainable | Self-hosted | Open source | Transparent agent systems |
+| Internet of Agents | Low | Distributed | Network-based | Distributed | Open source | Agent network connectivity |
+| Inworld AI | Medium | Web SDK | Character agents | Cloud | Paid | Interactive character systems |
+| JARVIS | Medium | Python | Comprehensive | Self-hosted | Open source | Full-featured agent platform |
+| kagent | Medium | Python | Knowledge-aware | Self-hosted | Open source | Knowledge-integrated agents |
+| KaibanJS | High | JavaScript | Web-based | Browser/Cloud | Open source | JavaScript web agents |
+| L2MAC | Low | Python | Communication learning | Self-hosted | Open source | Adaptive agent protocols |
+| LAgent | High | Python | Lightweight | Self-hosted | Open source | Efficient minimal agents |
+| LangChain | Medium | Python | LLM integration | Self-hosted/Cloud | Open source | LLM-powered agent chains |
+| LangGraph | Medium | Python | Graph-based | Self-hosted/Cloud | Open source | Stateful workflow graphs |
+| LangMem | Medium | Python | Memory-focused | Self-hosted | Open source | Persistent agent memory |
+| Langroid | Medium | Python | Natural language | Self-hosted | Open source | Conversational development |
+| LaVague | Medium | Python | Web automation | Self-hosted | Open source | Browser automation agents |
+| legacy-use | Medium | Multi-language | Legacy integration | Self-hosted | Open source | System modernization |
+| Letta AI | Medium | Python | Long-term memory | Self-hosted/Cloud | Open source | Memory-augmented agents |
+| LiteLLM | High | Python | Lightweight LLM | Self-hosted/Cloud | Open source | Efficient LLM agents |
+| LiveKit Agents | Medium | Multi-language | Real-time | Cloud/Self-hosted | Open source | Live interaction agents |
+| Llama Guard | Medium | Python | Safety-focused | Self-hosted | Open source | Content filtering, safety |
+| LlamaGym | Medium | Python | RL training | Self-hosted | Open source | Agent skill development |
+| LlamaIndex | Medium | Python | Knowledge-augmented | Self-hosted/Cloud | Open source | RAG-based agents |
+| LobeChat | High | TypeScript | Chat-focused | Self-hosted/Cloud | Open source | Conversational interfaces |
+| LoopGPT | Medium | Python | Iterative | Self-hosted | Open source | Continuous improvement agents |
+| MADS | Medium | Python | Multi-agent dev | Self-hosted | Open source | Collaborative development |
+| Marvin | High | Python | Natural language | Self-hosted | Open source | User-friendly interfaces |
+| MCP-Use | Medium | Protocol | MCP implementation | Various | Open source | Context protocol tools |
+| MemGPT | Medium | Python | Hierarchical memory | Self-hosted | Open source | Advanced memory systems |
+| MetaGPT | Medium | Python | Meta-programming | Self-hosted | Open source | Software development automation |
+| MiniMax-M1 | High | Python | Compact | Self-hosted | Open source | Efficient minimal systems |
+| Mirascope | Medium | Python | Advanced features | Self-hosted | Open source | Sophisticated capabilities |
+| Mistral AI Agents | Low | Python | Research-grade | Self-hosted/Cloud | Research | Advanced agent research |
+| Mosaic AI Agent Framework | Low | Python | Enterprise scalable | Cloud/Enterprise | Enterprise | Large-scale deployment |
+| Multi-Agent Orchestrator | Medium | Python/AWS | Cloud orchestration | AWS Cloud | Open source | AWS-native coordination |
+| Multi-GPT | Medium | Python | Multi-model | Self-hosted | Open source | Multiple GPT integration |
+| Nexa AI | Medium | Python | Next-generation | Self-hosted/Cloud | Open source | Cutting-edge features |
+| NPi AI | Low | Python | Neural programming | Self-hosted | Open source | Cognitive interface design |
+| OpenAGI | Low | Python | AGI research | Self-hosted | Open source | General intelligence research |
+| OpenAI Swarm | Medium | Python | Agent swarms | Self-hosted | Open source | OpenAI collective intelligence |
+| PC Agent | Medium | Python | Desktop automation | Desktop | Open source | System-level automation |
+| Phidata | Medium | Python | Data integration | Self-hosted/Cloud | Open source | Analytics-focused agents |
+| PraisonAI | Medium | Python | Positive reinforcement | Self-hosted | Open source | Encouraging agent systems |
+| Qwen-Agent | Medium | Python | Chinese language | Self-hosted | Open source | Localized Chinese agents |
+| Restack | Medium | Multi-language | Modular stack | Self-hosted/Cloud | Open source | Component-based architecture |
+| Sagentic.ai | Medium | Python | Wisdom-focused | Self-hosted | Open source | Intelligent decision systems |
+| Scrapeless | Medium | Python | Web scraping | Self-hosted | Open source | Data extraction agents |
+| ScreenAgent | Medium | Python | Screen interaction | Desktop | Open source | UI automation agents |
+| SimplAI | High | Python | Simple design | Self-hosted | Open source | Beginner-friendly development |
+| smolagents | High | Python | Lightweight | Self-hosted | Open source | Resource-efficient agents |
+| Stagehand | Medium | TypeScript | Browser automation | Self-hosted | Open source | Web testing agents |
+| Strands Agents | Low | ROS/Python | Robotics | Self-hosted | Open source | Long-term robotic autonomy |
+| Superagent | Medium | Python | Advanced features | Cloud/Self-hosted | Open source | Enhanced capabilities |
+| SuperAGI | Medium | Python | AGI development | Self-hosted/Cloud | Open source | Advanced intelligence platform |
+| TaskWeaver | Medium | Python | Task-oriented | Self-hosted | Open source | Microsoft workflow agents |
+| Teenage-AGI | Medium | Python | Learning-focused | Self-hosted | Open source | Developmental agent systems |
+| Temporal AI Agent | Medium | Python | Time-aware | Self-hosted | Open source | Temporal reasoning agents |
+| TEN Framework | Low | Multi-language | Enterprise | Cloud/Enterprise | Enterprise | Business-grade comprehensive |
+| TensorFlow | Low | Python | ML-focused | Self-hosted/Cloud | Open source | Machine learning agents |
+| TheAgentic | Medium | Python | Agentic systems | Self-hosted | Open source | Autonomous intelligence |
+| ToRA | Medium | Python | Tool-integrated | Self-hosted | Open source | Reasoning with tools |
+| uAgent | Medium | Python | Microservices | Self-hosted/Cloud | Open source | Service-oriented agents |
+| UFO | Medium | Python | UI-focused | Self-hosted | Open source | Microsoft interface agents |
+| Vercel AI SDK | High | JavaScript | Web development | Cloud/Edge | Open source | Frontend agent integration |
+| Voyager | Medium | Python | Game-playing | Self-hosted | Open source | Virtual world agents |
+| WebVoyager | Medium | Python | Web navigation | Self-hosted | Open source | Browser navigation agents |
+| Wildcard AI / agents.json | High | JSON | Configuration | Various | Open source | Agent setup management |
+| XAgent | Low | Python | Experimental | Self-hosted | Open source | Research platform |
+| Yawning Titan | Low | Python | Cybersecurity | Self-hosted | Open source | Security agent systems |
+| Zep | Medium | Python | Memory systems | Self-hosted/Cloud | Open source | Advanced memory management |
+
+---
+
 ## 🧪 Software Testing (QA) Agents
 <img 
   width="1584" 
