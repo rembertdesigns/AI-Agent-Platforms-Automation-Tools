@@ -538,6 +538,110 @@ Platforms for automating workflows, integrating APIs, and orchestrating digital 
 | [Zapier](https://zapier.com) | Automation Platform | Online platform for automating web apps and services | 5000+ integrations, triggers/actions |
 | [Zapier Agents](https://zapier.com/agents) | AI Agents | Zapier's AI agents for enhanced workflow automation | AI-powered workflows, intelligent automation, enhanced processes |
 
+### 📊 Workflow Automation & Agent Orchestration Comparison
+
+| Platform | Category | Primary Focus | Deployment | Integration Depth | Pricing | Best For |
+|----------|----------|---------------|------------|-------------------|---------|----------|
+| Activepieces | Workflow Automation | Open-source automation | Self-hosted/Cloud | High | Open source | Self-hosted automation |
+| Adept AI | AI Automation | Computer task automation | Cloud | Medium | Contact sales | Desktop automation |
+| AgentAuth | Authentication | Secure workflows | Cloud | High | Contact sales | Security-focused automation |
+| Agents.ai | AI Agents | Agent creation | Cloud | High | Contact sales | AI agent development |
+| AI Agent App | Agent Platform | Comprehensive agents | Cloud | High | Contact sales | Full-service agent platform |
+| AI Assistify | AI Assistant | Task automation | Cloud | Medium | Contact sales | Personal productivity |
+| AI Gradio Browser | Interface Builder | AI interfaces | Cloud | Medium | Open source | Interactive automation |
+| AIAgent.app | Agent Creation | Custom agents | Cloud | High | Contact sales | Custom automation |
+| AiMod | Workflow Modification | Process optimization | Cloud | Medium | Contact sales | Workflow enhancement |
+| AirOps | AI Operations | Operations automation | Cloud | High | Contact sales | Enterprise operations |
+| Airtop | Browser Automation | Web automation | Cloud | Medium | Contact sales | Browser workflows |
+| Aisera AI Agent Platform | Enterprise Automation | Service automation | Cloud/On-premise | Very High | Enterprise | Enterprise service desk |
+| Anchor Browser | Browser Automation | Automated browsing | Cloud | Medium | Contact sales | Web automation |
+| APIDNA | API Automation | API orchestration | Cloud | High | Contact sales | API workflows |
+| Augment (Augie) | AI Augmentation | Workflow enhancement | Cloud | High | Contact sales | Process augmentation |
+| Automaited Ada | Process Automation | Business processes | Cloud | High | Contact sales | Business automation |
+| B2 AI | Business Automation | B2B workflows | Cloud | High | Contact sales | B2B processes |
+| Beam AI | Workflow Platform | Workflow management | Cloud | High | Contact sales | Workflow creation |
+| Beebot AI | Automation Bot | Task bots | Cloud | Medium | Contact sales | Repetitive tasks |
+| Box AI Agents | Document Workflow | Document automation | Cloud | High | Enterprise | Document processes |
+| Browserbase Director | Browser Management | Browser orchestration | Cloud | Medium | Contact sales | Browser management |
+| BRYTER | Decision Automation | Decision workflows | Cloud | High | Enterprise | Decision automation |
+| BuildEL | Workflow Builder | Workflow construction | Cloud | High | Contact sales | Workflow building |
+| Composio | Integration Platform | Agent orchestration | Cloud | Very High | Contact sales | Agent composition |
+| Convergence Proxy AI | Proxy Automation | Intelligent proxying | Cloud | Medium | Contact sales | Proxy workflows |
+| Dart AI | Project Automation | Project workflows | Cloud | High | Contact sales | Project management |
+| DeepFlows AI | Deep Workflow | Complex automation | Cloud | Very High | Contact sales | Complex workflows |
+| DeepOpinion | Document Automation | Document processing | Cloud | High | Enterprise | Document workflows |
+| DeepSite | Website Automation | Web processes | Cloud | Medium | Contact sales | Website automation |
+| Fieldproxy | Field Automation | Field service | Cloud/Mobile | High | Contact sales | Field operations |
+| Filtyr AI | Data Filtering | Data processing | Cloud | Medium | Contact sales | Data workflows |
+| GeniA | AI Generation | Workflow generation | Cloud | High | Contact sales | Automated creation |
+| Godmode | AI Control | AI orchestration | Cloud | Very High | Contact sales | AI control |
+| GoodGist | Content Workflow | Content automation | Cloud | Medium | Contact sales | Content processes |
+| Google Opal | Google Integration | Google ecosystem | Cloud | Very High | Enterprise | Google workflows |
+| Gradient Labs | ML Workflows | Machine learning | Cloud | High | Contact sales | ML automation |
+| Gumloop | Automation Builder | Business processes | Cloud | High | Freemium | LLM-powered workflows |
+| HARPA AI | Browser Automation | Browser extension | Browser | Medium | Freemium | Web automation |
+| HubSpot AI | CRM Automation | CRM workflows | Cloud | Very High | Add-on | HubSpot automation |
+| IBM watsonx Orchestrate | Enterprise Orchestration | Enterprise workflows | Cloud/On-premise | Very High | Enterprise | Enterprise automation |
+| IndieMerger | Merger Automation | M&A workflows | Cloud | High | Contact sales | Deal processes |
+| Induced AI | AI Induction | AI integration | Cloud | High | Contact sales | AI enhancement |
+| JIFFY.ai | Hyperautomation | Intelligent processes | Cloud | Very High | Enterprise | Hyperautomation |
+| JobHuntr.fyi | Job Automation | Job search | Cloud | Medium | Contact sales | Career automation |
+| Karmen | Workflow Management | Process management | Cloud | High | Contact sales | Workflow optimization |
+| Kay AI | AI Assistant | Assistant workflows | Cloud | Medium | Contact sales | Personal automation |
+| Lecca.io | Integration Platform | Process integration | Cloud | High | Contact sales | Integration automation |
+| Lemon Agent | Agent Platform | Agent creation | Cloud | High | Contact sales | Agent workflows |
+| Leverage AI | Business Automation | Business processes | Cloud | High | Contact sales | Business optimization |
+| Lilac Labs | AI Research | Research workflows | Cloud | Medium | Contact sales | Research automation |
+| Lutra AI | Workflow Intelligence | Intelligent workflows | Cloud | Very High | Contact sales | Smart automation |
+| Maige | Workflow Magic | Magical automation | Cloud | High | Contact sales | Creative workflows |
+| Make | Workflow Automation | App integration | Cloud | Very High | Freemium | Visual automation |
+| Make AI | AI Workflows | AI-enhanced automation | Cloud | Very High | Contact sales | AI-powered workflows |
+| markdown2pdf.ai | Document Conversion | File conversion | Cloud | Low | Contact sales | Document automation |
+| Marketer | Marketing Automation | Marketing workflows | Cloud | High | Contact sales | Marketing processes |
+| Moveworks AI Assistant | Enterprise Assistant | Enterprise automation | Cloud | Very High | Enterprise | Enterprise assistance |
+| MultiOn | Multi-Agent | Agent orchestration | Cloud | Very High | Contact sales | Multi-agent workflows |
+| My-Legacy.ai | Legacy Automation | Legacy systems | Cloud/On-premise | High | Contact sales | Legacy integration |
+| n8n | Workflow Automation | App connections | Self-hosted/Cloud | Very High | Open source | Open-source automation |
+| Naratix | Narrative Automation | Content workflows | Cloud | Medium | Contact sales | Narrative processes |
+| Navan AI | Travel Automation | Travel workflows | Cloud | High | Contact sales | Business travel |
+| Needle AI | Precise Automation | Targeted automation | Cloud | Medium | Contact sales | Precision workflows |
+| Norm AI | Normalized Workflows | Process standardization | Cloud | High | Contact sales | Workflow consistency |
+| OpenAdapt | Adaptive Automation | Learning automation | Open source | Medium | Open source | Adaptive workflows |
+| Oracle Miracle Agent | Oracle Integration | Oracle workflows | Cloud/On-premise | Very High | Enterprise | Oracle automation |
+| Parabola | Data Workflow | Data processing | Cloud | High | Freemium | Data automation |
+| Payman AI | Payment Automation | Financial workflows | Cloud | High | Contact sales | Payment processes |
+| Pinkfish AI | Workflow Optimization | Process enhancement | Cloud | High | Contact sales | Workflow improvement |
+| Power Automate | Microsoft Automation | Microsoft ecosystem | Cloud | Very High | Subscription | Microsoft workflows |
+| ProAgents | Professional Agents | Professional workflows | Cloud | High | Contact sales | Business agents |
+| Questflow AI | Quest Workflows | Gamified automation | Cloud | Medium | Contact sales | Engaging workflows |
+| Redactable | Document Redaction | Privacy workflows | Cloud | Medium | Contact sales | Document security |
+| Relay.app | Workflow Relay | Process orchestration | Cloud | High | Contact sales | Workflow connection |
+| Respell AI | Spell Automation | Magic workflows | Cloud | High | Contact sales | Creative automation |
+| RPA AI | Robotic Process Automation | RPA workflows | Cloud/On-premise | Very High | Enterprise | Enterprise RPA |
+| rtrvr.ai | Retrieval Automation | Information workflows | Cloud | Medium | Contact sales | Data retrieval |
+| Runable | Runnable Workflows | Workflow execution | Cloud | High | Contact sales | Process running |
+| Runner H | Workflow Runner | Process execution | Cloud | Medium | Contact sales | Workflow management |
+| Runner H 0.1 | Workflow Runner v0.1 | Early execution platform | Cloud | Medium | Contact sales | Testing workflows |
+| SRE.ai | Site Reliability | SRE automation | Cloud | High | Contact sales | Reliability workflows |
+| String.com | String Workflows | Text processing | Cloud | Medium | Contact sales | String automation |
+| TeamDay.ai | Team Automation | Collaboration workflows | Cloud | High | Contact sales | Team processes |
+| Tektonic AI | Tectonic Workflows | Transformative automation | Cloud | High | Contact sales | Process innovation |
+| TenantCircle | Tenant Automation | Property management | Cloud | High | Contact sales | Property workflows |
+| Tennr | Document Workflows | Document automation | Cloud | High | Contact sales | File processes |
+| Thinkeo | Thinking Workflows | Cognitive processes | Cloud | Medium | Contact sales | Intelligent workflows |
+| Tilda Bio AI | Bio Workflows | Life science automation | Cloud | High | Contact sales | Research workflows |
+| Tray.ai | Enterprise Integration | Complex integrations | Cloud | Very High | Enterprise | Enterprise workflows |
+| Trigger.dev | Trigger Automation | Event-driven workflows | Cloud | High | Contact sales | Event automation |
+| UiPath | RPA Platform | Enterprise RPA | Cloud/On-premise | Very High | Enterprise | Enterprise automation |
+| Unio | Agent-Workflow Mix | Agentic workflows | Cloud | Very High | Contact sales | Hybrid automation |
+| VectorShift | Vector Workflows | Mathematical automation | Cloud | Medium | Contact sales | Vector processing |
+| Vessium | Vessel Workflows | Containerized workflows | Cloud | High | Contact sales | Process containers |
+| viAct.net | Activity Automation | Activity workflows | Cloud | Medium | Contact sales | Action automation |
+| Weave | Workflow Weaving | Complex integration | Cloud | Very High | Enterprise | Workflow composition |
+| Workato | Enterprise Automation | Business automation | Cloud | Very High | Enterprise | Enterprise integration |
+| Zapier | Automation Platform | App automation | Cloud | Very High | Freemium | Simple automation |
+| Zapier Agents | AI Agents | AI-powered automation | Cloud | Very High | Contact sales | Enhanced automation |
+
 ---
 
 ## 👁️ Agent Observability Tools
