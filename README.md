@@ -116,6 +116,15 @@ These platforms and frameworks enable the development of AI agents that autonomo
 
 ## 💻 Coding & Development Agents
 
+<img 
+  width="1584" 
+  height="396" 
+  alt="Coding & Development Agents - AI tools for automated software development, code generation, testing, debugging, and optimization to enhance developer productivity and code quality" 
+  title="AI Coding & Development Agents: Automated Software Development Tools"
+  src="https://github.com/user-attachments/assets/ea9a33c7-9395-42ae-82ef-95f06d850845"
+  loading="lazy"
+/>
+
 AI agents specializing in automating software development tasks through autonomous code generation, testing, debugging, and optimization. These tools integrate with developer workflows to enhance productivity, code quality, and engineering efficiency via natural language instructions and intelligent automation.
 
 ### 🤖 Autonomous Development Agents
