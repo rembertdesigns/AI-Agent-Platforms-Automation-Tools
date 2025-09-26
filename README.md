@@ -284,6 +284,52 @@ AI agents specializing in automating software development tasks through autonomo
 
 ---
 
+## 🧪 Software Testing (QA) Agents
+
+AI agents specialized in automated testing, quality assurance, and bug detection. These platforms automate testing workflows from unit testing and integration testing to end-to-end quality assurance, enabling development teams to maintain code quality, identify issues early, and streamline the testing process through intelligent test generation and execution.
+
+| Name | Category | Description | Notable Features |
+|------|----------|-------------|------------------|
+| [BaseRock AI](https://baserock.ai) | Test Automation | AI-powered comprehensive testing platform for software quality assurance | Automated test generation, cross-platform testing, intelligent bug detection |
+| [CoTester](https://cotester.ai) | Collaborative Testing | AI agent for collaborative software testing and quality assurance | Team-based testing, collaborative workflows, shared test environments |
+| [Diffblue Cover](https://diffblue.com) | Unit Testing | AI platform for automated unit test generation and code coverage | Automated unit tests, code coverage analysis, Java specialization |
+| [EarlyAI](https://early.ai) | Early Testing | AI agent for early-stage software testing and quality prediction | Predictive quality analysis, early bug detection, development integration |
+| [Flowtest AI](https://flowtest.ai) | Flow Testing | AI-powered testing platform for application flow and user journey testing | User flow automation, journey testing, behavioral analysis |
+| [Jam](https://jam.dev) | Bug Reporting | AI-enhanced bug reporting and issue tracking platform | Automated bug reports, screen recording, issue documentation |
+| [KaneAI](https://kane.ai) | Test Execution | AI agent for intelligent test execution and management | Smart test execution, result analysis, test optimization |
+| [Keploy](https://keploy.io) | API Testing | AI-powered API testing and test case generation platform | API test automation, mock generation, regression testing |
+| [KushoAI](https://kusho.ai) | Quality Assurance | Comprehensive AI platform for software quality assurance | Multi-faceted QA, quality metrics, automated assessments |
+| [Latta AI](https://latta.ai) | Load Testing | AI agent for intelligent load testing and performance analysis | Performance testing, load simulation, bottleneck identification |
+| [modl.ai](https://modl.ai) | Model Testing | AI platform for testing machine learning models and AI systems | ML model validation, AI system testing, performance benchmarking |
+| [Momentic AI](https://momentic.ai) | E2E Testing | AI-powered end-to-end testing platform for web applications | Browser automation, visual testing, comprehensive coverage |
+| [nunu.ai](https://nunu.ai) | Test Intelligence | AI platform for intelligent test management and optimization | Test prioritization, intelligent scheduling, resource optimization |
+| [Owlity](https://owlity.com) | Security Testing | AI agent specialized in security testing and vulnerability detection | Security analysis, vulnerability scanning, threat detection |
+| [PixeeAI](https://pixee.ai) | Code Security | AI platform for automated code security testing and remediation | Security fixes, vulnerability patching, code hardening |
+| [TestSprite](https://testsprite.com) | Visual Testing | AI-powered visual testing and UI validation platform | Visual regression testing, UI consistency, cross-browser validation |
+
+#### 📊 Software Testing (QA) Agents Comparison
+
+| Platform | Testing Focus | Primary Function | Deployment | Integration | Pricing | Best For |
+|----------|---------------|------------------|------------|-------------|---------|----------|
+| BaseRock AI | Comprehensive QA | Full-spectrum testing | Cloud | CI/CD pipelines | Contact sales | Enterprise testing workflows |
+| CoTester | Collaborative Testing | Team-based QA | Cloud | Development tools | Contact sales | Collaborative testing teams |
+| Diffblue Cover | Unit Testing | Automated unit tests | Cloud/On-premise | Java ecosystems | Enterprise | Java application testing |
+| EarlyAI | Predictive Testing | Early bug detection | Cloud | Development workflow | Contact sales | Proactive quality assurance |
+| Flowtest AI | User Flow Testing | Journey automation | Cloud | Web applications | Contact sales | User experience validation |
+| Jam | Bug Reporting | Issue documentation | Cloud | Browser extension | Freemium | Bug tracking and reporting |
+| KaneAI | Test Management | Execution optimization | Cloud | Testing frameworks | Contact sales | Test execution management |
+| Keploy | API Testing | API test automation | Cloud/Self-hosted | API development | Open source | API quality assurance |
+| KushoAI | Quality Assurance | Comprehensive QA | Cloud | Multiple platforms | Contact sales | Full QA automation |
+| Latta AI | Performance Testing | Load testing | Cloud | Performance tools | Contact sales | Performance optimization |
+| modl.ai | ML Model Testing | AI system validation | Cloud | ML pipelines | Contact sales | Machine learning QA |
+| Momentic AI | E2E Testing | Browser automation | Cloud | Web frameworks | Contact sales | End-to-end web testing |
+| nunu.ai | Test Intelligence | Smart test management | Cloud | Testing platforms | Contact sales | Test optimization |
+| Owlity | Security Testing | Vulnerability detection | Cloud | Security tools | Contact sales | Security validation |
+| PixeeAI | Code Security | Security remediation | Cloud | Code repositories | Contact sales | Security code fixes |
+| TestSprite | Visual Testing | UI validation | Cloud | Frontend tools | Contact sales | Visual regression testing |
+
+---
+
 ## 🎯 Productivity & Business Agents
 
 AI agents purpose-built for workflow automation, CRM, sales, HR, and general business process optimization. These agents deliver tailored automation and insights for specific business functions, improving operational efficiency and accuracy in customer service, sales operations, legal workflows, marketing campaigns, and data analysis.
