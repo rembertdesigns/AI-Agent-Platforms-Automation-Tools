@@ -1862,6 +1862,76 @@ AI agents specialized in sales automation, lead generation, and revenue optimiza
 
 ---
 
+## 🔬 Research AI Agents
+
+AI agents designed to accelerate and enhance research processes across academic, scientific, and professional domains. These platforms automate literature reviews, assist with data analysis, generate research insights, and support the entire research workflow from hypothesis generation to publication.
+
+| Name | Category | Description | Notable Features |
+|------|----------|-------------|------------------|
+| [AlphaSense](https://alphasense.com/) | Research Platform | AI-powered search and analytics platform for market and financial research | Document search, sentiment analysis, trend identification |
+| [AMIE](https://amie.google/) | Medical Research | Google's AI medical examination and diagnostic research assistant | Medical diagnosis, clinical research, healthcare analytics |
+| [AutoGLM Rumination](https://autoglm.ai/) | Research Assistant | AI agent for automated research and rumination on complex topics | Research automation, knowledge synthesis |
+| [Bagoodex](https://bagoodex.com/) | Research Platform | AI-powered research and knowledge discovery platform | Knowledge extraction, research synthesis |
+| [Capital Companion](https://capitalcompanion.ai/) | Financial Research | AI research assistant for financial markets and investment analysis | Market research, financial analysis, investment insights |
+| [ChemCrow](https://chemcrow.ai/) | Chemical Research | AI agent specialized in chemistry research and molecular discovery | Chemical synthesis, molecular analysis, drug discovery |
+| [Company Status Agent](https://companystatus.ai/) | Business Research | AI agent for researching company information and business intelligence | Company analysis, market research, competitive intelligence |
+| [Consensus](https://consensus.app/) | Academic Research | AI-powered research assistant for finding and analyzing scientific papers | Literature review, research synthesis, citation analysis |
+| [Cresh](https://cresh.ai/) | Research Assistant | AI-powered research and analysis platform | Research automation, data analysis |
+| [Data-to-Paper](https://github.com/data-to-paper/data-to-paper) | Academic Writing | AI agent that converts research data into academic papers | Paper generation, research writing, data interpretation |
+| [Deckdrop.io](https://deckdrop.io/) | Presentation Research | AI-powered research and presentation creation platform | Research synthesis, presentation generation |
+| [FacesearchAI](https://facesearch.ai/) | Image Research | AI agent for facial recognition and image-based research | Face recognition, image analysis, identity research |
+| [FutureHouse](https://futurehouse.org/) | Scientific Research | AI research assistant for scientific discovery and knowledge synthesis | Scientific research, hypothesis generation, literature analysis |
+| [Google AI Co-Scientist](https://deepmind.google/discover/blog/ai-systems-can-now-generate-novel-research-ideas/) | Scientific Research | Google's AI co-scientist for generating and evaluating research ideas | Research ideation, scientific discovery, hypothesis testing |
+| [GPT Researcher](https://gptr.dev/) | Research Automation | Autonomous agent for comprehensive online research and report generation | Web research, report generation, fact-checking |
+| [Helpfull](https://helpfull.com/) | Market Research | AI-powered consumer research and market insights platform | Consumer insights, market research, survey analysis |
+| [Isomorphic Labs](https://isomorphiclabs.com/) | Drug Discovery | AI research platform for drug discovery and molecular research | Drug discovery, molecular modeling, pharmaceutical research |
+| [klerkAI](https://klerk.ai/) | Research Assistant | AI-powered research and knowledge management platform | Research organization, knowledge extraction |
+| [Legora](https://legora.ai/) | Legal Research | AI research assistant for legal document analysis and case research | Legal research, case analysis, document review |
+| [LevelFields AI](https://levelfields.ai/) | Investment Research | AI-powered investment research and market analysis platform | Market research, investment analysis, financial insights |
+| [NotebookLM](https://notebooklm.google.com/) | Research Assistant | Google's AI research assistant for analyzing and synthesizing documents | Document analysis, research synthesis, note-taking |
+| [OneQuery](https://onequery.ai/) | Research Platform | AI-powered unified research and query platform | Multi-source research, query optimization |
+| [OpenAI Deep Research](https://openai.com/deep-research/) | Research Assistant | OpenAI's advanced research agent for comprehensive analysis and insights | Deep research, comprehensive analysis, report generation |
+| [PARAMUS](https://paramus.ai/) | Research Platform | AI-powered research and analysis platform for academic and professional use | Research automation, knowledge synthesis |
+| [Perplexity AI](https://perplexity.ai/) | Research Assistant | AI-powered research and question-answering platform with real-time web search | Real-time research, citation tracking, conversational search |
+| [QualiaInterviews](https://qualiainterviews.com/) | Qualitative Research | AI-powered platform for conducting and analyzing qualitative research interviews | Interview automation, qualitative analysis |
+| [Scite Assistant](https://scite.ai/) | Citation Analysis | AI research assistant for citation analysis and research validation | Citation context, research validation, paper analysis |
+| [Table Agent](https://tableagent.ai/) | Data Research | AI agent for analyzing and extracting insights from tabular data | Data analysis, table processing, insight generation |
+
+### 📊 Research AI Agents Comparison
+
+| Agent | Ease of Use | Research Domain | Technical Setup | Deployment | Pricing | Best For |
+|-------|-------------|-----------------|-----------------|------------|---------|----------|
+| AlphaSense | High | Financial/Market | Web platform | Cloud | Enterprise | Market research, financial analysis |
+| AMIE | Medium | Medical | API integration | Cloud | Research access | Medical research, clinical analysis |
+| AutoGLM Rumination | Medium | General | Platform setup | Cloud | Paid | Automated research synthesis |
+| Bagoodex | High | General | Web platform | Cloud | Freemium | Knowledge discovery, research |
+| Capital Companion | High | Financial | Web platform | Cloud | Paid | Investment research, market analysis |
+| ChemCrow | Low | Chemistry | Technical setup | Self-hosted | Research | Chemical research, drug discovery |
+| Company Status Agent | High | Business | Web platform | Cloud | Paid | Company research, business intelligence |
+| Consensus | High | Academic | Web platform | Cloud | Freemium | Literature review, academic research |
+| Cresh | Medium | General | Platform setup | Cloud | Paid | Research automation, analysis |
+| Data-to-Paper | Low | Academic | Python setup | Self-hosted | Open source | Academic writing, paper generation |
+| Deckdrop.io | High | Presentation | Web platform | Cloud | Paid | Research synthesis, presentations |
+| FacesearchAI | Medium | Image/Identity | API setup | Cloud | Paid | Facial recognition, image research |
+| FutureHouse | Medium | Scientific | Platform access | Cloud | Research | Scientific discovery, hypothesis generation |
+| Google AI Co-Scientist | Low | Scientific | Research access | Cloud | Research | Advanced scientific research |
+| GPT Researcher | Medium | General | Python setup | Self-hosted/Cloud | Open source | Web research, report generation |
+| Helpfull | High | Market | Web platform | Cloud | Paid | Consumer research, market insights |
+| Isomorphic Labs | Low | Drug Discovery | Research access | Cloud | Research | Pharmaceutical research, drug discovery |
+| klerkAI | High | General | Web platform | Cloud | Paid | Research organization, knowledge management |
+| Legora | High | Legal | Web platform | Cloud | Paid | Legal research, case analysis |
+| LevelFields AI | High | Investment | Web platform | Cloud | Paid | Investment research, market analysis |
+| NotebookLM | High | General | Web platform | Cloud | Free | Document analysis, research synthesis |
+| OneQuery | Medium | General | Platform setup | Cloud | Paid | Multi-source research, queries |
+| OpenAI Deep Research | Medium | General | API integration | Cloud | Paid | Comprehensive analysis, deep research |
+| PARAMUS | Medium | Academic | Platform setup | Cloud | Paid | Academic research, analysis |
+| Perplexity AI | High | General | Web platform | Cloud | Freemium | Real-time research, Q&A |
+| QualiaInterviews | Medium | Qualitative | Platform setup | Cloud | Paid | Interview research, qualitative analysis |
+| Scite Assistant | High | Academic | Web platform | Cloud | Freemium | Citation analysis, research validation |
+| Table Agent | Medium | Data | Platform setup | Cloud | Paid | Tabular data analysis, insights |
+
+---
+
 ## 🤵 Virtual Worker AI Agents
 
 AI agents designed to function as virtual employees, automating complex business processes and augmenting human workforces. These platforms enable organizations to deploy AI workers that can handle routine tasks, execute multi-step workflows, and integrate seamlessly into existing business operations.
