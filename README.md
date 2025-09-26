@@ -106,11 +106,15 @@ AI agents specializing in automating software development tasks through autonomo
 
 | Name | Category | Description | Notable Features |
 |------|----------|-------------|------------------|
+| [Cognition Devin AI](https://cognition.ai) | Autonomous Engineer | Advanced autonomous software engineer with enhanced reasoning capabilities | Enhanced problem-solving, complex project handling, advanced debugging |
 | [Devin](https://www.cognition-labs.com/introducing-devin) | Autonomous Engineer | Fully autonomous software engineer capable of handling complex projects | End-to-end development, repository management, issue resolution |
 | [Devon](https://devon.ai) | AI Developer | Autonomous AI software engineer for complex development tasks | Full project handling, autonomous development, task completion |
 | [Devika](https://github.com/stitionai/devika) | Project Generator | Converts natural language instructions into complete software projects | Natural language to full projects, multi-language support |
+| [Fine AI](https://fine.dev) | AI Developer | Autonomous AI agent for software development and code generation | Advanced reasoning, context understanding, automated workflows |
 | [GPT Engineer](https://github.com/AntonOsika/gpt-engineer) | Codebase Generator | Generates entire codebases from natural language descriptions | Project scaffolding, iterative development, architecture generation |
+| [Maximus-AI](https://maximus.ai) | Development Agent | AI agent for comprehensive software development and project management | Project orchestration, development automation, intelligent task handling |
 | [OpenDevin](https://github.com/OpenDevin/OpenDevin) | Open Source Agent | Open-source autonomous coding and debugging agent | Local deployment, interactive development, community-driven |
+| [Qwen3-Coder](https://qwen.ai) | Code Generation | Advanced AI coding agent with multi-language capabilities | Code generation, debugging assistance, development automation |
 | [SWE Agent](https://swe-agent.com/) | Software Engineering | AI agent for comprehensive software engineering workflows | Task breakdown, project delivery, issue resolution |
 
 ### 💡 Code Completion & Assistance
@@ -119,18 +123,26 @@ AI agents specializing in automating software development tasks through autonomo
 |------|----------|-------------|------------------|
 | [Aide](https://aide.dev) | Code Assistant | AI-powered coding assistant for development workflows | Context-aware suggestions, multi-language support, IDE integration |
 | [Aider](https://aider.chat) | Pair Programmer | AI pair programmer for collaborative code generation and editing | Git integration, multi-file editing, command-line interface |
+| [Bolt.new](https://bolt.new) | Rapid Development | AI-powered rapid web application development platform | Instant deployment, full-stack generation, real-time collaboration |
 | [Claude Code](https://docs.claude.com/en/docs/claude-code) | Advanced Assistant | Anthropic's specialized coding agent for complex projects | Multi-language support, project building, complex reasoning |
+| [Cline](https://cline.ai) | Code Assistant | AI coding assistant with advanced context understanding | Intelligent suggestions, code analysis, development optimization |
 | [Code Autopilot](https://codeautopilot.com) | Development Assistant | AI-powered automated coding and development workflows | Full-stack development, automated processes, code generation |
+| [Codel](https://codel.ai) | Code Generation | AI platform for intelligent code generation and assistance | Smart code completion, error detection, optimization suggestions |
+| [Codev](https://codev.ai) | Development Assistant | AI-powered development assistant and code optimization tool | Code improvement, debugging assistance, performance optimization |
+| [Codex CLI](https://codex-cli.com) | Command Line | AI-powered command-line interface for code generation | Terminal integration, command automation, developer productivity |
 | [CodeGPT](https://codegpt.co) | IDE Integration | AI coding assistant with GPT integration | IDE plugins, code completion, documentation generation |
 | [Continue](https://continue.dev) | Open Source Assistant | Open-source AI code assistant for VS Code and JetBrains | Local and cloud models, customizable, privacy-focused |
 | [Cursor](https://cursor.sh) | AI Editor | AI-powered code editor with intelligent assistance | Built-in AI, code prediction, natural language editing |
+| [Gemini CLI](https://gemini-cli.dev) | Command Line | Google's AI-powered command-line development assistant | Terminal integration, Google AI integration, development automation |
 | [GitHub Copilot](https://github.com/features/copilot) | Code Completion | Microsoft's AI pair programmer with real-time suggestions | IDE integration, code completion, chat interface, enterprise features |
 | [Kiro AI IDE](https://kiro.ai) | Development Environment | AI-enhanced integrated development environment | Built-in AI assistance, intelligent completion, project management |
+| [Mentat](https://mentat.ai) | Code Assistant | AI coding assistant with advanced reasoning capabilities | Context-aware coding, intelligent suggestions, development optimization |
 | [Replit Agent](https://replit.com/ai) | Cloud Development | AI-powered cloud development environment | Full-stack development, deployment, real-time collaboration |
 | [Sourcegraph Cody AI](https://sourcegraph.com/cody) | Code Intelligence | AI assistant for code search, understanding, and generation | Codebase intelligence, semantic search, development insights |
 | [Supermaven](https://supermaven.com) | Fast Completion | High-speed AI code completion with advanced prediction | Ultra-fast completion, context awareness, multi-language support |
 | [Tabby](https://tabby.tabbyml.com) | Self-hosted Assistant | Privacy-focused self-hosted AI coding assistant | Local deployment, customizable models, enterprise security |
 | [Tabnine](https://tabnine.com) | Enterprise Completion | AI code completion with team learning capabilities | Multi-language support, team insights, enterprise features |
+| [Tusk](https://tusk.dev) | Development Assistant | AI-powered development assistant for code optimization | Code analysis, performance optimization, development enhancement |
 
 #### 📊 Code Completion & Assistance Comparison
 
@@ -138,18 +150,26 @@ AI agents specializing in automating software development tasks through autonomo
 |------|-------------|-------------------|------------|---------------|---------|----------|
 | Aide | Multiple IDEs | 20+ languages | Cloud | Limited | Contact sales | Context-aware development |
 | Aider | Command line | Multiple | Local/Cloud | Git integration | Open source | Terminal-based pair programming |
+| Bolt.new | Web-based | Full-stack web | Cloud | Yes | Contact sales | Rapid web app development |
 | Claude Code | CLI/Terminal | 20+ languages | Cloud | Limited | Paid | Complex project automation |
+| Cline | Multiple IDEs | Multiple | Cloud | Basic | Contact sales | Advanced context understanding |
 | Code Autopilot | Web-based | Full-stack | Cloud | Yes | Contact sales | Automated development workflows |
+| Codel | Multiple IDEs | Multiple | Cloud | Basic | Contact sales | Intelligent code generation |
+| Codev | Multiple IDEs | Multiple | Cloud | Basic | Contact sales | Code optimization |
+| Codex CLI | Command line | Multiple | Cloud | Basic | Contact sales | Terminal-based development |
 | CodeGPT | VS Code, JetBrains | 12+ languages | Cloud/Local | Basic | Freemium | Plugin-based assistance |
 | Continue | VS Code, JetBrains | Multiple | Local/Cloud | Limited | Open source | Privacy-focused development |
 | Cursor | Built-in editor | Multiple | Cloud | Yes | Subscription | AI-first code editing |
+| Gemini CLI | Command line | Multiple | Cloud | Basic | Contact sales | Google ecosystem integration |
 | GitHub Copilot | All major IDEs | 12+ languages | Cloud | Enterprise | $10-20/month | Industry standard completion |
 | Kiro AI IDE | Built-in IDE | Multiple | Cloud | Yes | Contact sales | Integrated development experience |
+| Mentat | Multiple IDEs | Multiple | Cloud | Basic | Contact sales | Advanced reasoning capabilities |
 | Replit Agent | Replit only | Multiple | Cloud | Yes | Freemium | Cloud-based development |
 | Sourcegraph Cody | Multiple IDEs | Multiple | Cloud/On-premise | Enterprise | Enterprise | Enterprise codebase intelligence |
 | Supermaven | Multiple IDEs | Multiple | Cloud | Basic | Freemium | Ultra-fast code completion |
 | Tabby | Multiple IDEs | Multiple | Self-hosted | Enterprise | Open source | Self-hosted privacy |
 | Tabnine | All major IDEs | 30+ languages | Cloud/Local | Enterprise | $12-39/month | Team learning and insights |
+| Tusk | Multiple IDEs | Multiple | Cloud | Yes | Contact sales | Code optimization and analysis |
 
 ### 🔍 Code Analysis & Quality
 
@@ -178,6 +198,7 @@ AI agents specializing in automating software development tasks through autonomo
 | [bloop AI](https://bloop.ai) | Code Understanding | AI-powered code search and codebase understanding | Semantic search, codebase exploration, documentation generation |
 | [bumpgen](https://bumpgen.com) | Version Management | AI-powered version management and release automation | Automated versioning, changelog generation, release workflows |
 | [Clippinator](https://clippinator.com) | Snippet Management | AI-powered code snippet management and organization | Snippet organization, code templates, reusable components |
+| [Cloud Architect Agent](https://cloudarchitect.ai) | Cloud Architecture | AI agent for cloud architecture design and optimization | Architecture planning, cloud optimization, infrastructure design |
 | [Codename Goose](https://goose.ai) | Rapid Prototyping | AI-powered code generation for rapid development | Natural language to code, multi-framework support, quick prototyping |
 | [Cody by ajhous44](https://cody.ai) | Workflow Assistant | AI coding assistant for development workflow optimization | Context-aware assistance, codebase understanding, automation |
 | [Copilot Studio](https://copilot.microsoft.com/studio) | Low-code Builder | Visual interface for building custom AI agents | Customizable workflows, Microsoft integration, low-code development |
@@ -194,13 +215,20 @@ AI agents specializing in automating software development tasks through autonomo
 | [Jules](https://jules.app) | Development Companion | AI-powered coding companion for development tasks | Intelligent suggestions, code explanation, development guidance |
 | [Kimi-Dev](https://kimi.moonshot.cn) | Localized Assistant | AI development assistant optimized for Chinese developers | Chinese language support, local patterns, cultural adaptation |
 | [MicroGPT](https://microgpt.dev) | Lightweight Assistant | Resource-efficient AI coding assistant | Minimal resource usage, fast responses, essential features |
+| [Micro Agent](https://microagent.ai) | Micro-Development | AI agent for micro-service development and management | Microservice architecture, service coordination, deployment automation |
+| [MiniAGI](https://miniagi.ai) | Lightweight AGI | Lightweight autonomous general intelligence for development tasks | Task automation, intelligent reasoning, development assistance |
 | [Moddy](https://moddy.ai) | Code Enhancement | AI-powered code modification and enhancement | Automated improvements, refactoring suggestions, optimization |
 | [Neo](https://neo.ai) | Development Suite | Comprehensive AI-powered development platform | Full development suite, project management, code intelligence |
 | [Onlook](https://onlook.dev) | Visual Development | AI-powered visual development for UI creation | Visual editing, component generation, design-to-code conversion |
+| [OpenHands](https://openhands.ai) | Development Assistant | Open-source AI assistant for hands-on development tasks | Interactive development, task automation, collaborative coding |
 | [PearAI](https://pear.ai) | Collaborative Assistant | AI-powered coding assistant with team features | Team collaboration, code sharing, intelligent assistance |
 | [Pieces](https://pieces.app) | Workflow Management | AI-powered code snippet and workflow management | Snippet organization, context preservation, workflow optimization |
+| [ReactAgent](https://reactagent.ai) | React Development | AI agent specialized in React application development | React-specific assistance, component generation, state management |
+| [Recursive AI](https://recursive.ai) | Recursive Development | AI agent for recursive problem-solving and development | Complex problem decomposition, recursive algorithms, advanced reasoning |
 | [Smol AI Developer](https://smol.ai) | Micro-Development | AI assistant for small-scale development and prototyping | Rapid prototyping, small projects, learning assistance |
+| [Softgen](https://softgen.ai) | Software Generation | AI platform for automated software generation and deployment | Full software lifecycle, automated testing, deployment pipelines |
 | [Taxy AI](https://taxy.ai/) | Testing Automation | API and web UI testing agent with automation | Automated testing workflows, UI testing, API validation |
+| [Trae Agent](https://trae.ai) | Development Tracking | AI agent for development progress tracking and optimization | Progress monitoring, productivity analytics, development insights |
 | [v0](https://v0.dev) | UI Generation | AI-powered UI component generation from descriptions | Component creation, React/Vue support, rapid UI development |
 | [Windframe](https://windframe.dev) | Frontend Development | AI-powered frontend development and design platform | Visual development, component libraries, design systems |
 | [Windsurf](https://windsurf.ai) | Enhanced Environment | AI-enhanced development environment with intelligent features | Smart completion, project insights, development acceleration |
@@ -217,6 +245,7 @@ AI agents specializing in automating software development tasks through autonomo
 | bloop AI | Code Understanding | Codebase exploration | Cloud | Yes | Contact sales | Large codebase navigation |
 | bumpgen | Version Management | Release automation | Cloud | Yes | Contact sales | Version control workflows |
 | Clippinator | Snippet Management | Code organization | Cloud | Basic | Contact sales | Code snippet management |
+| Cloud Architect Agent | Cloud Architecture | Architecture design | Cloud | Yes | Contact sales | Cloud infrastructure planning |
 | Codename Goose | Rapid Prototyping | Quick development | Cloud | Limited | Contact sales | Fast prototyping |
 | Cody by ajhous44 | Workflow Assistant | Development optimization | Cloud | Basic | Contact sales | Workflow automation |
 | Copilot Studio | Low-code Builder | Visual agent building | Cloud | Enterprise | Enterprise | Microsoft-integrated development |
@@ -232,14 +261,21 @@ AI agents specializing in automating software development tasks through autonomo
 | Grit | Large-scale Migration | Enterprise refactoring | Cloud/On-premise | Enterprise | Contact sales | Large-scale migrations |
 | Jules | Development Companion | Coding assistance | Cloud | Basic | Contact sales | Individual productivity |
 | Kimi-Dev | Localized Assistant | Chinese development | Cloud | Basic | Contact sales | Chinese language support |
+| Micro Agent | Micro-Development | Microservice management | Cloud | Yes | Contact sales | Microservice architecture |
 | MicroGPT | Lightweight Assistant | Resource efficiency | Local/Cloud | Limited | Open source | Minimal resource usage |
+| MiniAGI | Lightweight AGI | Task automation | Cloud | Limited | Contact sales | Development task automation |
 | Moddy | Code Enhancement | Code improvement | Cloud | Basic | Contact sales | Code optimization |
 | Neo | Development Suite | Comprehensive platform | Cloud | Yes | Contact sales | Full-stack development |
 | Onlook | Visual Development | UI creation | Cloud | Yes | Contact sales | Visual UI development |
+| OpenHands | Development Assistant | Interactive development | Cloud | Yes | Contact sales | Hands-on development tasks |
 | PearAI | Collaborative Assistant | Team development | Cloud | High | Contact sales | Team collaboration |
 | Pieces | Workflow Management | Context preservation | Cloud/Local | Yes | Freemium | Developer productivity |
+| ReactAgent | React Development | React specialization | Cloud | Yes | Contact sales | React application development |
+| Recursive AI | Recursive Development | Complex problem solving | Cloud | Limited | Contact sales | Advanced algorithmic development |
 | Smol AI Developer | Micro-Development | Small projects | Cloud | Limited | Contact sales | Learning and prototyping |
+| Softgen | Software Generation | Full lifecycle automation | Cloud | Enterprise | Contact sales | Automated software generation |
 | Taxy AI | Testing Automation | UI/API testing | Cloud | Yes | Contact sales | Automated testing |
+| Trae Agent | Development Tracking | Progress monitoring | Cloud | Yes | Contact sales | Development analytics |
 | v0 | UI Generation | Component creation | Cloud | Limited | Contact sales | React/Vue development |
 | Windframe | Frontend Development | Frontend tooling | Cloud | Yes | Contact sales | Frontend workflows |
 | Windsurf | Enhanced Environment | AI-enhanced IDE | Cloud | Yes | Contact sales | Enhanced development experience |
