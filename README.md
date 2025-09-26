@@ -1105,6 +1105,200 @@ Comprehensive platforms and frameworks for building, deploying, and managing AI 
 | [Xpander AI](https://xpander.ai) | Expansion Platform | Platform for building AI agents with expandable capabilities | Modular architecture, capability expansion, scalable development |
 | [Zylon AI](https://zylon.ai) | Advanced Platform | Platform for building next-generation AI agents | Cutting-edge technology, advanced capabilities, future-ready development |
 
+### 📊 AI Agent Development Platforms Comparison
+
+| Platform | Category | Primary Focus | Deployment | Pricing | Best For |
+|----------|----------|---------------|------------|---------|----------|
+| 10Web | Web Development | Website agents | Cloud | Subscription | Web development teams |
+| 2501 | Agent Framework | Multi-agent systems | Cloud | Contact sales | Enterprise agent orchestration |
+| Abacus AI | Enterprise Platform | MLOps integration | Cloud | Enterprise | Large-scale ML operations |
+| Agency AI | Agent Studio | Visual workflows | Cloud | Contact sales | Non-technical users |
+| Agent Pilot | Development Studio | Agent testing | Cloud | Subscription | Agent developers |
+| Agenta | Development Platform | LLM testing | Cloud | Freemium | LLM application developers |
+| AgentGPT | Agent Builder | Autonomous agents | Web-based | Freemium | Individual developers |
+| Agentive | Agent Framework | Conversational AI | Cloud | Contact sales | Chatbot developers |
+| AGENTS.inc | Enterprise Platform | Enterprise agents | Cloud | Enterprise | Large organizations |
+| AgentVerse | Agent Network | Decentralized agents | Blockchain | Contact sales | Web3 developers |
+| AI Agent Layer | Infrastructure | Agent infrastructure | Cloud | Usage-based | Platform developers |
+| AI Refinery | Development Studio | Agent optimization | Cloud | Subscription | Performance-focused teams |
+| AI Studio Stream Realtime | Real-time Platform | Live interactions | Cloud | Contact sales | Real-time applications |
+| Airkit.ai | Customer Experience | CX automation | Cloud | Enterprise | Customer experience teams |
+| Aivah | Conversational AI | Chatbot building | Cloud | Subscription | Conversational AI developers |
+| aiXplain | AI Marketplace | Model integration | Cloud | Usage-based | Multi-model applications |
+| Amazon Bedrock AgentCore | Cloud Platform | AWS integration | AWS | Usage-based | AWS ecosystem users |
+| Amazon Bedrock Agents | Agent Service | Managed agents | AWS | Usage-based | Enterprise AWS users |
+| Anon | Privacy Platform | Privacy-focused | Cloud | Contact sales | Privacy-conscious developers |
+| AntWorks | Enterprise Automation | Process automation | On-premise/Cloud | Enterprise | Large enterprise automation |
+| AnyModel | Model Platform | Multi-model support | Cloud | Subscription | Model-agnostic development |
+| Appsmith Agents | Low-code Platform | App development | Cloud | Freemium | Low-code developers |
+| Assisterr AI | Assistant Builder | AI assistants | Cloud | Subscription | Assistant developers |
+| Atlas AI | Development Framework | Comprehensive development | Cloud | Contact sales | Full-stack development |
+| Azure AI Foundry | Cloud Platform | Microsoft ecosystem | Azure | Usage-based | Microsoft enterprise users |
+| Azure AI Vision | Vision AI | Computer vision | Azure | Usage-based | Vision application developers |
+| Bolt.diy | DIY Platform | Simple agents | Cloud | Freemium | Beginners and hobbyists |
+| BOTfriends X | Bot Platform | Conversational bots | Cloud | Subscription | Bot developers |
+| Botpress | Open Source | Conversational AI | Self-hosted/Cloud | Open source | Open-source developers |
+| Bubble.io | No-code Platform | Web applications | Cloud | Subscription | No-code developers |
+| Capx AI | Agent Builder | Business agents | Cloud | Contact sales | Business automation |
+| Cascadeur | Animation Platform | Animation agents | Desktop | Subscription | Animation studios |
+| causaLens AI | Causal AI | Decision systems | Cloud | Enterprise | Data scientists |
+| Ceramic.ai | Data Platform | Data-driven agents | Cloud | Contact sales | Data-focused applications |
+| Chai | Conversational AI | Character AI | Cloud | Freemium | Character-based applications |
+| Chaindesk | Customer Support | Support automation | Cloud | Subscription | Customer support teams |
+| ChatBotKit | Chatbot Builder | Advanced chatbots | Cloud | Subscription | Chatbot developers |
+| ChatLLM Teams | Team Platform | Team collaboration | Cloud | Subscription | Team-based development |
+| Chipp AI | Agent Builder | Simple agent creation | Cloud | Freemium | Non-technical users |
+| CodeConductor | Code Platform | Code generation | Cloud | Contact sales | Development automation |
+| Cognigy | Enterprise Platform | Contact center AI | Cloud | Enterprise | Contact centers |
+| Cohere | Language Platform | NLP applications | Cloud/API | Usage-based | Language model developers |
+| CollabAI | Collaboration Platform | Team productivity | Cloud | Subscription | Collaborative teams |
+| Conviction AI | Decision Platform | Decision automation | Cloud | Contact sales | Decision-focused applications |
+| CrewAI | Multi-Agent Framework | Agent teams | Open source | Open source | Multi-agent systems |
+| Cubeo AI | Business Platform | Business processes | Cloud | Contact sales | Business automation |
+| Databerry | Data Platform | Knowledge management | Cloud | Freemium | Knowledge-based applications |
+| Datamatics TruAgentic | Enterprise Platform | Intelligent automation | On-premise/Cloud | Enterprise | Enterprise process automation |
+| DataRobot | MLOps Platform | ML deployment | Cloud | Enterprise | ML operations teams |
+| /dev/agents | Developer Platform | Developer tools | Cloud | Contact sales | Software developers |
+| Deventral | Decentralized Platform | Blockchain agents | Blockchain | Contact sales | Decentralized applications |
+| Dify | LLM Platform | LLM applications | Cloud/Self-hosted | Freemium | LLM developers |
+| DotAgent AI | Agent Framework | Domain-specific agents | Cloud | Contact sales | Specialized applications |
+| Dust AI | Workspace Platform | Workplace productivity | Cloud | Subscription | Knowledge workers |
+| Dynamiq | Dynamic Platform | Adaptive agents | Cloud | Contact sales | Dynamic applications |
+| Dynamiq AI Agents | Agent Orchestration | Workflow management | Cloud | Enterprise | Complex workflows |
+| E2B | Development Environment | Cloud development | Cloud | Freemium | Remote development |
+| Emergence AI | Emergent Platform | Complex systems | Cloud | Contact sales | Research applications |
+| Entelligence.AI | Intelligence Platform | Cognitive automation | Cloud | Enterprise | Intelligent automation |
+| Epsilla | Vector Database | Knowledge retrieval | Cloud/Self-hosted | Freemium | Knowledge applications |
+| Exa AI | Search Platform | Semantic search | Cloud/API | Usage-based | Search applications |
+| Faktory | Automation Platform | Industrial automation | Cloud | Contact sales | Manufacturing |
+| Fetch.ai | Blockchain Platform | Economic agents | Blockchain | Contact sales | DeFi applications |
+| FinRobot | Financial Platform | Financial automation | Cloud | Contact sales | Financial services |
+| Firebase Studio | Mobile Platform | Mobile applications | Cloud | Usage-based | Mobile developers |
+| Firecrawl AI | Web Scraping | Data extraction | Cloud/API | Usage-based | Data extraction teams |
+| Fleek | Web3 Platform | Decentralized apps | Web3 | Contact sales | Web3 developers |
+| FlowHunt | Workflow Platform | Process automation | Cloud | Subscription | Workflow automation |
+| Flowise | Open Source | Visual LLM apps | Self-hosted | Open source | Open-source enthusiasts |
+| Forefront AI | AI Platform | Advanced agents | Cloud | Contact sales | Advanced AI applications |
+| Foundry.ai | Enterprise Platform | Industrial AI | Cloud | Enterprise | Industrial applications |
+| Frontline | Customer Platform | Customer service | Cloud | Contact sales | Customer-facing teams |
+| Fuse AI | Integration Platform | Service integration | Cloud | Contact sales | Integration-heavy applications |
+| Future AGI | AGI Platform | General intelligence | Cloud | Contact sales | AGI research |
+| GaiaHub | Ecosystem Platform | Agent ecosystems | Cloud | Contact sales | Large-scale ecosystems |
+| Genesis Bots | Bot Platform | Advanced bots | Cloud | Contact sales | Next-gen bot applications |
+| Gentoro | Enterprise Platform | Business automation | Cloud | Enterprise | Enterprise automation |
+| Google Agentspace | Google Platform | Google integration | Cloud | Contact sales | Google ecosystem users |
+| Google Cloud Vision API | Vision Platform | Computer vision | Cloud | Usage-based | Vision developers |
+| Graphlit | Knowledge Platform | Knowledge graphs | Cloud | Contact sales | Knowledge management |
+| Hapax | Language Platform | Advanced NLP | Cloud | Contact sales | Advanced language applications |
+| Hebbia AI | Research Platform | Research automation | Cloud | Contact sales | Research teams |
+| Hercules AI | Automation Platform | Heavy automation | Cloud | Enterprise | Large-scale automation |
+| HeyBoss | Management Platform | Management automation | Cloud | Contact sales | Management teams |
+| HeyBoss AI | Business Platform | Business management | Cloud | Contact sales | Business leaders |
+| Humain AI | Human-like Platform | Natural interactions | Cloud | Contact sales | Human-like applications |
+| HyperCycle | Blockchain Platform | Decentralized AI | Blockchain | Contact sales | Blockchain AI |
+| Julep | Development Platform | Conversational AI | Cloud | Contact sales | Conversation developers |
+| Kadoa | Data Platform | Data extraction | Cloud | Contact sales | Data teams |
+| KanzzAI | Multi-purpose Platform | Versatile development | Cloud | Contact sales | Multi-use applications |
+| KOGO AI Agents | Agent Platform | Agent management | Cloud | Contact sales | Agent lifecycle management |
+| Kore.ai | Enterprise Platform | Enterprise chatbots | Cloud | Enterprise | Enterprise conversational AI |
+| LandingLens | Computer Vision | Visual inspection | Cloud | Contact sales | Quality control |
+| Langbase | Language Platform | Language models | Cloud | Contact sales | Language applications |
+| Langflow | Visual Platform | Visual development | Cloud/Self-hosted | Open source | Visual developers |
+| LaunchLemonade | Startup Platform | Startup automation | Cloud | Contact sales | Startup teams |
+| Lift AI | Optimization Platform | Performance optimization | Cloud | Contact sales | Optimization-focused teams |
+| Linkup | Connection Platform | Service connectivity | Cloud | Contact sales | Integration platforms |
+| Liquid AI | Adaptive Platform | Adaptive agents | Cloud | Contact sales | Adaptive applications |
+| LlamaCloud | Cloud Platform | LLM deployment | Cloud | Usage-based | LLM applications |
+| LLMStack | Stack Platform | Full-stack LLM | Cloud/Self-hosted | Freemium | Full-stack developers |
+| LM Studio | Model Studio | Model development | Desktop | Freemium | Model developers |
+| LobeHub | Development Hub | Community development | Cloud | Open source | Community developers |
+| Lovable | Development Platform | Engaging agents | Cloud | Contact sales | User experience focused |
+| Lyzr AI | Enterprise Platform | Business intelligence | Cloud | Enterprise | Enterprise BI |
+| Magick | Visual Platform | No-code development | Cloud | Freemium | No-code developers |
+| MCP.so | Protocol Platform | Protocol implementation | Cloud | Contact sales | Protocol developers |
+| Memetica AI | Cultural Platform | Cultural intelligence | Cloud | Contact sales | Culturally-aware applications |
+| Mendable | Documentation Platform | Documentation AI | Cloud | Subscription | Documentation teams |
+| MetaHuman Creator | Avatar Platform | Realistic avatars | Desktop | Subscription | Avatar creation |
+| MindPal | Productivity Platform | Personal productivity | Cloud | Subscription | Individual productivity |
+| Mintii | Creation Platform | Creative agents | Cloud | Contact sales | Creative applications |
+| Mission Squad | Team Platform | Mission coordination | Cloud | Contact sales | Mission-critical teams |
+| ModelBench AI | Benchmarking Platform | Model evaluation | Cloud | Contact sales | ML evaluation teams |
+| Mogoj AI | Multi-modal Platform | Cross-media intelligence | Cloud | Contact sales | Multi-modal applications |
+| MS Copilot Studio | Microsoft Platform | Microsoft ecosystem | Cloud | Subscription | Microsoft users |
+| MS Fabric | Data Platform | Data analytics | Cloud | Subscription | Microsoft data teams |
+| Natoma MCP Platform | Protocol Platform | Context protocols | Cloud | Contact sales | Protocol compliance |
+| Nelima | Development Platform | Intelligent automation | Cloud | Contact sales | Automation teams |
+| NeuraFlash | Neural Platform | Neural networks | Cloud | Contact sales | Deep learning applications |
+| NexusGPT | GPT Platform | GPT integration | Cloud | Contact sales | GPT-based applications |
+| Nimble AI | Agile Platform | Agile development | Cloud | Contact sales | Agile teams |
+| Nova Agent | Agent Platform | Next-gen agents | Cloud | Contact sales | Cutting-edge applications |
+| NVIDIA Omniverse | 3D Platform | 3D simulation | Desktop/Cloud | Subscription | 3D and simulation |
+| Occamise | Simplification Platform | Simple agents | Cloud | Contact sales | Simplicity-focused |
+| Odin AI | Mythology Platform | Strategic intelligence | Cloud | Contact sales | Strategic applications |
+| Ollama | Local Platform | Local deployment | Local | Open source | Privacy-focused users |
+| OneReach.ai | Omnichannel Platform | Multi-channel agents | Cloud | Enterprise | Omnichannel experiences |
+| OpenAgents | Open Platform | Open development | Open source | Open source | Open-source community |
+| OpenPipe AI | Pipeline Platform | Data pipelines | Cloud | Contact sales | Data pipeline teams |
+| OpenRouter AI | Routing Platform | Intelligent routing | Cloud | Usage-based | Multi-service applications |
+| Oraczen's Zen Platform | Mindful Platform | Ethical AI | Cloud | Contact sales | Ethics-focused development |
+| OrbitAI | Orbital Platform | Comprehensive analysis | Cloud | Contact sales | Analytical applications |
+| Orbofi | Creative Platform | Creative automation | Cloud | Contact sales | Creative industries |
+| OutSystems | Low-code Platform | Enterprise apps | Cloud | Enterprise | Enterprise low-code |
+| Pamir AI | Mountain Platform | High performance | Cloud | Contact sales | Performance-critical applications |
+| Parloa | Conversation Platform | Voice AI | Cloud | Enterprise | Voice applications |
+| Phala Network | Blockchain Platform | Privacy agents | Blockchain | Contact sales | Privacy-focused blockchain |
+| Portia AI | Intelligent Platform | Sophisticated reasoning | Cloud | Contact sales | Complex reasoning |
+| Potpie AI | Recipe Platform | Workflow recipes | Cloud | Contact sales | Process-oriented teams |
+| Praxis AI | Practical Platform | Action-oriented agents | Cloud | Contact sales | Action-focused applications |
+| Project Oscar | Project Platform | Project management | Cloud | Contact sales | Project teams |
+| Prolific | Productive Platform | High productivity | Cloud | Contact sales | Productivity-focused |
+| Protocraft AI | Protocol Platform | Protocol compliance | Cloud | Contact sales | Standards-compliant development |
+| Quant | Quantitative Platform | Mathematical modeling | Cloud | Contact sales | Quantitative analysis |
+| Raccoon AI | Clever Platform | Problem-solving | Cloud | Contact sales | Problem-solving applications |
+| RapidCanvas | Rapid Platform | Quick development | Cloud | Contact sales | Rapid prototyping |
+| ReByte | Optimization Platform | Efficiency optimization | Cloud | Contact sales | Performance optimization |
+| Reiki by Web3Go | Web3 Platform | Web3 integration | Blockchain | Contact sales | Web3 applications |
+| Relevance AI Agents | Relevance Platform | Contextual relevance | Cloud | Contact sales | Context-aware applications |
+| Reworkd | Automation Platform | Work automation | Cloud | Contact sales | Workplace automation |
+| Rivalz Network | Network Platform | Competitive agents | Cloud | Contact sales | Competitive applications |
+| SageFlow | Wisdom Platform | Knowledge management | Cloud | Contact sales | Knowledge-intensive applications |
+| Salesforce Agentforce | CRM Platform | Sales automation | Cloud | Subscription | Salesforce users |
+| SandboxAQ | Quantum Platform | Quantum-enhanced AI | Cloud | Contact sales | Quantum computing |
+| SAP Joule Studio | Enterprise Platform | ERP integration | Cloud | Enterprise | SAP ecosystem users |
+| Scrape.do | Scraping Platform | Web scraping | Cloud | Usage-based | Data extraction |
+| Sema4.ai | Automation Platform | Process automation | Cloud | Contact sales | Business process automation |
+| Seraphnet AI | Angelic Platform | Helpful automation | Cloud | Contact sales | Ethics-focused applications |
+| ShipStation.AI | Logistics Platform | Shipping automation | Cloud | Contact sales | Logistics teams |
+| Simli | Simulation Platform | Agent simulation | Cloud | Contact sales | Testing and simulation |
+| Singularitycrew | Singularity Platform | Advanced AI | Cloud | Contact sales | Cutting-edge research |
+| SingularityNET | Decentralized Platform | AI marketplace | Blockchain | Contact sales | Decentralized AI |
+| Smithery | Crafting Platform | Custom agents | Cloud | Contact sales | Custom development |
+| SmythOS | Operating System | Agent orchestration | Cloud | Contact sales | System-wide automation |
+| Snorkel Flow | Data Platform | Data-centric AI | Cloud | Enterprise | Data labeling teams |
+| Stack AI | Stack Platform | Full-stack development | Cloud | Contact sales | Complete development |
+| Stammer AI | Communication Platform | Communication focus | Cloud | Contact sales | Communication applications |
+| Superbo GenAI Fabric | Generation Platform | Generative AI | Cloud | Contact sales | Content generation |
+| SwarmZero.ai | Swarm Platform | Swarm intelligence | Cloud | Contact sales | Collective intelligence |
+| Synergetics AI | Synergy Platform | Collaborative systems | Cloud | Contact sales | Synergistic applications |
+| TaskingAI | Task Platform | Task automation | Cloud | Contact sales | Task-oriented applications |
+| Tavily | Research Platform | Research automation | Cloud | Contact sales | Research teams |
+| Teammately | Team Platform | Team collaboration | Cloud | Contact sales | Team-based applications |
+| Tempo Labs | Timing Platform | Time-aware agents | Cloud | Contact sales | Time-sensitive applications |
+| The Simulation | Simulation Platform | Virtual environments | Cloud | Contact sales | Simulation applications |
+| Together AI | Collaboration Platform | Collaborative AI | Cloud | Contact sales | Collaborative intelligence |
+| Turbotic AI Assistant | Automation Platform | High-speed automation | Cloud | Contact sales | Speed-critical applications |
+| Ungate AI | Access Platform | Unrestricted capabilities | Cloud | Contact sales | Flexible development |
+| Unleash | Feature Platform | Feature management | Cloud | Subscription | Feature flag management |
+| Vertex AI Agent Builder | Google Cloud | Enterprise agents | Cloud | Usage-based | Google Cloud enterprise |
+| VisionAgent | Computer Vision | Visual intelligence | Cloud | Contact sales | Computer vision |
+| VisualAgents.ai | Visual Platform | Visual interfaces | Cloud | Contact sales | Visual applications |
+| Voiceflow | Conversational Platform | Voice and chat | Cloud | Subscription | Conversational interfaces |
+| Web3GPT | Web3 Platform | Blockchain integration | Blockchain | Contact sales | Web3 development |
+| Windows Agent Arena | Windows Platform | Windows integration | Desktop | Contact sales | Windows-native applications |
+| Wordware | Language Platform | Language focus | Cloud | Contact sales | Text-heavy applications |
+| Woz | Wizard Platform | Intelligent assistance | Cloud | Contact sales | Complex problem solving |
+| Xpander AI | Expansion Platform | Expandable capabilities | Cloud | Contact sales | Modular development |
+| Zylon AI | Advanced Platform | Next-generation AI | Cloud | Contact sales | Future-ready applications |
 ---
 
 ## 📊 AI Data Analysts
