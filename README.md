@@ -1933,6 +1933,106 @@ AI agents designed to accelerate and enhance research processes across academic,
 
 ---
 
+## 👤 Personal AI Assistants
+
+AI assistants designed specifically for individual users to enhance personal productivity, manage daily tasks, and provide personalized support across various aspects of life. These platforms focus on individual needs, personal preferences, and lifestyle optimization.
+
+| Name | Category | Description | Notable Features |
+|------|----------|-------------|------------------|
+| [11.ai](https://11.ai/) | Personal Assistant | AI-powered personal assistant for daily task management and productivity | Task automation, personal scheduling, productivity optimization |
+| [AGRIVI Engage](https://agrivi.com/) | Agriculture Assistant | Personal AI assistant for agricultural management and farming optimization | Farm management, crop monitoring, agricultural insights |
+| [Ainisa](https://ainisa.com/) | Personal Assistant | AI-powered personal assistant for lifestyle and productivity management | Personal productivity, lifestyle optimization |
+| [AITernet](https://aiternet.com/) | Personal Assistant | AI assistant for internet browsing and online task automation | Web automation, online task management |
+| [Alphatwin](https://alphatwin.ai/) | Personal Assistant | AI-powered personal twin for productivity and task management | Personal automation, digital twin capabilities |
+| [AstroChart.ai](https://astrochart.ai/) | Astrology Assistant | AI assistant for personalized astrology readings and insights | Astrology analysis, personalized horoscopes |
+| [Biliki AI](https://biliki.ai/) | Personal Assistant | AI-powered personal assistant for daily task automation | Personal productivity, task management |
+| [Cal AI](https://cal.ai/) | Calendar Assistant | AI assistant for intelligent calendar management and scheduling | Smart scheduling, calendar optimization, meeting coordination |
+| [CrushOn.AI](https://crushon.ai/) | Companion | AI companion platform for personal interaction and entertainment | AI companionship, personal interaction |
+| [Food Checker: Ingredients Scan](https://foodchecker.app/) | Health Assistant | AI assistant for food ingredient analysis and dietary management | Ingredient scanning, dietary analysis, health tracking |
+| [Fyxer AI](https://fyxer.ai/) | Personal Assistant | AI-powered personal assistant for problem-solving and task automation | Problem-solving, personal automation |
+| [Genspark Super Agent](https://genspark.ai/) | Personal Assistant | AI super agent for comprehensive personal assistance and automation | Multi-task automation, personal productivity |
+| [GM Network](https://gm.network/) | Personal Assistant | AI assistant network for personal productivity and social management | Social automation, personal networking |
+| [GPTDiscord](https://gptdiscord.com/) | Discord Assistant | AI assistant for Discord server management and personal communication | Discord automation, communication management |
+| [HeyReal AI](https://heyreal.ai/) | Personal Assistant | AI-powered personal assistant for real-time task management | Real-time assistance, personal productivity |
+| [Humane AI Pin](https://humane.com/) | Wearable Assistant | Wearable AI assistant for hands-free personal computing | Wearable technology, voice interaction, hands-free computing |
+| [HyperWrite AI Agent](https://hyperwrite.ai/) | Writing Assistant | AI writing assistant for personal content creation and communication | Writing automation, content generation, personal communication |
+| [Inner Voice](https://innervoice.ai/) | Mental Health Assistant | AI assistant for personal mental health and wellness support | Mental wellness, personal reflection, emotional support |
+| [IntervAI](https://intervai.com/) | Interview Assistant | AI assistant for interview preparation and career development | Interview coaching, career guidance, skill development |
+| [Jan AI](https://jan.ai/) | Personal Assistant | Open-source personal AI assistant for privacy-focused automation | Privacy-focused, open-source, personal automation |
+| [Kimi AI](https://kimi.ai/) | Personal Assistant | AI-powered personal assistant for Chinese-speaking users | Chinese language support, personal productivity |
+| [Lindy.ai](https://lindy.ai/) | Personal Assistant | AI-powered personal assistant for email and communication management | Email automation, communication management, personal productivity |
+| [Lucy](https://lucy.ai/) | Personal Assistant | AI assistant for personal task management and productivity optimization | Task automation, personal scheduling |
+| [Merlin AI](https://merlin.ai/) | Personal Assistant | AI-powered personal assistant for web browsing and online productivity | Web assistance, online productivity, browser automation |
+| [Mezi](https://mezi.com/) | Travel Assistant | AI-powered personal travel assistant for trip planning and booking | Travel planning, booking automation, itinerary management |
+| [Miah's AI](https://miah.ai/) | Personal Assistant | Personalized AI assistant for individual productivity and lifestyle management | Personal customization, lifestyle optimization |
+| [Mindtrip AI](https://mindtrip.ai/) | Travel Assistant | AI-powered travel planning and personal trip management assistant | Travel planning, trip optimization, personalized recommendations |
+| [Mindy AI](https://mindy.ai/) | Personal Assistant | AI-powered personal assistant for email and task management | Email automation, task management, personal productivity |
+| [Molly](https://molly.ai/) | Personal Assistant | AI assistant for personal productivity and daily task automation | Personal automation, productivity optimization |
+| [Nectar AI](https://nectar.ai/) | Personal Assistant | AI-powered personal assistant for lifestyle and wellness management | Wellness tracking, lifestyle optimization |
+| [Nutrish.ai](https://nutrish.ai/) | Nutrition Assistant | AI assistant for personalized nutrition planning and dietary management | Nutrition planning, dietary tracking, health optimization |
+| [Octofy](https://octofy.com/) | Social Media Assistant | AI assistant for personal social media management and content creation | Social media automation, content scheduling |
+| [Ollie AI](https://ollie.ai/) | Personal Assistant | AI-powered personal assistant for daily task management | Personal productivity, task automation |
+| [Pi by Inflection AI](https://pi.ai/) | Personal Assistant | Conversational AI assistant designed for personal support and companionship | Personal conversation, emotional support, companionship |
+| [Pine AI](https://pine.ai/) | Personal Assistant | AI-powered personal assistant for productivity and lifestyle management | Personal productivity, lifestyle optimization |
+| [Project Alice](https://projectalice.io/) | Personal Assistant | Open-source personal AI assistant for home automation and personal computing | Home automation, privacy-focused, personal computing |
+| [Project Astra](https://projectastra.ai/) | Personal Assistant | Google's experimental personal AI assistant for multimodal interaction | Multimodal AI, experimental features, personal assistance |
+| [Siri](https://apple.com/siri/) | Personal Assistant | Apple's voice-activated personal assistant for iOS and macOS devices | Voice interaction, device integration, personal automation |
+| [Tarotap](https://tarotap.com/) | Tarot Assistant | AI-powered tarot reading assistant for personal guidance and insights | Tarot readings, personal guidance, spiritual insights |
+| [TarotRead](https://tarotread.ai/) | Tarot Assistant | AI assistant for personalized tarot readings and divination | Tarot interpretation, personal insights, divination |
+| [Tendi AI](https://tendi.ai/) | Personal Assistant | AI-powered personal assistant for productivity and task management | Personal productivity, task automation |
+| [WhatsAppCopilot](https://whatsappcopilot.com/) | Messaging Assistant | AI assistant for WhatsApp message management and automation | WhatsApp automation, message management, communication assistance |
+| [Yutori](https://yutori.ai/) | Personal Assistant | AI-powered personal assistant for Japanese users focusing on lifestyle balance | Japanese language support, lifestyle balance, personal wellness |
+
+### 📊 Personal AI Assistants Comparison
+
+| Agent | Ease of Use | Platform | Technical Setup | Deployment | Pricing | Best For |
+|-------|-------------|----------|-----------------|------------|---------|----------|
+| 11.ai | High | Web/Mobile | No setup | Cloud | Freemium | Daily task management, productivity |
+| AGRIVI Engage | Medium | Web/Mobile | Account setup | Cloud | Paid | Agricultural management, farming |
+| Ainisa | High | Web | Web platform | Cloud | Freemium | Lifestyle management, productivity |
+| AITernet | Medium | Web | Browser setup | Cloud | Paid | Web automation, online tasks |
+| Alphatwin | Medium | Web/Mobile | Platform setup | Cloud | Paid | Personal automation, digital twin |
+| AstroChart.ai | High | Web/Mobile | No setup | Cloud | Freemium | Astrology readings, horoscopes |
+| Biliki AI | High | Web/Mobile | Platform setup | Cloud | Paid | Personal productivity, task management |
+| Cal AI | High | Web/Mobile | Calendar integration | Cloud | Freemium | Calendar management, scheduling |
+| CrushOn.AI | High | Web/Mobile | Account setup | Cloud | Freemium | AI companionship, entertainment |
+| Food Checker | High | Mobile | App download | Mobile | Freemium | Food analysis, dietary tracking |
+| Fyxer AI | Medium | Web | Platform setup | Cloud | Paid | Problem-solving, automation |
+| Genspark Super Agent | Medium | Web | Platform setup | Cloud | Paid | Multi-task automation, productivity |
+| GM Network | Medium | Web | Network setup | Cloud | Paid | Social automation, networking |
+| GPTDiscord | Medium | Discord | Bot setup | Cloud | Freemium | Discord automation, communication |
+| HeyReal AI | High | Web/Mobile | Platform setup | Cloud | Paid | Real-time assistance, productivity |
+| Humane AI Pin | Medium | Wearable | Device setup | Wearable | Hardware | Hands-free computing, voice interaction |
+| HyperWrite AI Agent | High | Web | Browser extension | Cloud | Freemium | Writing assistance, content creation |
+| Inner Voice | High | Mobile | App download | Mobile | Freemium | Mental wellness, emotional support |
+| IntervAI | Medium | Web | Platform setup | Cloud | Paid | Interview preparation, career coaching |
+| Jan AI | Low | Desktop | Local install | Self-hosted | Open source | Privacy-focused automation |
+| Kimi AI | High | Web/Mobile | Account setup | Cloud | Freemium | Chinese language productivity |
+| Lindy.ai | High | Web | Email integration | Cloud | Paid | Email automation, communication |
+| Lucy | High | Web | Platform setup | Cloud | Paid | Task management, scheduling |
+| Merlin AI | High | Browser | Extension install | Cloud | Freemium | Web assistance, browser automation |
+| Mezi | High | Mobile | App download | Mobile | Paid | Travel planning, booking |
+| Miah's AI | High | Web/Mobile | Platform setup | Cloud | Paid | Personal customization, lifestyle |
+| Mindtrip AI | High | Web/Mobile | Account setup | Cloud | Freemium | Travel planning, trip optimization |
+| Mindy AI | High | Web | Email integration | Cloud | Paid | Email automation, task management |
+| Molly | High | Web/Mobile | Platform setup | Cloud | Paid | Personal automation, productivity |
+| Nectar AI | High | Web/Mobile | Platform setup | Cloud | Paid | Wellness tracking, lifestyle |
+| Nutrish.ai | High | Mobile | App download | Mobile | Freemium | Nutrition planning, dietary tracking |
+| Octofy | High | Web | Social media integration | Cloud | Paid | Social media automation, content |
+| Ollie AI | High | Web/Mobile | Platform setup | Cloud | Paid | Personal productivity, task automation |
+| Pi by Inflection AI | High | Web/Mobile | No setup | Cloud | Free | Personal conversation, companionship |
+| Pine AI | High | Web/Mobile | Platform setup | Cloud | Paid | Personal productivity, lifestyle |
+| Project Alice | Low | Smart Home | Technical setup | Self-hosted | Open source | Home automation, privacy |
+| Project Astra | Medium | Experimental | Research access | Cloud | Experimental | Multimodal AI, experimental features |
+| Siri | High | iOS/macOS | Built-in | Device | Free | Voice interaction, device integration |
+| Tarotap | High | Web/Mobile | Account setup | Cloud | Freemium | Tarot readings, personal guidance |
+| TarotRead | High | Web | Account setup | Cloud | Freemium | Tarot interpretation, insights |
+| Tendi AI | High | Web/Mobile | Platform setup | Cloud | Paid | Personal productivity, automation |
+| WhatsAppCopilot | Medium | WhatsApp | App integration | Cloud | Paid | WhatsApp automation, messaging |
+| Yutori | High | Web/Mobile | Account setup | Cloud | Paid | Japanese lifestyle balance, wellness |
+
+---
+
 ## 🤵 Virtual Worker AI Agents
 
 AI agents designed to function as virtual employees, automating complex business processes and augmenting human workforces. These platforms enable organizations to deploy AI workers that can handle routine tasks, execute multi-step workflows, and integrate seamlessly into existing business operations.
