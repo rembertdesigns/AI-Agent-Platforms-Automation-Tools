@@ -19,8 +19,8 @@ Discover the most comprehensive and up-to-date resource for autonomous AI agents
 | [📊 AI Data Analysts](#-ai-data-analysts) | AI agents specialized in data analysis, visualization, and business intelligence |
 | [✍️ Content Creation Agents](#-content-creation-agents) | AI agents specialized in content generation, writing, and creative production |
 | [📈 Marketing AI Agents](#-marketing-ai-agents) | AI agents specialized in marketing automation, campaign management, and growth |
-| [₿ Crypto AI Agents](#-crypto-ai-agents) | Blockchain-based and cryptocurrency-focused AI agents |
 | [💰 Sales AI Agents](#-sales-ai-agents) | AI agents specialized in sales automation, lead generation, and revenue optimization |
+| [₿ Crypto AI Agents](#-crypto-ai-agents) | Blockchain-based and cryptocurrency-focused AI agents |
 | [🔬 Vertical & Specialized AI Agents](#-vertical--specialized-ai-agents) | Niche and industry-specific AI agents for specialized applications |
 | [🎬 Video AI Agents](#-video-ai-agents) | AI agents specialized in video creation, editing, and processing |
 | [🎙️ Voice AI Agents](#-voice-ai-agents) | AI agents specialized in voice communication, phone calls, and conversational interfaces |
@@ -1063,6 +1063,53 @@ AI agents specialized in marketing automation, campaign management, and growth o
 | TwitterCopilot | Twitter Automation | Content management | Cloud | Basic | Subscription | Twitter automation |
 | UFOstart | Startup Marketing | Growth hacking | Cloud | Basic | Contact sales | Startup growth |
 | Yala | Social Media Management | Social optimization | Cloud | Team features | Subscription | Social media management |
+
+---
+
+## 💰 Sales AI Agents
+
+AI agents specialized in sales automation, lead generation, and revenue optimization. These platforms leverage artificial intelligence to streamline sales processes, from prospecting and lead qualification to customer relationship management and deal closing, enabling sales teams to increase productivity and conversion rates.
+
+| Name | Category | Description | Notable Features |
+|------|----------|-------------|------------------|
+| [11x AI](https://11x.ai) | Sales Automation | AI-powered sales development representative platform | Automated outreach, lead qualification, meeting scheduling |
+| [Agently](https://agently.ai) | Sales Assistant | AI sales assistant for personalized customer interactions | Conversation intelligence, deal insights, sales coaching |
+| [AgentsLed](https://agentsled.com) | Lead Generation | AI-driven lead generation and qualification platform | Lead scoring, automated follow-up, pipeline management |
+| [AI Lead Agent](https://aileadagent.com) | Lead Management | AI agent for lead capture and nurturing automation | Lead tracking, automated responses, conversion optimization |
+| [AiSDR](https://aisdr.com) | Sales Development | AI sales development representative for outbound sales | Personalized outreach, response handling, meeting booking |
+| [Alora AI](https://alora.ai) | Sales Intelligence | AI platform for sales intelligence and market insights | Market analysis, competitor intelligence, sales forecasting |
+| [Amplemarket AI](https://amplemarket.com) | Sales Platform | Comprehensive AI sales platform for modern sales teams | Multi-channel outreach, CRM integration, analytics dashboard |
+| [Aomni](https://aomni.com) | Sales Research | AI-powered sales research and account intelligence platform | Account research, prospect insights, competitive analysis |
+| [Artisan](https://artisan.co) | Sales Automation | AI sales artisan for automated sales processes | Workflow automation, personalization, performance tracking |
+| [B2B Rocket](https://b2brocket.com) | B2B Sales | AI platform for B2B sales acceleration and growth | Lead generation, email automation, sales pipeline optimization |
+| [Cara AI](https://cara.ai) | Sales Analytics | AI-driven sales analytics and performance optimization | Sales forecasting, performance metrics, team analytics |
+| [Cust AI](https://cust.ai) | Customer Intelligence | AI platform for customer intelligence and sales insights | Customer profiling, behavior analysis, sales recommendations |
+| [Cynthia AI](https://cynthia.ai) | Sales Assistant | AI sales assistant for customer relationship management | Contact management, follow-up automation, sales tracking |
+| [Jazon](https://jazon.ai) | Sales Automation | AI sales automation platform for revenue optimization | Deal management, sales workflows, revenue forecasting |
+| [Jummbo](https://jummbo.com) | Sales Enablement | AI-powered sales enablement and training platform | Sales coaching, content optimization, skill development |
+| [MagicSales.AI](https://magicsales.ai) | Sales Magic | AI platform for magical sales experiences and conversions | Personalized sales journeys, conversion optimization, customer engagement |
+| [Myestro AI](https://myestro.ai) | Sales Orchestra | AI orchestration platform for complex sales processes | Multi-stakeholder sales, deal coordination, process automation |
+| [OneShot AI](https://oneshot.ai) | Sales Optimization | AI platform for one-shot sales optimization and closing | Deal acceleration, closing techniques, sales psychology |
+| [OnRise AI](https://onrise.ai) | Sales Growth | AI platform for sustainable sales growth and scaling | Growth strategies, market expansion, sales team scaling |
+| [Origami Agents](https://origami.so) | Sales Transformation | AI agents for sales transformation and modernization | Process redesign, digital transformation, sales innovation |
+| [Rashed by Teammates.ai](https://teammates.ai) | Team Sales | AI-powered team sales collaboration and coordination | Team collaboration, shared insights, collective intelligence |
+| [Rep AI](https://rep.ai) | Sales Representative | AI sales representative for automated customer interactions | Customer service, product recommendations, sales support |
+| [RITA](https://rita.ai) | Sales Intelligence | Real-time intelligent sales assistant for dynamic selling | Real-time insights, dynamic pricing, instant recommendations |
+| [SalesAPE.ai](https://salesape.ai) | Sales Acceleration | AI platform for sales acceleration and performance enhancement | Performance tracking, sales optimization, team management |
+| [Salesloft](https://salesloft.com) | Sales Engagement | AI-enhanced sales engagement and cadence platform | Email sequences, call automation, engagement analytics |
+| [Sales Machines AI](https://salesmachines.ai) | Sales Automation | AI-powered sales machines for consistent revenue generation | Automated workflows, consistent processes, scalable operations |
+| [Salezilla](https://salezilla.com) | Sales Domination | AI platform for sales domination and market leadership | Competitive advantage, market analysis, strategic positioning |
+| [SDRx](https://sdrx.ai) | SDR Automation | AI-powered sales development representative automation | Outbound prospecting, lead qualification, appointment setting |
+| [SignalHero](https://signalhero.com) | Sales Signals | AI platform for sales signal detection and opportunity identification | Buying signals, opportunity alerts, timing optimization |
+| [Solda AI](https://solda.ai) | Sales Optimization | AI platform for sales optimization and revenue maximization | Revenue optimization, sales efficiency, profit maximization |
+| [Sparkbase](https://sparkbase.ai) | Sales Acceleration | AI platform for sparking sales acceleration and growth | Growth hacking, sales velocity, momentum building |
+| [Tailo AI](https://tailo.ai) | Tailored Sales | AI platform for tailored sales experiences and personalization | Personalized outreach, custom messaging, individual targeting |
+| [Terri](https://terri.ai) | Sales Territory | AI platform for sales territory management and optimization | Territory planning, account assignment, geographic optimization |
+| [tl;dv AI Agent for Meetings](https://tldv.io) | Meeting Intelligence | AI agent for sales meeting intelligence and insights | Meeting transcription, key insights extraction, follow-up automation |
+| [Topo.io](https://topo.io) | Sales Operations | AI platform for sales operations and process optimization | Operations automation, process improvement, efficiency optimization |
+| [Unify](https://unify.ai) | Sales Unification | AI platform for unified sales processes and data integration | Data integration, process unification, holistic sales view |
+| [Vengo AI](https://vengo.ai) | Sales Engagement | AI platform for advanced sales engagement and interaction | Advanced engagement, interaction optimization, relationship building |
+| [Virtuans AI](https://virtuans.ai) | Virtual Sales | AI platform for virtual sales experiences and digital selling | Virtual demonstrations, digital sales rooms, remote selling |
 
 ---
 
