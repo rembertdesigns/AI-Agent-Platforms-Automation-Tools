@@ -327,6 +327,14 @@ Development libraries, SDKs, and frameworks for building AI agents. These tools 
 ---
 
 ## 🧪 Software Testing (QA) Agents
+<img 
+  width="1584" 
+  height="396" 
+  alt="Software Testing QA Agents - AI tools for automated testing, quality assurance, bug detection, unit testing, and end-to-end QA workflows" 
+  title="AI Software Testing & QA Agents: Automated Quality Assurance Tools"
+  src="https://github.com/user-attachments/assets/a49da82f-f9b2-4914-b21e-d0d8d6c02cb8"
+  loading="lazy"
+/>
 
 AI agents specialized in automated testing, quality assurance, and bug detection. These platforms automate testing workflows from unit testing and integration testing to end-to-end quality assurance, enabling development teams to maintain code quality, identify issues early, and streamline the testing process through intelligent test generation and execution.
 
