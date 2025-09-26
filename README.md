@@ -1898,6 +1898,40 @@ AI agents designed to function as virtual employees, automating complex business
 | [Tally AI](https://tally.ai/) | Virtual Worker | AI-powered virtual worker for data processing and business automation | Data automation, business process execution |
 | [TeamX](https://teamx.ai/) | Virtual Worker | AI-powered virtual team platform for collaborative work automation | Virtual team management, collaborative automation |
 
+### 📊 Virtual Worker AI Agents Comparison
+| Agent | Ease of Use | Computer Control | Technical Setup | Deployment | Pricing | Best For |
+|-------|-------------|------------------|-----------------|------------|---------|----------|
+| Ace by General Agents | High | Yes | No-code interface | Cloud | Paid | Business process automation |
+| ActionAgents | Medium | Yes | API integration | Cloud | Paid | Workflow automation, business actions |
+| Anthropic's Claude Computer Use | Medium | Yes | API integration | Cloud | Paid | Screen interaction, application control |
+| Avaamo | High | Limited | Low-code platform | Cloud | Enterprise | Enterprise conversational workflows |
+| BrowseGPT | High | Web only | Browser extension | Browser | Freemium | Web automation, online tasks |
+| Cleric | High | Limited | No-code interface | Cloud | Paid | Document processing, workflows |
+| Convergence Proxy | Medium | Yes | API setup | Cloud/Self-hosted | Paid | Task delegation, proxy automation |
+| Cykel AI | Medium | Yes | Platform setup | Cloud | Paid | Business process automation |
+| DoozerAI | High | Limited | No-code interface | Cloud | Paid | Repetitive task automation |
+| Globus Agent | Medium | Yes | Enterprise setup | Cloud/On-premise | Enterprise | Global workflow management |
+| HotelHero.ai | High | Limited | Industry setup | Cloud | Paid | Hospitality automation, guest services |
+| Hugging Face Open Computer | Low | Yes | Python setup | Self-hosted | Open source | Desktop automation research |
+| JACE AI | High | Yes | Platform setup | Cloud | Paid | Business process execution |
+| Jumbo Mana | Medium | Yes | Platform setup | Cloud | Paid | Workforce scaling, operations |
+| Klyr | High | Yes | No-code platform | Cloud | Paid | Virtual employee management |
+| Kwal | Medium | Yes | Platform setup | Cloud | Paid | Knowledge work automation |
+| Manus | Medium | Yes | Platform setup | Cloud | Paid | Virtual workforce management |
+| Marcus | High | Yes | No-code interface | Cloud | Paid | Business automation, virtual work |
+| Nova Act | High | Limited | Platform setup | Cloud | Paid | Process automation, virtual assistance |
+| One Click Store | High | E-commerce only | Platform setup | Cloud | Paid | E-commerce automation, store management |
+| OpenAI Operator | Medium | Yes | API integration | Cloud | Paid | Computer control, task execution |
+| OpenOperator | Low | Yes | Technical setup | Self-hosted | Open source | Digital task automation |
+| Project Mariner | Medium | Web only | Experimental access | Cloud | Experimental | Web navigation, browser automation |
+| Querix | High | Yes | Platform setup | Cloud | Paid | Virtual worker deployment |
+| Raya by Teammates.ai | High | Limited | Team platform | Cloud | Paid | Team collaboration, virtual teammates |
+| Roo Code | Medium | Code only | Development setup | Cloud | Paid | Code automation, development assistance |
+| Sintra AI | High | Yes | No-code platform | Cloud | Paid | Virtual employee management |
+| Suna by Kortix AI | Medium | Yes | Platform setup | Cloud | Paid | Process optimization, virtual assistance |
+| Tally AI | Medium | Data only | Platform setup | Cloud | Paid | Data automation, business processes |
+| TeamX | High | Yes | Team platform | Cloud | Paid | Virtual team management, collaboration |
+
 ---
 
 ## ₿ Crypto AI Agents
