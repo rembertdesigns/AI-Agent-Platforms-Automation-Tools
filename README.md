@@ -17,6 +17,7 @@ Discover the most comprehensive and up-to-date resource for autonomous AI agents
 | [⚡ Workflow Automation & Agent Orchestration](#-workflow-automation--agent-orchestration) | Platforms for automating workflows, integrating APIs, and orchestrating digital tasks |
 | [👁️ Agent Observability Tools](#agent-observability-tools) | Monitoring, debugging, and performance tracking tools for AI agents |
 | [🤖 AI Model Serving Platforms](#-ai-model-serving-platforms) | Infrastructure and platforms for deploying and serving AI models at scale |
+| [🛠️ AI Agent Development Platforms](#-ai-agent-development-platforms) | Comprehensive platforms and frameworks for building, deploying, and managing AI agents |
 | [📊 AI Data Analysts](#-ai-data-analysts) | AI agents specialized in data analysis, visualization, and business intelligence |
 | [✍️ Content Creation Agents](#-content-creation-agents) | AI agents specialized in content generation, writing, and creative production |
 | [📈 Marketing AI Agents](#-marketing-ai-agents) | AI agents specialized in marketing automation, campaign management, and growth |
