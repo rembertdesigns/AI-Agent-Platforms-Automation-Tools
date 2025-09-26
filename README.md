@@ -3,7 +3,6 @@
 Discover the most comprehensive and up-to-date resource for autonomous AI agents, frameworks, and platforms. This community-powered directory showcases leading-edge agentic technologies—from task automation and workflow orchestration to next-generation digital employees—making it easy to track, compare, and select the right tools for both research and real-world deployment. Explore the rapidly evolving landscape of autonomous AI and stay at the forefront of this transformative field by finding, sharing, and contributing the latest developments and breakthroughs.
 
 ## 🚀 Quick Navigation
-
 | Section | Description |
 |---------|-------------|
 | [🌟 Introduction & Overview](#-introduction--overview) | Understanding AI agents and the evolving autonomous systems landscape |
@@ -13,6 +12,7 @@ Discover the most comprehensive and up-to-date resource for autonomous AI agents
 | [🧪 Software Testing (QA) Agents](#-software-testing-qa-agents) | AI agents specialized in automated testing, quality assurance, and bug detection |
 | [🎯 Productivity & Business Agents](#-productivity--business-agents) | Workflow, CRM, sales, HR, and general business automation agents |
 | [🏢 Enterprise & Platform Solutions](#-enterprise-orchestration--platform) | Large-scale, enterprise-grade agent platforms and orchestration tools |
+| [💼 Finance AI Agents](#-finance-ai-agents) | AI agents specialized in financial analysis, investment research, and wealth management |
 | [⚡ Workflow Automation & Agent Orchestration](#-workflow-automation--agent-orchestration) | Platforms for automating workflows, integrating APIs, and orchestrating digital tasks |
 | [👁️ Agent Observability Tools](#agent-observability-tools) | Monitoring, debugging, and performance tracking tools for AI agents |
 | [🤖 AI Model Serving Platforms](#-ai-model-serving-platforms) | Infrastructure and platforms for deploying and serving AI models at scale |
