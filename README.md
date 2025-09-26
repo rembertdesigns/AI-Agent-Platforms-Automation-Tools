@@ -2258,6 +2258,80 @@ AI agents designed to function as virtual employees, automating complex business
 
 ---
 
+## 🤖 AI Robotics
+
+AI agents integrated with robotics systems to enable autonomous operation in the physical world. These platforms combine artificial intelligence with robotic hardware for applications in autonomous vehicles, manufacturing automation, service robots, and intelligent physical interaction systems.
+
+| Name | Category | Description | Notable Features |
+|------|----------|-------------|------------------|
+| [3D AI Studio](https://3daistudio.com/) | 3D Robotics | AI platform for 3D robotics modeling and simulation | 3D modeling, robotics simulation, AI-powered design |
+| [aiMotive](https://aimotive.com/) | Autonomous Vehicles | AI platform for autonomous vehicle development and testing | Self-driving technology, automotive AI, vehicle simulation |
+| [Airobotics](https://airobotics.com/) | Drone Robotics | Autonomous drone platform for industrial and commercial applications | Autonomous drones, industrial automation, aerial robotics |
+| [Aurora Innovation](https://aurora.tech/) | Autonomous Vehicles | Self-driving technology platform for trucks and passenger vehicles | Autonomous driving, trucking automation, transportation AI |
+| [AutoX](https://autox.ai/) | Autonomous Vehicles | Full self-driving technology for autonomous vehicle deployment | Self-driving cars, autonomous delivery, robotaxi services |
+| [Code as Policies](https://code-as-policies.github.io/) | Robot Programming | AI system that generates robot control code from natural language | Code generation, robot programming, natural language control |
+| [Comma AI](https://comma.ai/) | Driver Assistance | Open-source driver assistance system and autonomous driving platform | Driver assistance, open-source autonomy, vehicle AI |
+| [Cruise](https://getcruise.com/) | Autonomous Vehicles | Self-driving car technology for urban autonomous transportation | Autonomous vehicles, urban mobility, robotaxi services |
+| [Figure AI](https://figure.ai/) | Humanoid Robots | AI-powered humanoid robots for workplace automation and assistance | Humanoid robotics, workplace automation, AI embodiment |
+| [Intel Automotive Solutions](https://intel.com/automotive/) | Automotive AI | Intel's AI and computing solutions for automotive and robotics applications | Automotive computing, edge AI, vehicle intelligence |
+| [Mapless AI](https://mapless.ai/) | Navigation | AI platform for mapless robot navigation and autonomous movement | Mapless navigation, robot autonomy, spatial AI |
+| [May Mobility](https://maymobility.com/) | Autonomous Vehicles | Autonomous vehicle technology for public transportation and mobility services | Autonomous shuttles, public transit, mobility solutions |
+| [Motional](https://motional.com/) | Autonomous Vehicles | Joint venture developing self-driving technology for passenger vehicles | Self-driving cars, automotive partnerships, autonomous mobility |
+| [Motive](https://gomotive.com/) | Fleet Management | AI platform for fleet management and vehicle automation | Fleet automation, vehicle tracking, transportation management |
+| [Navya Autonomous Vehicles](https://navya.tech/) | Autonomous Vehicles | Autonomous vehicle solutions for public and private transportation | Autonomous shuttles, public transport, mobility automation |
+| [Nuro AI](https://nuro.ai/) | Delivery Robots | Autonomous delivery vehicle platform for last-mile logistics | Autonomous delivery, logistics robots, last-mile automation |
+| [NVIDIA Cosmos](https://nvidia.com/cosmos/) | Robotics Simulation | NVIDIA's AI platform for robotics simulation and training | Robotics simulation, AI training, synthetic data generation |
+| [NVIDIA Eureka](https://nvidia.com/eureka/) | Robot Learning | AI system for automated robot skill learning and training | Robot learning, skill acquisition, automated training |
+| [NVIDIA Isaac](https://nvidia.com/isaac/) | Robotics Platform | Comprehensive robotics platform for AI-powered robot development | Robotics SDK, simulation, perception, manipulation |
+| [OpenCV AI Kit (OAK)](https://opencv.org/opencv-ai-kit/) | Computer Vision | AI-powered computer vision platform for robotics applications | Computer vision, spatial AI, robotics perception |
+| [Pony.ai](https://pony.ai/) | Autonomous Vehicles | Self-driving technology platform for passenger and commercial vehicles | Autonomous driving, robotaxi services, commercial autonomy |
+| [Roboto AI](https://roboto.ai/) | Robotics Data | AI platform for robotics data management and analysis | Robotics data, fleet management, robot analytics |
+| [Samsung Ballie](https://samsung.com/ballie/) | Home Robotics | AI-powered home companion robot for household automation | Home robotics, companion robot, household AI |
+| [Sanctuary AI](https://sanctuary.ai/) | Humanoid Robots | AI platform for general-purpose humanoid robots and cognitive systems | Humanoid AI, cognitive robotics, general-purpose robots |
+| [Stemrobo](https://stemrobo.com/) | Educational Robotics | AI-powered educational robotics platform for learning and development | Educational robotics, STEM learning, robot programming |
+| [Symbotic](https://symbotic.com/) | Warehouse Robotics | AI-powered warehouse automation and robotics systems | Warehouse automation, supply chain robotics, logistics AI |
+| [Unitree R1](https://unitree.com/) | Quadruped Robots | AI-powered quadruped robots for various applications and research | Quadruped robotics, mobile robots, research platforms |
+| [Waymo](https://waymo.com/) | Autonomous Vehicles | Google's self-driving car technology and autonomous vehicle platform | Self-driving cars, autonomous mobility, transportation AI |
+| [Wayve](https://wayve.ai/) | Autonomous Vehicles | AI-first approach to autonomous driving using end-to-end learning | End-to-end autonomy, driving AI, machine learning vehicles |
+| [YOLO (You Only Look Once)](https://yolo.ultralytics.com/) | Computer Vision | Real-time object detection system for robotics and autonomous systems | Object detection, real-time vision, robotics perception |
+
+### 📊 AI Robotics Comparison
+
+| Agent | Ease of Use | Robotics Type | Technical Setup | Deployment | Pricing | Best For |
+|-------|-------------|---------------|-----------------|------------|---------|----------|
+| 3D AI Studio | Medium | 3D/Simulation | Platform setup | Cloud | Paid | 3D robotics modeling, simulation |
+| aiMotive | Low | Automotive | Enterprise setup | Hardware/Cloud | Enterprise | Autonomous vehicle development |
+| Airobotics | Medium | Drones | Hardware setup | Hardware/Cloud | Enterprise | Industrial drone automation |
+| Aurora Innovation | Low | Automotive | Enterprise setup | Hardware/Cloud | Enterprise | Trucking automation, self-driving |
+| AutoX | Low | Automotive | Enterprise setup | Hardware/Cloud | Enterprise | Robotaxi services, delivery |
+| Code as Policies | Low | General Robotics | Research setup | Self-hosted | Open source | Robot programming research |
+| Comma AI | Medium | Automotive | Hardware install | Hardware | Open source | Driver assistance, vehicle AI |
+| Cruise | Low | Automotive | Enterprise setup | Hardware/Cloud | Enterprise | Urban autonomous vehicles |
+| Figure AI | Low | Humanoid | Enterprise setup | Hardware | Enterprise | Workplace humanoid robots |
+| Intel Automotive Solutions | Low | Automotive/Edge | Enterprise setup | Hardware/Edge | Enterprise | Automotive computing, vehicle AI |
+| Mapless AI | Medium | Navigation | Platform setup | Cloud/Edge | Paid | Robot navigation, spatial AI |
+| May Mobility | Low | Automotive | Enterprise setup | Hardware/Cloud | Enterprise | Autonomous shuttles, public transit |
+| Motional | Low | Automotive | Enterprise setup | Hardware/Cloud | Enterprise | Self-driving passenger vehicles |
+| Motive | High | Fleet Management | Platform setup | Cloud | Paid | Fleet automation, vehicle tracking |
+| Navya Autonomous Vehicles | Low | Automotive | Enterprise setup | Hardware/Cloud | Enterprise | Autonomous public transport |
+| Nuro AI | Low | Delivery | Enterprise setup | Hardware/Cloud | Enterprise | Autonomous delivery vehicles |
+| NVIDIA Cosmos | Low | Simulation | Technical setup | Cloud/Enterprise | Enterprise | Robotics simulation, training |
+| NVIDIA Eureka | Low | Robot Learning | Research setup | Cloud/Enterprise | Research | Automated robot skill learning |
+| NVIDIA Isaac | Low | General Robotics | Technical setup | Edge/Cloud | Enterprise | Robotics development platform |
+| OpenCV AI Kit (OAK) | Medium | Computer Vision | Hardware setup | Hardware/Edge | Hardware | Computer vision, robotics perception |
+| Pony.ai | Low | Automotive | Enterprise setup | Hardware/Cloud | Enterprise | Autonomous driving, robotaxi |
+| Roboto AI | Medium | Data Management | Platform setup | Cloud | Paid | Robotics data, fleet analytics |
+| Samsung Ballie | High | Home Robotics | Consumer setup | Hardware | Consumer | Home companion robot |
+| Sanctuary AI | Low | Humanoid | Enterprise setup | Hardware | Enterprise | General-purpose humanoid robots |
+| Stemrobo | High | Educational | Educational setup | Hardware/Cloud | Educational | Educational robotics, STEM |
+| Symbotic | Low | Warehouse | Enterprise setup | Hardware/Cloud | Enterprise | Warehouse automation, logistics |
+| Unitree R1 | Medium | Quadruped | Hardware setup | Hardware | Hardware | Quadruped robots, research |
+| Waymo | Low | Automotive | Enterprise setup | Hardware/Cloud | Enterprise | Self-driving cars, mobility |
+| Wayve | Low | Automotive | Enterprise setup | Hardware/Cloud | Enterprise | End-to-end autonomous driving |
+| YOLO | Medium | Computer Vision | Technical setup | Edge/Cloud | Open source | Real-time object detection, vision |
+
+---
+
 ## ₿ Crypto AI Agents
 <img 
   width="1584" 
