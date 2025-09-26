@@ -1763,6 +1763,14 @@ AI agents specialized in marketing automation, campaign management, and growth o
 ---
 
 ## 💰 Sales AI Agents
+<img 
+  width="1584" 
+  height="396" 
+  alt="Sales AI Agents - Automated sales processes, lead generation, prospecting, CRM management, and revenue optimization tools for sales teams" 
+  title="AI Sales Agents: Sales Automation & Revenue Optimization Platforms"
+  src="https://github.com/user-attachments/assets/f90999a9-d41e-4185-b4f1-98d58ead49ef"
+  loading="lazy"
+/>
 
 AI agents specialized in sales automation, lead generation, and revenue optimization. These platforms leverage artificial intelligence to streamline sales processes, from prospecting and lead qualification to customer relationship management and deal closing, enabling sales teams to increase productivity and conversion rates.
 
@@ -1853,6 +1861,14 @@ AI agents specialized in sales automation, lead generation, and revenue optimiza
 ---
 
 ## ₿ Crypto AI Agents
+<img 
+  width="1584" 
+  height="396" 
+  alt="Crypto AI Agents - Blockchain-based AI automation for trading, DeFi protocols, NFT management, and decentralized ecosystem operations" 
+  title="Crypto AI Agents: Blockchain Automation & Cryptocurrency Trading Platforms"
+  src="https://github.com/user-attachments/assets/b9a0a7f2-dc4e-457e-9f03-9d0e20eecf37"
+  loading="lazy"
+/>
 
 Blockchain-based AI agents and cryptocurrency-focused automation platforms that operate within decentralized ecosystems. These agents handle trading, DeFi protocols, NFT management, and other blockchain-specific tasks while leveraging AI for decision-making and autonomous operations.
 
@@ -1945,6 +1961,14 @@ Blockchain-based AI agents and cryptocurrency-focused automation platforms that 
 ---
 
 ## 🔬 Vertical & Specialized AI Agents
+<img 
+  width="1584" 
+  height="396" 
+  alt="Vertical & Specialized AI Agents - Industry-specific AI automation for healthcare, creative industries, research, security, and niche domain applications" 
+  title="Vertical AI Agents: Industry-Specific & Specialized AI Automation Platforms"
+  src="https://github.com/user-attachments/assets/9966c52f-5279-4dd3-86c9-f4e2ad102637"
+  loading="lazy"
+/>
 
 Niche and industry-specific AI agents designed for specialized applications across various domains. These agents serve targeted use cases in healthcare, creative industries, research, security, and other specialized fields that require domain expertise and tailored functionality.
 
@@ -1997,6 +2021,14 @@ Niche and industry-specific AI agents designed for specialized applications acro
 ---
 
 ## 🎬 Video AI Agents
+<img 
+  width="1584" 
+  height="396" 
+  alt="Video AI Agents - AI-powered video creation, editing, processing, and enhancement tools for automated video production workflows" 
+  title="Video AI Agents: AI Video Creation & Automated Video Production Platforms"
+  src="https://github.com/user-attachments/assets/9037b769-0867-4a49-9034-272ee2db4abf"
+  loading="lazy"
+/>
 
 AI agents specialized in video creation, editing, processing, and enhancement. These platforms leverage artificial intelligence to automate video production workflows, from content generation and editing to animation and post-production, enabling creators to produce professional-quality video content efficiently.
 
@@ -2081,6 +2113,14 @@ AI agents specialized in video creation, editing, processing, and enhancement. T
 ---
 
 ## 🎙️ Voice AI Agents
+<img 
+  width="1584" 
+  height="396" 
+  alt="Voice AI Agents - AI-powered voice communication, phone calls, conversational interfaces, and automated voice interactions for businesses" 
+  title="Voice AI Agents: AI Voice Communication & Conversational Interface Platforms"
+  src="https://github.com/user-attachments/assets/d38451f5-274b-41cf-8643-cd0ee29c78cd"
+  loading="lazy"
+/>
 
 AI agents specialized in voice communication, phone calls, and conversational interfaces. These platforms leverage artificial intelligence to automate voice interactions, from customer service and sales calls to voice synthesis and real-time conversation, enabling businesses to provide seamless voice-based experiences at scale.
 
