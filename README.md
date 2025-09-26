@@ -432,29 +432,111 @@ Enterprise-grade AI agent platforms deliver robust, scalable, and secure automat
 
 ---
 
-## ⚡ Automation Tools & Workflow Builders
+## ⚡ Workflow Automation & Agent Orchestration
 
-Platforms for automating workflows, integrating APIs, and orchestrating digital tasks. These systems are perfect complements to agentic frameworks—serving as foundation technology for creating multi-step automations or connecting agents with external APIs and tools.
+Platforms for automating workflows, integrating APIs, and orchestrating digital tasks through both traditional automation and AI-powered agents. These systems serve as foundation technology for creating multi-step automations, connecting agents with external APIs, and building intelligent workflow orchestration.
 
 | Name | Category | Description | Notable Features |
 |------|----------|-------------|------------------|
-| [Gumloop](https://gumloop.com/) | Automation Builder | AI-powered tool for automating business and digital processes | LLM plugins, extensible workflows |
-| [Make](https://www.make.com/) | Workflow Automation | No-code service for integrating applications and automating tasks | Drag-and-drop builder, scalable scenarios |
-| [n8n](https://n8n.io/) | Workflow Automation | Open-source automation platform for connecting apps and APIs | Visual editor, 400+ integrations |
-| [Parabola](https://parabola.io/) | Data Workflow | Automates spreadsheet, data, and API tasks | Visual workflow, data manipulation |
-| [Unio](https://unio.ai/) | Agent-Workflow Mix | Orchestrates agentic and automation workflows | LLM connectors, webhook triggers |
-| [Zapier](https://zapier.com/) | Automation Platform | Online platform for automating web apps and services | 5000+ integrations, triggers/actions |
-
-### 📊 Automation Tools & Workflow Builders Comparison
-
-| Tool | Technical Level | Connector Count | AI Integration | Hosting Options | Pricing | Best For |
-|------|-----------------|-----------------|----------------|-----------------|---------|----------|
-| Gumloop | Low | Limited | High | Cloud | Freemium | AI-powered workflows, LLM integration |
-| Make | Medium | 1000+ | Medium | Cloud | $9+/month | Complex scenarios, data transformation |
-| n8n | Medium | 400+ | Low | Self-hosted/Cloud | Free/Paid | Open source automation, privacy control |
-| Parabola | Medium | Data-focused | Low | Cloud | $80+/month | Data processing, spreadsheet automation |
-| Unio | Medium | Agent-focused | High | Cloud | Contact sales | Hybrid agent-workflow orchestration |
-| Zapier | Low | 5000+ | Medium | Cloud | $20+/month | Simple automation, app connections |
+| [Activepieces](https://activepieces.com) | Workflow Automation | Open-source automation platform for business processes | Visual builder, self-hosted options, extensive integrations |
+| [Adept AI](https://adept.ai) | AI Automation | AI agent for automating computer tasks and workflows | Computer interaction, task automation, intelligent workflows |
+| [AgentAuth](https://agentauth.dev) | Authentication | AI-powered authentication and authorization platform | Secure workflows, identity management, access control |
+| [Agents.ai](https://agents.ai) | AI Agents | Platform for creating and deploying AI workflow agents | Agent creation, workflow automation, AI orchestration |
+| [AI Agent App](https://aiagentapp.com) | Agent Platform | Comprehensive platform for AI agent development and deployment | Agent building, workflow integration, automation tools |
+| [AI Assistify](https://assistify.ai) | AI Assistant | AI-powered assistant for workflow automation and task management | Task automation, workflow optimization, intelligent assistance |
+| [AI Gradio Browser](https://gradio.app) | Interface Builder | Platform for building AI interfaces and workflow automation | Interactive interfaces, workflow integration, deployment tools |
+| [AIAgent.app](https://aiagent.app) | Agent Creation | Platform for creating custom AI agents for workflow automation | Custom agents, workflow integration, automation capabilities |
+| [AiMod](https://aimod.dev) | Workflow Modification | AI-powered platform for modifying and optimizing workflows | Workflow optimization, process improvement, automation enhancement |
+| [AirOps](https://airops.com) | AI Operations | Platform for AI-powered operations and workflow automation | Operations automation, AI workflows, process optimization |
+| [Airtop](https://airtop.ai) | Browser Automation | AI-powered browser automation for workflow processes | Web automation, browser control, workflow integration |
+| [Aisera AI Agent Platform](https://aisera.com) | Enterprise Automation | Enterprise AI platform for workflow and service automation | Enterprise workflows, service automation, AI-powered processes |
+| [Anchor Browser](https://anchorbrowser.com) | Browser Automation | AI-enhanced browser for automated workflow execution | Automated browsing, workflow execution, intelligent navigation |
+| [APIDNA](https://apidna.com) | API Automation | Platform for automated API workflows and integrations | API orchestration, workflow automation, integration management |
+| [Augment (Augie)](https://augment.com) | AI Augmentation | AI platform for augmenting and automating business workflows | Workflow enhancement, process automation, AI integration |
+| [Automaited Ada](https://automaited.com) | Process Automation | AI-powered business process automation platform | Process optimization, workflow automation, efficiency enhancement |
+| [B2 AI](https://b2.ai) | Business Automation | AI platform for B2B workflow automation and optimization | Business workflows, process automation, enterprise integration |
+| [Beam AI](https://beam.ai) | Workflow Platform | AI-powered platform for creating and managing workflows | Workflow creation, automation tools, process management |
+| [Beebot AI](https://beebot.ai) | Automation Bot | AI bot for automating repetitive workflow tasks | Task automation, workflow bots, process optimization |
+| [Box AI Agents](https://box.com/ai) | Document Workflow | AI agents for document workflow automation within Box | Document automation, content workflows, enterprise integration |
+| [Browserbase Director](https://browserbase.com) | Browser Management | Platform for managing automated browser workflows | Browser orchestration, workflow management, automation control |
+| [BRYTER](https://bryter.com) | Decision Automation | No-code platform for automating decision workflows | Decision trees, workflow automation, business logic |
+| [BuildEL](https://buildel.ai) | Workflow Builder | AI-powered platform for building automated workflows | Workflow construction, automation tools, process building |
+| [Composio](https://composio.dev) | Integration Platform | Platform for composing and orchestrating AI agent workflows | Agent composition, workflow orchestration, integration tools |
+| [Convergence Proxy AI](https://convergence.ai) | Proxy Automation | AI-powered proxy platform for workflow automation | Intelligent proxying, workflow routing, automation enhancement |
+| [Dart AI](https://dart.ai) | Project Automation | AI platform for automating project workflows and management | Project automation, workflow management, task orchestration |
+| [DeepFlows AI](https://deepflows.ai) | Deep Workflow | AI platform for creating deep, complex workflow automations | Complex workflows, deep automation, intelligent orchestration |
+| [DeepOpinion](https://deepopinion.ai) | Document Automation | AI platform for automating document-based workflows | Document processing, workflow automation, intelligent extraction |
+| [DeepSite](https://deepsite.ai) | Website Automation | AI platform for automating website workflows and processes | Web automation, site management, workflow integration |
+| [Fieldproxy](https://fieldproxy.com) | Field Automation | Platform for automating field service workflows | Field service automation, workflow optimization, mobile integration |
+| [Filtyr AI](https://filtyr.ai) | Data Filtering | AI-powered platform for filtering and processing workflow data | Data processing, workflow filtering, intelligent data handling |
+| [GeniA](https://genia.ai) | AI Generation | AI platform for generating and automating workflows | Workflow generation, automation creation, intelligent design |
+| [Godmode](https://godmode.space) | AI Control | Platform for controlling and orchestrating AI workflows | AI orchestration, workflow control, automation management |
+| [GoodGist](https://goodgist.com) | Content Workflow | AI platform for automating content workflow processes | Content automation, workflow management, publishing tools |
+| [Google Opal](https://opal.google.com) | Google Integration | Google's platform for integrating AI into workflow automation | Google ecosystem, workflow integration, AI-powered processes |
+| [Gradient Labs](https://gradient.ai) | ML Workflows | Platform for automating machine learning workflows | ML automation, workflow optimization, model deployment |
+| [Gumloop](https://gumloop.com) | Automation Builder | AI-powered tool for automating business and digital processes | LLM plugins, extensible workflows |
+| [HARPA AI](https://harpa.ai) | Browser Automation | AI-powered browser extension for workflow automation | Browser workflows, web automation, intelligent browsing |
+| [HubSpot AI](https://hubspot.com/ai) | CRM Automation | AI-powered workflows within HubSpot CRM platform | CRM workflows, marketing automation, sales processes |
+| [IBM watsonx Orchestrate](https://ibm.com/watsonx) | Enterprise Orchestration | IBM's AI platform for orchestrating enterprise workflows | Enterprise automation, AI orchestration, business processes |
+| [IndieMerger](https://indiemerger.com) | Merger Automation | Platform for automating merger and acquisition workflows | M&A workflows, process automation, deal management |
+| [Induced AI](https://induced.ai) | AI Induction | Platform for inducing AI into existing workflow processes | AI integration, workflow enhancement, process optimization |
+| [JIFFY.ai](https://jiffy.ai) | Hyperautomation | Platform for hyperautomation and intelligent workflow processes | Hyperautomation, intelligent workflows, process optimization |
+| [JobHuntr.fyi](https://jobhuntr.fyi) | Job Automation | AI platform for automating job search and application workflows | Job search automation, application workflows, career management |
+| [Karmen](https://karmen.ai) | Workflow Management | AI-powered platform for managing and optimizing workflows | Workflow optimization, process management, automation tools |
+| [Kay AI](https://kay.ai) | AI Assistant | AI assistant platform for workflow automation and management | Assistant workflows, task automation, process optimization |
+| [Lecca.io](https://lecca.io) | Integration Platform | Platform for integrating and automating workflow processes | Integration automation, workflow connection, process linking |
+| [Lemon Agent](https://lemonagent.com) | Agent Platform | Platform for creating AI agents for workflow automation | Agent creation, workflow automation, intelligent processes |
+| [Leverage AI](https://leverage.ai) | Business Automation | AI platform for leveraging automation in business workflows | Business processes, workflow optimization, automation enhancement |
+| [Lilac Labs](https://lilac.ai) | AI Research | Platform for automating AI research and development workflows | Research automation, AI workflows, development processes |
+| [Lutra AI](https://lutra.ai) | Workflow Intelligence | AI platform for intelligent workflow automation and optimization | Intelligent workflows, process optimization, automation intelligence |
+| [Maige](https://maige.app) | Workflow Magic | AI platform for creating magical workflow automation experiences | Workflow magic, automation creation, process enhancement |
+| [Make](https://make.com) | Workflow Automation | No-code service for integrating applications and automating tasks | Drag-and-drop builder, scalable scenarios |
+| [Make AI](https://make.com/ai) | AI Workflows | AI-enhanced version of Make for intelligent workflow automation | AI-powered workflows, intelligent automation, enhanced processes |
+| [markdown2pdf.ai](https://markdown2pdf.ai) | Document Conversion | AI platform for automating markdown to PDF conversion workflows | Document conversion, automation workflows, file processing |
+| [Marketer](https://marketer.ai) | Marketing Automation | AI platform for automating marketing workflows and processes | Marketing workflows, campaign automation, process optimization |
+| [Moveworks AI Assistant](https://moveworks.com) | Enterprise Assistant | AI assistant for automating enterprise workflows and processes | Enterprise automation, workflow assistance, process optimization |
+| [MultiOn](https://multion.ai) | Multi-Agent | Platform for orchestrating multiple AI agents in workflows | Multi-agent workflows, agent orchestration, collaborative automation |
+| [My-Legacy.ai](https://my-legacy.ai) | Legacy Automation | AI platform for automating legacy system workflows | Legacy integration, workflow modernization, process automation |
+| [n8n](https://n8n.io) | Workflow Automation | Open-source automation platform for connecting apps and APIs | Visual editor, 400+ integrations |
+| [Naratix](https://naratix.com) | Narrative Automation | AI platform for automating narrative and content workflows | Content workflows, narrative automation, story processes |
+| [Navan AI](https://navan.com) | Travel Automation | AI platform for automating travel and expense workflows | Travel workflows, expense automation, business travel processes |
+| [Needle AI](https://needle.ai) | Precise Automation | AI platform for precise and targeted workflow automation | Precision workflows, targeted automation, specific processes |
+| [Norm AI](https://norm.ai) | Normalized Workflows | AI platform for normalizing and standardizing workflow processes | Process standardization, workflow normalization, automation consistency |
+| [OpenAdapt](https://openadapt.ai) | Adaptive Automation | Open-source platform for adaptive workflow automation | Adaptive workflows, learning automation, process adaptation |
+| [Oracle Miracle Agent](https://oracle.com) | Oracle Integration | Oracle's AI agent for automating Oracle system workflows | Oracle workflows, enterprise automation, database processes |
+| [Parabola](https://parabola.io) | Data Workflow | Automates spreadsheet, data, and API tasks | Visual workflow, data manipulation |
+| [Payman AI](https://payman.ai) | Payment Automation | AI platform for automating payment and financial workflows | Payment workflows, financial automation, transaction processes |
+| [Pinkfish AI](https://pinkfish.ai) | Workflow Optimization | AI platform for optimizing and enhancing workflow processes | Workflow optimization, process enhancement, automation improvement |
+| [Power Automate](https://powerautomate.microsoft.com) | Microsoft Automation | Microsoft's platform for automating workflows across Microsoft ecosystem | Microsoft integration, workflow automation, enterprise processes |
+| [ProAgents](https://proagents.ai) | Professional Agents | Platform for creating professional AI agents for workflow automation | Professional workflows, agent creation, business automation |
+| [Questflow AI](https://questflow.ai) | Quest Workflows | AI platform for creating quest-like workflow automation processes | Quest workflows, gamified automation, process engagement |
+| [Redactable](https://redactable.ai) | Document Redaction | AI platform for automating document redaction workflows | Document automation, redaction processes, privacy workflows |
+| [Relay.app](https://relay.app) | Workflow Relay | Platform for relaying and orchestrating workflow processes | Workflow relay, process orchestration, automation connection |
+| [Respell AI](https://respell.ai) | Spell Automation | AI platform for creating spell-like workflow automations | Magic workflows, automation spells, process enchantment |
+| [RPA AI](https://rpa.ai) | Robotic Process Automation | AI-enhanced RPA platform for workflow automation | RPA workflows, process automation, robotic assistance |
+| [rtrvr.ai](https://rtrvr.ai) | Retrieval Automation | AI platform for automating information retrieval workflows | Data retrieval, information workflows, search automation |
+| [Runable](https://runable.com) | Runnable Workflows | Platform for creating and running automated workflow processes | Workflow execution, process running, automation deployment |
+| [Runner H](https://runner-h.com) | Workflow Runner | Platform for running and executing workflow automation processes | Workflow execution, process running, automation management |
+| [Runner H 0.1](https://runner-h.com) | Workflow Runner v0.1 | Early version of workflow running and execution platform | Workflow execution, process running, automation testing |
+| [SRE.ai](https://sre.ai) | Site Reliability | AI platform for automating site reliability engineering workflows | SRE automation, reliability workflows, system processes |
+| [String.com](https://string.com) | String Workflows | Platform for creating string-based workflow automation processes | String processing, text workflows, automation sequences |
+| [TeamDay.ai](https://teamday.ai) | Team Automation | AI platform for automating team workflows and collaboration | Team workflows, collaboration automation, group processes |
+| [Tektonic AI](https://tektonic.ai) | Tectonic Workflows | AI platform for creating tectonic shifts in workflow automation | Transformative workflows, process revolution, automation innovation |
+| [TenantCircle](https://tenantcircle.com) | Tenant Automation | Platform for automating tenant and property management workflows | Property workflows, tenant automation, management processes |
+| [Tennr](https://tennr.com) | Document Workflows | AI platform for automating document-centric workflows | Document automation, workflow processes, file management |
+| [Thinkeo](https://thinkeo.ai) | Thinking Workflows | AI platform for creating thinking-based workflow processes | Cognitive workflows, thinking automation, intelligent processes |
+| [Tilda Bio AI](https://tilda.bio) | Bio Workflows | AI platform for automating biological and life science workflows | Bio automation, life science workflows, research processes |
+| [Tray.ai](https://tray.ai) | Enterprise Integration | Enterprise platform for automating complex workflow integrations | Enterprise workflows, complex automation, integration processes |
+| [Trigger.dev](https://trigger.dev) | Trigger Automation | Platform for creating trigger-based workflow automation | Event triggers, workflow automation, process activation |
+| [UiPath](https://uipath.com) | RPA Platform | Enterprise robotic process automation platform | RPA workflows, enterprise automation, process robotics |
+| [Unio](https://unio.ai) | Agent-Workflow Mix | Orchestrates agentic and automation workflows | LLM connectors, webhook triggers |
+| [VectorShift](https://vectorshift.ai) | Vector Workflows | AI platform for creating vector-based workflow automation | Vector processing, mathematical workflows, computation automation |
+| [Vessium](https://vessium.ai) | Vessel Workflows | AI platform for creating vessel-like workflow containers | Containerized workflows, process vessels, automation packaging |
+| [viAct.net](https://viact.net) | Activity Automation | Platform for automating activity-based workflows | Activity workflows, action automation, behavior processes |
+| [Weave](https://weave.works) | Workflow Weaving | Platform for weaving together complex workflow automations | Workflow integration, process weaving, automation composition |
+| [Workato](https://workato.com) | Enterprise Automation | Enterprise platform for automating business workflows | Business automation, enterprise workflows, integration platform |
+| [Zapier](https://zapier.com) | Automation Platform | Online platform for automating web apps and services | 5000+ integrations, triggers/actions |
+| [Zapier Agents](https://zapier.com/agents) | AI Agents | Zapier's AI agents for enhanced workflow automation | AI-powered workflows, intelligent automation, enhanced processes |
 
 ---
 
