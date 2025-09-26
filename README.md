@@ -22,6 +22,7 @@ Discover the most comprehensive and up-to-date resource for autonomous AI agents
 | [✍️ Content Creation Agents](#-content-creation-agents) | AI agents specialized in content generation, writing, and creative production |
 | [📈 Marketing AI Agents](#-marketing-ai-agents) | AI agents specialized in marketing automation, campaign management, and growth |
 | [💰 Sales AI Agents](#-sales-ai-agents) | AI agents specialized in sales automation, lead generation, and revenue optimization |
+| [🔬 Research AI Agents](#-research-ai-agents) | AI agents specialized in academic research, literature review, data analysis, and scientific discovery |
 | [🤵 Virtual Worker AI Agents](#-virtual-worker-ai-agents) | AI agents that act as virtual employees for task automation, process execution, and workforce augmentation |
 | [₿ Crypto AI Agents](#-crypto-ai-agents) | Blockchain-based and cryptocurrency-focused AI agents |
 | [🔬 Vertical & Specialized AI Agents](#-vertical--specialized-ai-agents) | Niche and industry-specific AI agents for specialized applications |
