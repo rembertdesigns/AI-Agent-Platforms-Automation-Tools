@@ -901,6 +901,14 @@ Platforms for automating workflows, integrating APIs, and orchestrating digital 
 ---
 
 ## 👁️ Agent Observability Tools
+<img 
+  width="1584" 
+  height="396" 
+  alt="Agent Observability Tools - AI agent monitoring, debugging, performance tracking, and production system reliability for autonomous applications" 
+  title="AI Agent Observability Tools: Monitoring & Performance Tracking Platforms"
+  src="https://github.com/user-attachments/assets/6de465b0-be14-4baa-aca2-36d26337a846"
+  loading="lazy"
+/>
 
 Monitoring, debugging, and performance tracking tools specifically designed for AI agents. These platforms help developers and organizations understand agent behavior, track performance metrics, identify bottlenecks, and ensure reliable autonomous system operation in production environments.
 
