@@ -64,7 +64,6 @@ Found a broken link or outdated information? Please [open an issue](https://gith
 ---
 
 ## 🔧 General Autonomous Agents
-
 <img 
   width="1584" 
   height="396" 
@@ -115,7 +114,6 @@ These platforms and frameworks enable the development of AI agents that autonomo
 ---
 
 ## 💻 Coding & Development Agents
-
 <img 
   width="1584" 
   height="396" 
@@ -309,6 +307,14 @@ AI agents specializing in automating software development tasks through autonomo
 ---
 
 ## 📚 Coding Libraries & SDKs
+<img 
+  width="1584" 
+  height="396" 
+  alt="Coding Libraries & SDKs - Development frameworks, APIs, and infrastructure tools for building AI agents and autonomous applications across platforms" 
+  title="AI Development Libraries & SDKs: Frameworks for Building AI Agents"
+  src="https://github.com/user-attachments/assets/382e961a-718d-4482-8206-e4dc94369c0b"
+  loading="lazy"
+/>
 
 Development libraries, SDKs, and frameworks for building AI agents. These tools provide developers with the foundational components, APIs, and infrastructure needed to create, deploy, and manage AI-powered applications and autonomous agents across various platforms and use cases.
 
