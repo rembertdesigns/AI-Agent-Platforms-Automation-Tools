@@ -907,6 +907,206 @@ Infrastructure and platforms for deploying, scaling, and serving AI models that 
 
 ---
 
+## 🛠️ AI Agent Development Platforms
+
+Comprehensive platforms and frameworks for building, deploying, and managing AI agents. These development environments provide the tools, infrastructure, and services needed to create sophisticated autonomous agents, from visual builders and no-code solutions to enterprise-grade development frameworks and orchestration platforms.
+
+| Name | Category | Description | Notable Features |
+|------|----------|-------------|------------------|
+| [10Web](https://10web.io) | Web Development | AI-powered website and agent development platform | Visual builder, automated deployment, hosting integration |
+| [2501](https://2501.ai) | Agent Framework | AI agent development and deployment platform | Multi-agent orchestration, workflow automation, scalable infrastructure |
+| [Abacus AI](https://abacus.ai) | Enterprise Platform | Enterprise AI platform for building and deploying agents | MLOps integration, model management, enterprise security |
+| [Agency AI](https://agency.ai) | Agent Studio | Visual platform for creating AI agency workflows | No-code builder, team collaboration, workflow templates |
+| [Agent Pilot](https://agentpilot.ai) | Development Studio | Comprehensive agent development and testing environment | Agent simulation, testing framework, deployment tools |
+| [Agenta](https://agenta.ai) | Development Platform | Platform for building and testing LLM applications and agents | Prompt engineering, A/B testing, performance monitoring |
+| [AgentGPT](https://agentgpt.com) | Agent Builder | Web-based platform for creating autonomous AI agents | Browser-based development, goal-driven agents, task automation |
+| [Agentive](https://agentive.ai) | Agent Framework | Framework for building conversational AI agents | Natural language processing, context management, integration APIs |
+| [AGENTS.inc](https://agents.inc) | Enterprise Platform | Enterprise-grade agent development and management platform | Scalable infrastructure, security compliance, team collaboration |
+| [AgentVerse](https://agentverse.ai) | Agent Network | Decentralized platform for agent development and interaction | Multi-agent communication, blockchain integration, distributed computing |
+| [AI Agent Layer](https://aiagentlayer.com) | Infrastructure Layer | Infrastructure layer for AI agent development and deployment | API management, scaling solutions, monitoring tools |
+| [AI Refinery](https://airefinery.com) | Development Studio | Platform for refining and optimizing AI agents | Performance optimization, model fine-tuning, quality assurance |
+| [AI Studio Stream Realtime](https://studio.ai) | Real-time Platform | Real-time AI agent development and streaming platform | Live agent testing, real-time interactions, streaming capabilities |
+| [Airkit.ai](https://airkit.ai) | Customer Experience | Platform for building customer experience AI agents | Customer journey automation, omnichannel support, analytics |
+| [Aivah](https://aivah.ai) | Conversational AI | Platform for building conversational AI agents and chatbots | Dialog management, natural language understanding, integration tools |
+| [aiXplain](https://aixplain.com) | AI Marketplace | Marketplace and platform for AI model and agent development | Model marketplace, API integration, development tools |
+| [Amazon Bedrock AgentCore](https://aws.amazon.com/bedrock) | Cloud Platform | AWS platform for building and deploying AI agents | Cloud infrastructure, managed services, enterprise security |
+| [Amazon Bedrock Agents](https://aws.amazon.com/bedrock) | Agent Service | Managed service for creating and deploying AI agents on AWS | Serverless deployment, AWS integration, scalable infrastructure |
+| [Anon](https://anon.ai) | Privacy Platform | Platform for building privacy-focused AI agents | Data privacy, anonymous interactions, secure deployment |
+| [AntWorks Intelligent Automation](https://antworks.com) | Enterprise Automation | Enterprise platform for intelligent automation and agent development | Process automation, cognitive computing, enterprise integration |
+| [AnyModel](https://anymodel.ai) | Model Platform | Platform for integrating and deploying various AI models as agents | Multi-model support, API integration, deployment flexibility |
+| [Appsmith Agents](https://appsmith.com) | Low-code Platform | Low-code platform for building agent-powered applications | Visual development, database integration, workflow automation |
+| [Assisterr AI](https://assisterr.ai) | Assistant Builder | Platform for building AI assistant and agent applications | Assistant templates, customization tools, deployment options |
+| [Atlas AI](https://atlas.ai) | Development Framework | Comprehensive framework for AI agent development and deployment | Multi-framework support, development tools, collaboration features |
+| [Azure AI Foundry](https://azure.microsoft.com/ai) | Cloud Platform | Microsoft Azure platform for AI agent development and deployment | Cloud infrastructure, AI services integration, enterprise tools |
+| [Azure AI Vision](https://azure.microsoft.com/services/cognitive-services/computer-vision) | Vision AI | Platform for building vision-powered AI agents | Computer vision APIs, image analysis, visual recognition |
+| [Bolt.diy](https://bolt.diy) | DIY Platform | Do-it-yourself platform for building simple AI agents | Beginner-friendly, templates, community support |
+| [BOTfriends X](https://botfriends.ai) | Bot Platform | Platform for building and managing conversational agents | Multi-channel deployment, analytics, bot management |
+| [Botpress](https://botpress.com) | Open Source | Open-source platform for building conversational AI agents | Visual flow builder, NLU integration, extensible architecture |
+| [Bubble.io](https://bubble.io) | No-code Platform | No-code platform with AI agent development capabilities | Visual programming, database integration, web app deployment |
+| [Capx AI](https://capx.ai) | Agent Builder | Platform for building and deploying business AI agents | Business process automation, workflow integration, analytics |
+| [Cascadeur](https://cascadeur.com) | Animation Platform | Platform for building AI-powered animation and motion agents | 3D animation, physics simulation, automated character movement |
+| [causaLens AI](https://causalens.com) | Causal AI | Platform for building causal AI agents and decision systems | Causal modeling, decision intelligence, predictive analytics |
+| [Ceramic.ai](https://ceramic.ai) | Data Platform | Platform for building data-driven AI agents | Data management, model training, agent orchestration |
+| [Chai](https://chai.ml) | Conversational AI | Platform for creating and training conversational AI agents | Character AI, personality modeling, conversation training |
+| [Chaindesk](https://chaindesk.ai) | Customer Support | Platform for building customer support AI agents | Knowledge base integration, ticket automation, multi-channel support |
+| [ChatBotKit](https://chatbotkit.com) | Chatbot Builder | Comprehensive platform for building advanced chatbots and agents | Natural language processing, integrations, deployment tools |
+| [ChatLLM Teams](https://chatllm.teams) | Team Platform | Platform for building team-based AI agents and collaboration tools | Team workflows, collaborative AI, productivity enhancement |
+| [Chipp AI](https://chipp.ai) | Agent Builder | Simple platform for building and sharing AI agents | User-friendly interface, sharing capabilities, template library |
+| [CodeConductor](https://codeconductor.ai) | Code Platform | Platform for building code-generation and development AI agents | Code automation, development workflows, programming assistance |
+| [Cognigy](https://cognigy.com) | Enterprise Platform | Enterprise conversational AI platform for building intelligent agents | Contact center integration, omnichannel support, analytics |
+| [Cohere](https://cohere.ai) | Language Platform | Platform for building language-powered AI agents and applications | Natural language processing, text generation, embedding models |
+| [CollabAI](https://collab.ai) | Collaboration Platform | Platform for building collaborative AI agents for team productivity | Team automation, workflow enhancement, collaborative intelligence |
+| [Conviction AI](https://conviction.ai) | Decision Platform | Platform for building decision-making AI agents | Decision automation, risk assessment, intelligent recommendations |
+| [CrewAI](https://crewai.com) | Multi-Agent Framework | Framework for building and orchestrating teams of AI agents | Agent collaboration, role-based agents, task distribution |
+| [Cubeo AI](https://cubeo.ai) | Business Platform | Platform for building business process AI agents | Process automation, workflow optimization, business intelligence |
+| [Databerry](https://databerry.ai) | Data Platform | Platform for building data-driven AI agents and applications | Data integration, knowledge management, custom training |
+| [Datamatics TruAgentic](https://datamatics.com) | Enterprise Platform | Enterprise platform for building intelligent automation agents | Process mining, cognitive automation, enterprise integration |
+| [DataRobot](https://datarobot.com) | MLOps Platform | Platform for building and deploying machine learning agents | Automated ML, model deployment, monitoring and governance |
+| [/dev/agents](https://devagents.ai) | Developer Platform | Developer-focused platform for building and testing AI agents | Development tools, testing framework, API integration |
+| [Deventral](https://deventral.ai) | Decentralized Platform | Decentralized platform for building and deploying AI agents | Blockchain integration, distributed computing, peer-to-peer agents |
+| [Dify](https://dify.ai) | LLM Platform | Platform for building LLM applications and intelligent agents | Visual workflow builder, API management, deployment tools |
+| [DotAgent AI](https://dotagent.ai) | Agent Framework | Framework for building domain-specific AI agents | Specialized agents, domain expertise, customizable workflows |
+| [Dust AI](https://dust.tt) | Workspace Platform | Platform for building AI agents for workplace productivity | Workspace integration, team collaboration, productivity automation |
+| [Dynamiq](https://dynamiq.ai) | Dynamic Platform | Platform for building adaptive and dynamic AI agents | Adaptive behavior, real-time learning, flexible deployment |
+| [Dynamiq AI Agents](https://dynamiq.ai) | Agent Orchestration | Platform for orchestrating complex AI agent workflows | Multi-agent coordination, workflow management, scalable execution |
+| [E2B](https://e2b.dev) | Development Environment | Cloud development environment for building AI agents | Sandboxed execution, development tools, collaborative coding |
+| [Emergence AI](https://emergence.ai) | Emergent Platform | Platform for building emergent behavior AI agents | Complex systems, emergent intelligence, adaptive learning |
+| [Entelligence.AI](https://entelligence.ai) | Intelligence Platform | Platform for building intelligent automation agents | Cognitive automation, intelligent workflows, decision support |
+| [Epsilla](https://epsilla.com) | Vector Database | Vector database platform for building knowledge-powered agents | Vector search, knowledge retrieval, semantic understanding |
+| [Exa AI](https://exa.ai) | Search Platform | Platform for building AI agents with advanced search capabilities | Semantic search, knowledge discovery, information retrieval |
+| [Faktory](https://faktory.ai) | Automation Platform | Platform for building factory-style automation agents | Production workflows, quality control, industrial automation |
+| [Fetch.ai](https://fetch.ai) | Blockchain Platform | Blockchain-based platform for building autonomous economic agents | Decentralized agents, economic protocols, blockchain integration |
+| [FinRobot](https://finrobot.ai) | Financial Platform | Platform for building financial AI agents and applications | Financial modeling, risk assessment, investment automation |
+| [Firebase Studio](https://firebase.google.com) | Mobile Platform | Platform for building mobile AI agents and applications | Mobile backend, real-time database, cloud functions |
+| [Firecrawl AI](https://firecrawl.dev) | Web Scraping | Platform for building web scraping and data extraction agents | Automated scraping, data extraction, web monitoring |
+| [Fleek](https://fleek.co) | Web3 Platform | Platform for building decentralized AI agents and applications | Web3 infrastructure, IPFS integration, decentralized deployment |
+| [FlowHunt](https://flowhunt.ai) | Workflow Platform | Platform for building workflow automation AI agents | Visual workflow builder, automation tools, process optimization |
+| [Flowise](https://flowiseai.com) | Open Source | Open-source platform for building LLM applications and agents | Visual flow builder, open-source, community-driven |
+| [F/MS Startup Game](https://fms.game) | Game Platform | Platform for building AI agents in startup simulation environments | Business simulation, strategy games, competitive AI |
+| [Forefront AI](https://forefront.ai) | AI Platform | Platform for building and deploying advanced AI agents | Model fine-tuning, deployment tools, performance optimization |
+| [Foundry.ai](https://foundry.ai) | Enterprise Platform | Enterprise platform for building industrial AI agents | Industrial automation, manufacturing intelligence, predictive maintenance |
+| [Frontline](https://frontline.ai) | Customer Platform | Platform for building customer-facing AI agents | Customer service automation, support ticket handling, CRM integration |
+| [Fuse AI](https://fuse.ai) | Integration Platform | Platform for building AI agents with multi-service integration | API integration, service orchestration, workflow automation |
+| [Future AGI](https://futureagi.com) | AGI Platform | Platform focused on building advanced general intelligence agents | AGI research, advanced reasoning, multi-modal capabilities |
+| [GaiaHub](https://gaiahub.ai) | Ecosystem Platform | Platform for building and managing AI agent ecosystems | Agent marketplace, ecosystem management, collaborative development |
+| [Genesis Bots](https://genesisbots.ai) | Bot Platform | Platform for creating and managing next-generation AI bots | Advanced bot capabilities, natural interactions, deployment tools |
+| [Gentoro](https://gentoro.com) | Enterprise Platform | Enterprise platform for building business AI agents | Business process automation, enterprise integration, compliance tools |
+| [Google Agentspace](https://agentspace.google.com) | Google Platform | Google's platform for building and deploying AI agents | Google services integration, cloud infrastructure, development tools |
+| [Google Cloud Vision API](https://cloud.google.com/vision) | Vision Platform | Platform for building computer vision AI agents | Image analysis, object detection, visual intelligence |
+| [Graphlit](https://graphlit.ai) | Knowledge Platform | Platform for building knowledge-powered AI agents | Knowledge graphs, semantic understanding, intelligent search |
+| [Hapax](https://hapax.ai) | Language Platform | Platform for building advanced language model agents | Advanced NLP, language understanding, conversational AI |
+| [Hebbia AI](https://hebbia.ai) | Research Platform | Platform for building research and analysis AI agents | Research automation, document analysis, knowledge extraction |
+| [Hercules AI](https://hercules.ai) | Automation Platform | Platform for building powerful automation AI agents | Heavy-duty automation, complex workflows, enterprise scale |
+| [HeyBoss](https://heyboss.ai) | Management Platform | Platform for building management and coordination AI agents | Team management, task coordination, productivity optimization |
+| [HeyBoss AI](https://heyboss.ai) | Business Platform | Platform for building business management AI agents | Business automation, management workflows, decision support |
+| [Humain AI](https://humain.ai) | Human-like Platform | Platform for building human-like AI agents | Natural interactions, personality modeling, emotional intelligence |
+| [HyperCycle](https://hypercycle.ai) | Blockchain Platform | Blockchain platform for building decentralized AI agents | Decentralized computing, blockchain integration, distributed AI |
+| [Julep](https://julep.ai) | Development Platform | Platform for building and deploying conversational AI agents | Conversation management, deployment tools, integration APIs |
+| [Kadoa](https://kadoa.com) | Data Platform | Platform for building data extraction and processing agents | Web scraping, data extraction, automated data pipelines |
+| [KanzzAI](https://kanzz.ai) | Multi-purpose Platform | Platform for building various types of AI agents | Versatile development, multiple use cases, flexible deployment |
+| [KOGO AI Agents](https://kogo.ai) | Agent Platform | Comprehensive platform for building and managing AI agents | Agent lifecycle management, deployment tools, monitoring |
+| [Kore.ai](https://kore.ai) | Enterprise Platform | Enterprise platform for building conversational AI agents | Enterprise integration, security compliance, scalable infrastructure |
+| [LandingLens](https://landing.ai) | Computer Vision | Platform for building computer vision AI agents | Visual inspection, quality control, manufacturing applications |
+| [Langbase](https://langbase.com) | Language Platform | Platform for building language model applications and agents | Language model integration, API management, development tools |
+| [Langflow](https://langflow.org) | Visual Platform | Visual platform for building LLM applications and agents | Drag-and-drop interface, visual programming, rapid prototyping |
+| [LaunchLemonade](https://launchlemonade.com) | Startup Platform | Platform for building AI agents for startup automation | Startup workflows, growth automation, business development |
+| [Lift AI](https://lift.ai) | Optimization Platform | Platform for building optimization and enhancement AI agents | Performance optimization, system enhancement, efficiency improvement |
+| [Linkup](https://linkup.ai) | Connection Platform | Platform for building AI agents that connect and integrate services | Service integration, API orchestration, workflow connectivity |
+| [Liquid AI](https://liquid.ai) | Adaptive Platform | Platform for building adaptive and fluid AI agents | Adaptive learning, dynamic behavior, flexible responses |
+| [LlamaCloud](https://llamaindex.ai) | Cloud Platform | Cloud platform for building LLM-powered AI agents | Cloud deployment, LLM integration, scalable infrastructure |
+| [LLMStack](https://llmstack.ai) | Stack Platform | Platform providing full stack for building LLM applications | Complete development stack, deployment tools, infrastructure |
+| [LM Studio](https://lmstudio.ai) | Model Studio | Studio environment for building and testing language model agents | Model development, testing tools, performance analysis |
+| [LobeHub](https://lobehub.com) | Development Hub | Hub platform for building and sharing AI agents | Community sharing, collaboration tools, development resources |
+| [Lovable](https://lovable.dev) | Development Platform | Platform for building lovable and engaging AI agents | User experience focus, engagement optimization, personality development |
+| [Lyzr AI](https://lyzr.ai) | Enterprise Platform | Enterprise platform for building business AI agents | Business intelligence, process automation, enterprise security |
+| [Magick](https://magick.ml) | Visual Platform | Visual platform for building AI agents with no-code tools | Visual development, no-code builder, rapid deployment |
+| [MCP.so](https://mcp.so) | Protocol Platform | Platform implementing Model Context Protocol for agent development | Protocol implementation, context management, interoperability |
+| [Memetica AI](https://memetica.ai) | Cultural Platform | Platform for building culturally-aware AI agents | Cultural intelligence, social understanding, contextual awareness |
+| [Mendable](https://mendable.ai) | Documentation Platform | Platform for building documentation and support AI agents | Knowledge base integration, documentation automation, support tools |
+| [MetaHuman Creator](https://metahuman.unrealengine.com) | Avatar Platform | Platform for creating realistic human-like AI agents | 3D avatars, realistic appearance, character animation |
+| [MindPal](https://mindpal.io) | Productivity Platform | Platform for building personal productivity AI agents | Personal automation, task management, productivity enhancement |
+| [Mintii](https://mintii.com) | Creation Platform | Platform for building and deploying creative AI agents | Creative automation, content generation, artistic intelligence |
+| [Mission Squad](https://missionsquad.ai) | Team Platform | Platform for building mission-oriented team AI agents | Mission planning, team coordination, objective achievement |
+| [ModelBench AI](https://modelbench.ai) | Benchmarking Platform | Platform for building and benchmarking AI agents | Performance testing, model comparison, evaluation tools |
+| [Mogoj AI](https://mogoj.ai) | Multi-modal Platform | Platform for building multi-modal AI agents | Multi-modal capabilities, cross-media understanding, unified intelligence |
+| [MS Copilot Studio Agent Builder](https://copilotstudio.microsoft.com) | Microsoft Platform | Microsoft's platform for building Copilot agents | Microsoft ecosystem integration, enterprise tools, productivity focus |
+| [MS Fabric](https://fabric.microsoft.com) | Data Platform | Microsoft platform for building data-driven AI agents | Data analytics, business intelligence, Microsoft integration |
+| [Natoma MCP Platform](https://natoma.ai) | Protocol Platform | Platform for building agents using Model Context Protocol | Protocol compliance, context management, agent interoperability |
+| [Nelima](https://nelima.ai) | Development Platform | Platform for building and deploying intelligent AI agents | Intelligent automation, deployment tools, performance monitoring |
+| [NeuraFlash](https://neuraflash.ai) | Neural Platform | Platform for building neural network-based AI agents | Neural architecture, deep learning, advanced AI capabilities |
+| [NexusGPT](https://nexusgpt.ai) | GPT Platform | Platform for building GPT-powered AI agents | GPT integration, language capabilities, conversational intelligence |
+| [Nimble AI](https://nimble.ai) | Agile Platform | Platform for building nimble and responsive AI agents | Agile development, rapid iteration, flexible deployment |
+| [Nova Agent](https://nova-agent.ai) | Agent Platform | Platform for building next-generation AI agents | Advanced capabilities, cutting-edge technology, innovative features |
+| [NVIDIA Omniverse (OSMO)](https://omniverse.nvidia.com) | 3D Platform | Platform for building 3D and simulation AI agents | 3D environments, physics simulation, virtual worlds |
+| [Occamise](https://occamise.com) | Simplification Platform | Platform for building simple and efficient AI agents | Simplicity focus, efficiency optimization, clean design |
+| [Odin AI](https://odin.ai) | Mythology Platform | Platform for building powerful and wise AI agents | Advanced intelligence, decision making, strategic thinking |
+| [Ollama](https://ollama.ai) | Local Platform | Platform for running and building local AI agents | Local deployment, privacy focus, offline capabilities |
+| [OneReach.ai](https://onereach.ai) | Omnichannel Platform | Platform for building omnichannel AI agents | Multi-channel deployment, unified experience, customer engagement |
+| [OpenAgents](https://openagents.ai) | Open Platform | Open platform for building and sharing AI agents | Open source, community-driven, collaborative development |
+| [OpenPipe AI](https://openpipe.ai) | Pipeline Platform | Platform for building AI agent pipelines and workflows | Data pipelines, workflow automation, processing chains |
+| [OpenRouter AI](https://openrouter.ai) | Routing Platform | Platform for building AI agents with intelligent routing | Request routing, load balancing, service orchestration |
+| [Oraczen's Zen Platform](https://oraczen.com) | Mindful Platform | Platform for building mindful and balanced AI agents | Mindfulness integration, balanced responses, ethical AI |
+| [OrbitAI](https://orbit.ai) | Orbital Platform | Platform for building AI agents with orbital intelligence | Circular reasoning, comprehensive analysis, holistic intelligence |
+| [Orbofi](https://orbofi.com) | Creative Platform | Platform for building creative and artistic AI agents | Creative automation, artistic intelligence, design tools |
+| [OutSystems](https://outsystems.com) | Low-code Platform | Low-code platform for building enterprise AI agents | Visual development, enterprise integration, rapid deployment |
+| [Pamir AI](https://pamir.ai) | Mountain Platform | Platform for building peak-performance AI agents | High performance, optimization focus, excellence-driven |
+| [Parloa AI Agent Management Platform](https://parloa.com) | Conversation Platform | Platform for managing conversational AI agents | Conversation management, voice AI, customer service automation |
+| [Phala Network](https://phala.network) | Blockchain Platform | Blockchain platform for building privacy-preserving AI agents | Privacy protection, blockchain security, decentralized computing |
+| [Portia AI](https://portia.ai) | Intelligent Platform | Platform for building intelligent and sophisticated AI agents | Advanced intelligence, sophisticated reasoning, complex problem solving |
+| [Potpie AI](https://potpie.ai) | Recipe Platform | Platform for building AI agents with recipe-like workflows | Workflow recipes, step-by-step automation, process templates |
+| [Praxis AI](https://praxis.ai) | Practical Platform | Platform for building practical and action-oriented AI agents | Practical applications, action focus, real-world deployment |
+| [Project Oscar](https://projectoscar.ai) | Project Platform | Platform for building project management AI agents | Project automation, task coordination, milestone tracking |
+| [Prolific](https://prolific.ai) | Productive Platform | Platform for building highly productive AI agents | Productivity optimization, efficiency enhancement, output maximization |
+| [Protocraft AI](https://protocraft.ai) | Protocol Platform | Platform for building protocol-compliant AI agents | Protocol implementation, standards compliance, interoperability |
+| [Quant](https://quant.ai) | Quantitative Platform | Platform for building quantitative analysis AI agents | Mathematical modeling, statistical analysis, data-driven decisions |
+| [Raccoon AI](https://raccoon.ai) | Clever Platform | Platform for building clever and resourceful AI agents | Problem-solving focus, resourcefulness, adaptive intelligence |
+| [RapidCanvas](https://rapidcanvas.ai) | Rapid Platform | Platform for rapidly building and deploying AI agents | Rapid development, quick deployment, time-to-market optimization |
+| [ReByte](https://rebyte.ai) | Optimization Platform | Platform for building optimized and efficient AI agents | Performance optimization, efficiency focus, resource management |
+| [Reiki by Web3Go](https://reiki.web3go.ai) | Web3 Platform | Platform for building Web3-enabled AI agents | Blockchain integration, decentralized applications, Web3 capabilities |
+| [Relevance AI Agents](https://relevance.ai) | Relevance Platform | Platform for building contextually relevant AI agents | Context awareness, relevance optimization, intelligent matching |
+| [Reworkd](https://reworkd.ai) | Automation Platform | Platform for building work automation AI agents | Work automation, process improvement, productivity enhancement |
+| [Rivalz Network](https://rivalz.ai) | Network Platform | Platform for building competitive AI agents | Competition focus, performance comparison, benchmarking |
+| [SageFlow](https://sageflow.ai) | Wisdom Platform | Platform for building wise and knowledgeable AI agents | Knowledge management, wisdom accumulation, intelligent insights |
+| [Salesforce Agentforce](https://salesforce.com/agentforce) | CRM Platform | Platform for building CRM and sales AI agents | CRM integration, sales automation, customer relationship management |
+| [SandboxAQ](https://sandboxaq.com) | Quantum Platform | Platform for building quantum-enhanced AI agents | Quantum computing, advanced algorithms, quantum advantage |
+| [SAP Joule Studio](https://sap.com/joule) | Enterprise Platform | SAP platform for building enterprise AI agents | ERP integration, business processes, enterprise workflows |
+| [Scrape.do](https://scrape.do) | Scraping Platform | Platform for building web scraping AI agents | Data extraction, web monitoring, automated scraping |
+| [Sema4.ai](https://sema4.ai) | Automation Platform | Platform for building intelligent automation agents | Process automation, workflow optimization, business intelligence |
+| [Seraphnet AI](https://seraphnet.ai) | Angelic Platform | Platform for building helpful and benevolent AI agents | Helpful automation, positive impact, ethical AI development |
+| [ShipStation.AI](https://shipstation.ai) | Logistics Platform | Platform for building shipping and logistics AI agents | Shipping automation, logistics optimization, supply chain management |
+| [Simli](https://simli.ai) | Simulation Platform | Platform for building simulation-based AI agents | Agent simulation, testing environments, virtual scenarios |
+| [Singularitycrew](https://singularitycrew.ai) | Singularity Platform | Platform for building advanced AI agents approaching singularity | Advanced AI, cutting-edge capabilities, future-focused development |
+| [SingularityNET](https://singularitynet.io) | Decentralized Platform | Decentralized platform for building and sharing AI agents | Blockchain integration, AI marketplace, decentralized intelligence |
+| [Smithery](https://smithery.ai) | Crafting Platform | Platform for crafting and building custom AI agents | Custom development, artisanal approach, specialized agents |
+| [SmythOS](https://smythos.com) | Operating System | Operating system for AI agents and intelligent automation | Agent orchestration, system integration, comprehensive platform |
+| [Snorkel Flow](https://snorkel.ai) | Data Platform | Platform for building data-centric AI agents | Data labeling, training data generation, model development |
+| [Stack AI](https://stack-ai.com) | Stack Platform | Platform providing complete stack for AI agent development | Full-stack development, integrated tools, comprehensive solution |
+| [Stammer AI](https://stammer.ai) | Communication Platform | Platform for building communication-focused AI agents | Communication enhancement, speech improvement, interaction optimization |
+| [Superbo GenAI Fabric](https://superbo.ai) | Generation Platform | Platform for building generative AI agents | Content generation, creative AI, generative capabilities |
+| [SwarmZero.ai](https://swarmzero.ai) | Swarm Platform | Platform for building swarm intelligence AI agents | Collective intelligence, swarm behavior, distributed problem solving |
+| [Synergetics AI](https://synergetics.ai) | Synergy Platform | Platform for building synergistic AI agent systems | Agent collaboration, synergistic effects, combined intelligence |
+| [TaskingAI](https://tasking.ai) | Task Platform | Platform for building task-oriented AI agents | Task automation, workflow management, goal achievement |
+| [Tavily](https://tavily.com) | Research Platform | Platform for building research and investigation AI agents | Research automation, information gathering, analysis tools |
+| [Teammately](https://teammately.ai) | Team Platform | Platform for building team collaboration AI agents | Team automation, collaboration enhancement, group productivity |
+| [Tempo Labs](https://tempo.labs) | Timing Platform | Platform for building time-aware AI agents | Temporal intelligence, scheduling optimization, time management |
+| [The Simulation](https://thesimulation.ai) | Simulation Platform | Platform for building AI agents in simulated environments | Virtual environments, simulation testing, scenario modeling |
+| [Together AI](https://together.ai) | Collaboration Platform | Platform for building collaborative AI agents | Collaborative intelligence, team AI, shared decision making |
+| [Turbotic AI Assistant](https://turbotic.ai) | Automation Platform | Platform for building turbocharged automation AI agents | High-speed automation, performance optimization, rapid execution |
+| [Ungate AI](https://ungate.ai) | Access Platform | Platform for building AI agents with unrestricted capabilities | Flexible deployment, capability expansion, unrestricted development |
+| [Unleash](https://unleash.io) | Feature Platform | Platform for building AI agents with feature flag management | Feature control, deployment management, progressive rollouts |
+| [Vertex AI Agent Builder](https://cloud.google.com/vertex-ai) | Google Cloud | Google Cloud platform for building enterprise AI agents | Google Cloud integration, enterprise security, scalable infrastructure |
+| [VisionAgent](https://visionagent.ai) | Computer Vision | Platform for building computer vision AI agents | Visual intelligence, image processing, automated visual analysis |
+| [VisualAgents.ai](https://visualagents.ai) | Visual Platform | Platform for building visually-oriented AI agents | Visual interfaces, graphic design automation, visual intelligence |
+| [Voiceflow](https://voiceflow.com) | Conversational Platform | Platform for building voice and chat AI agents | Voice interfaces, conversation design, multi-modal interactions |
+| [Web3GPT](https://web3gpt.ai) | Web3 Platform | Platform for building Web3-enabled AI agents | Blockchain integration, decentralized applications, crypto capabilities |
+| [Windows Agent Arena](https://microsoft.com/windows-agent-arena) | Windows Platform | Microsoft platform for building Windows-native AI agents | Windows integration, desktop automation, system-level access |
+| [Wordware](https://wordware.ai) | Language Platform | Platform for building language-focused AI agents | Natural language processing, text automation, linguistic intelligence |
+| [Woz](https://woz.ai) | Wizard Platform | Platform for building intelligent AI agents with wizard-like capabilities | Advanced automation, intelligent assistance, complex problem solving |
+| [Xpander AI](https://xpander.ai) | Expansion Platform | Platform for building AI agents with expandable capabilities | Modular architecture, capability expansion, scalable development |
+| [Zylon AI](https://zylon.ai) | Advanced Platform | Platform for building next-generation AI agents | Cutting-edge technology, advanced capabilities, future-ready development |
+
+---
+
 ## 📊 AI Data Analysts
 
 AI agents specialized in data analysis, visualization, and business intelligence. These platforms automate complex data workflows, from data collection and processing to advanced analytics and reporting, enabling organizations to extract actionable insights from their data through natural language queries and automated analysis.
