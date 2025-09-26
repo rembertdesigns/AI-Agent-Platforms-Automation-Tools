@@ -671,6 +671,70 @@ AI agents specialized in content generation, writing, and creative production ac
 
 ---
 
+## 📈 Marketing AI Agents
+
+AI agents specialized in marketing automation, campaign management, and growth optimization. These platforms automate marketing workflows from lead generation and audience analysis to SEO optimization and social media management, enabling marketers to scale their efforts and improve campaign performance through data-driven insights and automated execution.
+
+| Name | Category | Description | Notable Features |
+|------|----------|-------------|------------------|
+| [Ability AI](https://ability.ai) | Marketing Automation | AI-powered marketing automation and optimization platform | Campaign automation, performance optimization, multi-channel integration |
+| [Agent WordLift](https://wordlift.io) | SEO Marketing | AI agent for SEO content optimization and semantic marketing | Semantic SEO, knowledge graphs, content optimization |
+| [Agents Base](https://agentsbase.com) | Marketing Platform | Comprehensive AI marketing agents and automation platform | Multi-agent marketing, campaign management, performance tracking |
+| [AI Brand Monitoring](https://aibrandmonitoring.com) | Brand Intelligence | AI-powered brand monitoring and reputation management | Brand tracking, sentiment analysis, competitive intelligence |
+| [Akira AI - Competitive Intelligence](https://akira.ai) | Competitor Analysis | AI agent for competitive intelligence and market analysis | Competitor tracking, market insights, strategic analysis |
+| [Audience Analysis AI](https://audienceanalysis.ai) | Audience Intelligence | AI platform for audience analysis and segmentation | Demographic analysis, behavioral insights, targeting optimization |
+| [BacklinkBot](https://backlinkbot.com) | SEO Automation | AI agent for automated backlink building and SEO | Link building automation, SEO optimization, outreach campaigns |
+| [Beno AI](https://beno.ai) | Marketing Assistant | AI-powered marketing assistant for campaign management | Campaign planning, content suggestions, performance analysis |
+| [BillyBuzz](https://billybuzz.com) | Buzz Marketing | AI agent for viral marketing and buzz generation | Viral content creation, trend analysis, engagement optimization |
+| [Buildform](https://buildform.com) | Form Optimization | AI-powered form building and conversion optimization | Form analytics, conversion optimization, lead generation |
+| [ClosersCopy](https://closerscopy.com) | Sales Copy | AI copywriting platform for high-converting sales content | Sales copy optimization, conversion tracking, A/B testing |
+| [Competely AI](https://competely.ai) | Competitive Analysis | AI platform for comprehensive competitive analysis | Market research, competitor insights, strategic recommendations |
+| [CopyMonkey](https://copymonkey.ai) | E-commerce Copy | AI copywriting specialized for Amazon and e-commerce | Product listings, Amazon optimization, conversion-focused copy |
+| [CustomerFinderBot](https://customerfinderbot.com) | Lead Generation | AI agent for automated customer discovery and lead generation | Prospect identification, lead scoring, outreach automation |
+| [Customers.ai](https://customers.ai) | Customer Intelligence | AI platform for customer analysis and lifecycle management | Customer insights, retention optimization, personalization |
+| [Dental Genius](https://dentalgenius.ai) | Dental Marketing | AI marketing platform specialized for dental practices | Practice marketing, patient acquisition, appointment optimization |
+| [Dydas](https://dydas.com) | Marketing Analytics | AI-powered marketing analytics and performance optimization | Campaign analytics, ROI optimization, performance tracking |
+| [Email AI Extractor](https://emailextractor.ai) | Email Marketing | AI agent for email extraction and marketing automation | Email discovery, list building, outreach automation |
+| [Fanalytics](https://fanalytics.com) | Fan Analytics | AI platform for fan and audience behavior analysis | Fan engagement, loyalty analysis, community insights |
+| [FB Group AI Extractor](https://fbgroupextractor.com) | Social Media Mining | AI agent for Facebook group data extraction and analysis | Social data mining, audience insights, community analysis |
+| [Flowsend](https://flowsend.com) | Email Automation | AI-powered email marketing and automation platform | Email sequences, personalization, campaign optimization |
+| [groas](https://groas.com) | E-commerce Analytics | AI analytics platform for e-commerce marketing optimization | E-commerce insights, customer journey analysis, conversion optimization |
+| [Halion AI](https://halion.ai) | Marketing Intelligence | AI-powered marketing intelligence and automation platform | Marketing automation, intelligence gathering, campaign optimization |
+| [HarvestLeads](https://harvestleads.com) | Lead Generation | AI agent for automated lead harvesting and qualification | Lead generation, qualification automation, CRM integration |
+| [Humanic AI](https://humanic.ai) | Customer Experience | AI platform for personalized customer experience optimization | Experience personalization, journey optimization, engagement enhancement |
+| [Icon AI](https://icon.ai) | Visual Marketing | AI platform for marketing visual content and design automation | Visual content creation, design automation, brand consistency |
+| [Jacquard](https://jacquard.com) | Dynamic Content | AI platform for dynamic content generation and personalization | Content personalization, dynamic messaging, campaign optimization |
+| [Kathy - AI Competitor Analyst](https://kathy.ai) | Competitor Intelligence | AI analyst specialized in competitive research and monitoring | Competitor tracking, market analysis, strategic insights |
+| [Klaviyo](https://klaviyo.com) | Email & SMS Marketing | AI-powered email and SMS marketing automation platform | Behavioral targeting, predictive analytics, omnichannel marketing |
+| [kwrds.ai](https://kwrds.ai) | Keyword Research | AI-powered keyword research and SEO optimization | Keyword analysis, search optimization, content planning |
+| [LangChain Social Media Agent](https://langchain.com) | Social Media Automation | AI agent for automated social media management | Social posting, engagement automation, content scheduling |
+| [ListingBott](https://listingbott.com) | Listing Optimization | AI agent for product listing optimization and management | Product listings, marketplace optimization, inventory management |
+| [Marxx AI](https://marxx.ai) | Marketing Automation | Comprehensive AI marketing automation and optimization platform | Multi-channel automation, campaign management, performance optimization |
+| [Maxwell AI](https://maxwell.ai) | Marketing Intelligence | AI-powered marketing intelligence and strategy platform | Strategic insights, market analysis, campaign optimization |
+| [Mentio](https://mentio.com) | Brand Monitoring | AI platform for brand mention monitoring and engagement | Social listening, brand tracking, engagement automation |
+| [Morph AI](https://morph.ai) | Marketing Transformation | AI platform for marketing transformation and optimization | Marketing evolution, process optimization, strategic transformation |
+| [NinjaCat AI Agents](https://ninjacat.io) | Marketing Analytics | AI-powered marketing analytics and reporting platform | Performance analytics, reporting automation, campaign insights |
+| [Notus](https://notus.ai) | Notification Marketing | AI platform for intelligent notification and messaging | Smart notifications, messaging optimization, engagement enhancement |
+| [Opencord AI](https://opencord.ai) | Community Marketing | AI agent for community management and engagement | Community automation, engagement optimization, member insights |
+| [Persado](https://persado.com) | Message Optimization | AI platform for marketing message optimization and personalization | Message personalization, emotional targeting, conversion optimization |
+| [Promarkia](https://promarkia.com) | Marketing Automation | Professional AI marketing automation and campaign management | Campaign automation, lead nurturing, marketing workflows |
+| [Qeen AI](https://qeen.ai) | Marketing Assistant | AI-powered marketing assistant and campaign optimizer | Marketing assistance, campaign optimization, performance enhancement |
+| [Quso AI](https://quso.ai) | Marketing Intelligence | AI platform for marketing intelligence and competitive analysis | Market insights, competitive tracking, strategic analysis |
+| [ReachifyMe](https://reachifyme.com) | Outreach Automation | AI agent for automated outreach and lead generation | Outreach automation, lead engagement, response optimization |
+| [ReplyGuy](https://replyguy.com) | Social Engagement | AI agent for automated social media engagement and replies | Social automation, engagement optimization, community management |
+| [SEO AI Bot](https://seoaibot.com) | SEO Automation | AI-powered SEO optimization and automation platform | SEO automation, ranking optimization, content analysis |
+| [SEO Core AI](https://seocore.ai) | SEO Management | Comprehensive AI platform for SEO management and optimization | SEO strategy, technical optimization, performance tracking |
+| [SEObotAI](https://seobot.ai) | SEO Assistant | AI assistant for SEO tasks and website optimization | SEO analysis, optimization recommendations, performance monitoring |
+| [Skail](https://skail.com) | Email Marketing | AI-powered email marketing and deliverability platform | Email optimization, deliverability enhancement, campaign management |
+| [Strata Insights](https://stratainsights.com) | Marketing Insights | AI platform for deep marketing insights and analytics | Advanced analytics, marketing intelligence, strategic insights |
+| [Surge AI](https://surge.ai) | Growth Marketing | AI platform for growth marketing and user acquisition | Growth optimization, user acquisition, retention strategies |
+| [Twitter Personality Agent](https://twitterpersonality.ai) | Twitter Marketing | AI agent for Twitter personality analysis and engagement | Twitter analytics, personality insights, engagement optimization |
+| [TwitterCopilot](https://twittercopilot.com) | Twitter Automation | AI copilot for Twitter content creation and management | Tweet automation, content scheduling, engagement optimization |
+| [UFOstart](https://ufostart.com) | Startup Marketing | AI marketing platform specialized for startup growth | Startup marketing, growth hacking, early-stage optimization |
+| [Yala](https://yala.ai) | Social Media Management | AI-powered social media management and optimization platform | Social automation, content optimization, engagement analytics |
+
+---
+
 ## ₿ Crypto AI Agents
 
 Blockchain-based AI agents and cryptocurrency-focused automation platforms that operate within decentralized ecosystems. These agents handle trading, DeFi protocols, NFT management, and other blockchain-specific tasks while leveraging AI for decision-making and autonomous operations.
