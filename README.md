@@ -22,6 +22,7 @@ Discover the most comprehensive and up-to-date resource for autonomous AI agents
 | [✍️ Content Creation Agents](#-content-creation-agents) | AI agents specialized in content generation, writing, and creative production |
 | [📈 Marketing AI Agents](#-marketing-ai-agents) | AI agents specialized in marketing automation, campaign management, and growth |
 | [💰 Sales AI Agents](#-sales-ai-agents) | AI agents specialized in sales automation, lead generation, and revenue optimization |
+| [🎧 Customer Service AI Agents](#-customer-service-ai-agents) | AI agents specialized in customer support, helpdesk automation, and service delivery |
 | [🔬 Research AI Agents](#-research-ai-agents) | AI agents specialized in academic research, literature review, data analysis, and scientific discovery |
 | [👤 Personal AI Assistants](#-personal-ai-assistants) | AI assistants designed for individual users' personal productivity, lifestyle, and daily task management |
 | [🤵 Virtual Worker AI Agents](#-virtual-worker-ai-agents) | AI agents that act as virtual employees for task automation, process execution, and workforce augmentation |
