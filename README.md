@@ -20,6 +20,7 @@ Discover the most comprehensive and up-to-date resource for autonomous AI agents
 | [✍️ Content Creation Agents](#-content-creation-agents) | AI agents specialized in content generation, writing, and creative production |
 | [📈 Marketing AI Agents](#-marketing-ai-agents) | AI agents specialized in marketing automation, campaign management, and growth |
 | [₿ Crypto AI Agents](#-crypto-ai-agents) | Blockchain-based and cryptocurrency-focused AI agents |
+| [💰 Sales AI Agents](#-sales-ai-agents) | AI agents specialized in sales automation, lead generation, and revenue optimization |
 | [🔬 Vertical & Specialized AI Agents](#-vertical--specialized-ai-agents) | Niche and industry-specific AI agents for specialized applications |
 | [🎬 Video AI Agents](#-video-ai-agents) | AI agents specialized in video creation, editing, and processing |
 | [🎙️ Voice AI Agents](#-voice-ai-agents) | AI agents specialized in voice communication, phone calls, and conversational interfaces |
