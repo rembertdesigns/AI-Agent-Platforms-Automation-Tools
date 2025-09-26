@@ -287,6 +287,18 @@ AI agents specializing in automating software development tasks through autonomo
 
 ---
 
+## 📚 Coding Libraries & SDKs
+
+Development libraries, SDKs, and frameworks for building AI agents. These tools provide developers with the foundational components, APIs, and infrastructure needed to create, deploy, and manage AI-powered applications and autonomous agents across various platforms and use cases.
+
+| Name | Category | Description | Notable Features |
+|------|----------|-------------|------------------|
+| [Hugging Face Transformers](https://huggingface.co/transformers) | ML Library | Open-source library for state-of-the-art natural language processing | Pre-trained models, multi-framework support, model hub integration |
+| [Outlines](https://github.com/outlines-dev/outlines) | Structured Generation | Python library for structured text generation with language models | Guided generation, JSON/regex constraints, type-safe outputs |
+| [Pydantic](https://pydantic.dev) | Data Validation | Python library for data validation and settings management using type hints | Type validation, serialization, configuration management |
+
+---
+
 ## 🧪 Software Testing (QA) Agents
 
 AI agents specialized in automated testing, quality assurance, and bug detection. These platforms automate testing workflows from unit testing and integration testing to end-to-end quality assurance, enabling development teams to maintain code quality, identify issues early, and streamline the testing process through intelligent test generation and execution.
