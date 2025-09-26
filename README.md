@@ -1293,6 +1293,107 @@ AI agents specialized in video creation, editing, processing, and enhancement. T
 
 ---
 
+## 🎙️ Voice AI Agents
+
+AI agents specialized in voice communication, phone calls, and conversational interfaces. These platforms leverage artificial intelligence to automate voice interactions, from customer service and sales calls to voice synthesis and real-time conversation, enabling businesses to provide seamless voice-based experiences at scale.
+
+| Name | Category | Description | Notable Features |
+|------|----------|-------------|------------------|
+| [AgentBase PRO](https://agentbase.com) | Voice Platform | Professional voice AI agent platform for business automation | Multi-channel support, advanced analytics, enterprise integration |
+| [Agora Conversational AI Engine](https://agora.io) | Voice Platform | Real-time voice conversation platform for developers | Low-latency communication, SDK integration, global infrastructure |
+| [AI Answering Service](https://aianswering.com) | Call Management | Automated phone answering and call routing system | 24/7 availability, intelligent routing, call analytics |
+| [AI Haggler](https://aihaggler.com) | Negotiation | AI-powered negotiation and haggling assistant | Price negotiation, deal optimization, conversation tactics |
+| [AI Outbound Calls](https://aioutbound.com) | Sales Automation | Automated outbound calling system for sales and marketing | Lead qualification, appointment setting, follow-up automation |
+| [AssemblyAI](https://assemblyai.com) | Speech Recognition | Speech recognition and voice intelligence platform | Real-time transcription, audio intelligence, API integration |
+| [Bland AI](https://bland.ai) | Voice Calls | Simple voice AI platform for automated phone calls | Easy setup, natural conversations, call analytics |
+| [Bolna](https://bolna.ai) | Customer Service | Voice AI platform for customer interactions and support | Multilingual support, sentiment analysis, CRM integration |
+| [CallFluent AI](https://callfluent.ai) | Multilingual Calls | Multilingual voice AI calling system for global businesses | Real-time translation, cultural adaptation, global reach |
+| [Custodia](https://custodia.ai) | Voice Security | Voice-based security and authentication platform | Biometric verification, fraud detection, secure access |
+| [Deepgram](https://deepgram.com) | Speech AI | Advanced speech recognition and voice AI platform | Real-time processing, custom models, high accuracy |
+| [Digital AI](https://digital.ai) | Voice Assistant | Digital voice assistant platform for business applications | Task automation, workflow integration, voice commands |
+| [ElevenLabs](https://elevenlabs.io) | Voice Synthesis | Advanced voice synthesis and cloning platform | Realistic voice cloning, multilingual generation, API access |
+| [Goodcall AI](https://goodcall.ai) | Business Phone | AI-powered business phone system and virtual receptionist | Call handling, appointment booking, customer screening |
+| [HappyRobot AI](https://happyrobot.ai) | Conversational AI | Conversational voice AI assistant for customer engagement | Natural dialogue, emotion recognition, personalized responses |
+| [Hume AI](https://hume.ai) | Emotional AI | Empathetic voice AI with emotional intelligence capabilities | Emotion detection, empathetic responses, mental health applications |
+| [Krisp](https://krisp.ai) | Voice Enhancement | AI-powered noise cancellation and voice enhancement | Background noise removal, voice clarity, meeting optimization |
+| [LMNT](https://lmnt.com) | Voice Synthesis | Real-time voice synthesis platform for developers | Low-latency generation, custom voices, streaming audio |
+| [Millis AI](https://millis.ai) | Customer Service | Voice AI platform specialized in customer service automation | Intent recognition, escalation handling, service analytics |
+| [Mitra AI Phone Calling](https://mitra.ai) | Phone AI | AI phone calling and conversation platform for businesses | Automated calling, conversation management, lead nurturing |
+| [Neets.ai](https://neets.ai) | Voice Generation | Voice AI generation platform for content creators | Voice cloning, audio content creation, podcast automation |
+| [NextGenSwitch](https://nextgenswitch.com) | Communication | Advanced voice communication platform with AI features | Call routing, analytics, unified communications |
+| [Outcall AI](https://outcall.ai) | Outbound Calling | Automated outbound calling solutions for sales teams | Lead qualification, appointment setting, performance tracking |
+| [Phonely AI](https://phonely.ai) | Business Assistant | AI phone assistant for small and medium businesses | Call answering, message taking, appointment scheduling |
+| [Phonic Voice AI](https://phonic.ai) | Voice Interaction | Voice interaction platform for applications and services | Voice commands, natural language processing, app integration |
+| [Pinecall](https://pinecall.com) | Call Automation | AI-powered phone call automation for various industries | Industry-specific solutions, workflow automation, compliance |
+| [Play.ai](https://play.ai) | Voice Content | Voice AI platform for content creation and narration | Text-to-speech, voice editing, content production |
+| [Replica Studios](https://replicastudios.com) | Voice Acting | AI voice acting and synthesis for media production | Character voices, game audio, entertainment content |
+| [Retell AI](https://retell.ai) | Conversational AI | Conversational AI platform for phone-based interactions | Natural conversations, context awareness, business integration |
+| [Rime AI](https://rime.ai) | Real-time Voice | Real-time voice AI platform for live interactions | Low-latency processing, streaming conversations, live support |
+| [Sindarin](https://sindarin.ai) | Voice Conversation | Voice AI conversation platform for customer engagement | Conversational flows, voice analytics, customer insights |
+| [Smoove Call](https://smoovecall.com) | Call Management | AI-powered calling and communication platform | Smart routing, call optimization, team collaboration |
+| [Speaq.ai](https://speaq.ai) | Voice Interaction | Voice AI platform for customer interactions and support | Voice commands, customer service, interaction analytics |
+| [Speechmatics](https://speechmatics.com) | Speech Recognition | Real-time speech recognition platform with global language support | Multi-language support, real-time processing, high accuracy |
+| [Synthflow AI](https://synthflow.ai) | Voice Automation | Voice AI workflow automation for business processes | Process automation, voice triggers, workflow optimization |
+| [Talkscriber](https://talkscriber.com) | Voice Transcription | Voice transcription and AI analysis platform | Meeting transcription, conversation analysis, insights generation |
+| [TalkStack AI](https://talkstack.ai) | Voice Communication | Voice AI communication platform for team collaboration | Team messaging, voice notes, communication analytics |
+| [Tavus AI](https://tavus.io) | Personalized Voice | Personalized video and voice AI for customer engagement | Custom avatars, personalized messages, scalable outreach |
+| [Thoughtly AI](https://thoughtly.ai) | Business Calls | Conversational AI platform for business phone calls | Sales calls, customer support, conversation intelligence |
+| [Vapi](https://vapi.ai) | Voice Infrastructure | Voice AI infrastructure platform for developers | API-first platform, voice app development, scalable infrastructure |
+| [Vinsi AI](https://vinsi.ai) | Voice Assistant | Voice assistant platform for business applications | Task automation, voice commands, business intelligence |
+| [Vocode](https://vocode.dev) | Open Source Voice | Open-source voice AI platform for developers | Customizable solutions, developer-friendly, community-driven |
+| [Vodex AI](https://vodex.ai) | Sales Voice AI | Voice AI platform specialized in sales and customer service | Sales automation, lead qualification, performance analytics |
+| [Wispr Flow](https://wispr.ai) | Voice Productivity | Voice-controlled productivity assistant for workflow optimization | Voice commands, task management, productivity tracking |
+
+### 📊 Voice AI Agents Comparison
+| Platform | Category | Primary Focus | Deployment | Pricing | Best For |
+|----------|----------|---------------|------------|---------|----------|
+| AgentBase PRO | Voice Platform | Business automation | Cloud | Enterprise | Multi-channel voice operations |
+| Agora Conversational AI Engine | Voice Platform | Real-time communication | Cloud/SDK | Usage-based | Developer voice applications |
+| AI Answering Service | Call Management | Phone answering | Cloud | Subscription | Small business call handling |
+| AI Haggler | Negotiation | Price negotiation | Cloud | Contact sales | Sales and procurement |
+| AI Outbound Calls | Sales Automation | Lead generation | Cloud | Usage-based | Sales team automation |
+| AssemblyAI | Speech Recognition | Transcription services | Cloud/API | Usage-based | Speech-to-text applications |
+| Bland AI | Voice Calls | Simple phone AI | Cloud | Usage-based | Easy voice call automation |
+| Bolna | Customer Service | Support automation | Cloud | Subscription | Customer service teams |
+| CallFluent AI | Multilingual Calls | Global communication | Cloud | Enterprise | International businesses |
+| Custodia | Voice Security | Authentication | Cloud | Enterprise | Security-focused applications |
+| Deepgram | Speech AI | Advanced recognition | Cloud/API | Usage-based | High-accuracy transcription |
+| Digital AI | Voice Assistant | Task automation | Cloud | Subscription | Business workflow automation |
+| ElevenLabs | Voice Synthesis | Voice cloning | Cloud/API | Freemium | Content creation and dubbing |
+| Goodcall AI | Business Phone | Virtual receptionist | Cloud | Subscription | Small to medium businesses |
+| HappyRobot AI | Conversational AI | Customer engagement | Cloud | Contact sales | Customer experience optimization |
+| Hume AI | Emotional AI | Empathetic responses | Cloud/API | Contact sales | Mental health and wellness |
+| Krisp | Voice Enhancement | Noise cancellation | Desktop/Cloud | Freemium | Remote work and meetings |
+| LMNT | Voice Synthesis | Real-time generation | Cloud/API | Usage-based | Live voice applications |
+| Millis AI | Customer Service | Service automation | Cloud | Subscription | Customer support centers |
+| Mitra AI Phone Calling | Phone AI | Business calling | Cloud | Enterprise | Sales and marketing teams |
+| Neets.ai | Voice Generation | Content creation | Cloud | Subscription | Podcast and audio content |
+| NextGenSwitch | Communication | Unified communications | Cloud/On-premise | Enterprise | Large enterprise communications |
+| Outcall AI | Outbound Calling | Sales automation | Cloud | Usage-based | Sales development teams |
+| Phonely AI | Business Assistant | Call management | Cloud | Subscription | Small business owners |
+| Phonic Voice AI | Voice Interaction | App integration | Cloud/API | Contact sales | Voice-enabled applications |
+| Pinecall | Call Automation | Industry solutions | Cloud | Enterprise | Specialized industry needs |
+| Play.ai | Voice Content | Content narration | Cloud | Freemium | Content creators and marketers |
+| Replica Studios | Voice Acting | Media production | Cloud | Subscription | Game and entertainment industry |
+| Retell AI | Conversational AI | Phone interactions | Cloud/API | Usage-based | Conversational commerce |
+| Rime AI | Real-time Voice | Live conversations | Cloud | Contact sales | Real-time customer support |
+| Sindarin | Voice Conversation | Customer insights | Cloud | Enterprise | Customer analytics teams |
+| Smoove Call | Call Management | Team collaboration | Cloud | Subscription | Sales and support teams |
+| Speaq.ai | Voice Interaction | Customer service | Cloud | Contact sales | Service optimization |
+| Speechmatics | Speech Recognition | Global transcription | Cloud/API | Usage-based | Multilingual applications |
+| Synthflow AI | Voice Automation | Workflow integration | Cloud | Subscription | Process automation teams |
+| Talkscriber | Voice Transcription | Meeting analysis | Cloud | Subscription | Business meeting optimization |
+| TalkStack AI | Voice Communication | Team messaging | Cloud | Freemium | Remote team collaboration |
+| Tavus AI | Personalized Voice | Custom outreach | Cloud | Usage-based | Personalized marketing campaigns |
+| Thoughtly AI | Business Calls | Sales intelligence | Cloud | Enterprise | Sales performance optimization |
+| Vapi | Voice Infrastructure | Developer platform | Cloud/API | Usage-based | Voice app developers |
+| Vinsi AI | Voice Assistant | Business intelligence | Cloud | Subscription | Data-driven organizations |
+| Vocode | Open Source Voice | Custom solutions | Self-hosted | Open source | Developer customization |
+| Vodex AI | Sales Voice AI | Sales optimization | Cloud | Enterprise | Sales team performance |
+| Wispr Flow | Voice Productivity | Workflow control | Desktop | Subscription | Productivity-focused professionals |
+
+---
+
 ## 📚 Resource Links & Further Reading
 
 ### Research Papers
