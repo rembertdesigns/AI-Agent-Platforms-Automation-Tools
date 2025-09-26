@@ -22,6 +22,7 @@ Discover the most comprehensive and up-to-date resource for autonomous AI agents
 | [₿ Crypto AI Agents](#-crypto-ai-agents) | Blockchain-based and cryptocurrency-focused AI agents |
 | [🔬 Vertical & Specialized AI Agents](#-vertical--specialized-ai-agents) | Niche and industry-specific AI agents for specialized applications |
 | [🎬 Video AI Agents](#-video-ai-agents) | AI agents specialized in video creation, editing, and processing |
+| [🎙️ Voice AI Agents](#-voice-ai-agents) | AI agents specialized in voice communication, phone calls, and conversational interfaces |
 | [📚 Resources & Learning](#-resource-links--further-reading) | Research papers, tutorials, communities, and further reading materials |
 | [📄 License](#-license) | Usage terms and attribution requirements |
 
