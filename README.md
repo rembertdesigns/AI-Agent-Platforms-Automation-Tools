@@ -26,6 +26,7 @@ Discover the most comprehensive and up-to-date resource for autonomous AI agents
 | [🔬 Research AI Agents](#-research-ai-agents) | AI agents specialized in academic research, literature review, data analysis, and scientific discovery |
 | [👤 Personal AI Assistants](#-personal-ai-assistants) | AI assistants designed for individual users' personal productivity, lifestyle, and daily task management |
 | [🤵 Virtual Worker AI Agents](#-virtual-worker-ai-agents) | AI agents that act as virtual employees for task automation, process execution, and workforce augmentation |
+| [🤖 AI Robotics](#-ai-robotics) | AI agents integrated with robotics systems for autonomous vehicles, manufacturing, and physical world interaction |
 | [₿ Crypto AI Agents](#-crypto-ai-agents) | Blockchain-based and cryptocurrency-focused AI agents |
 | [🔬 Vertical & Specialized AI Agents](#-vertical--specialized-ai-agents) | Niche and industry-specific AI agents for specialized applications |
 | [🎬 Video AI Agents](#-video-ai-agents) | AI agents specialized in video creation, editing, and processing |
