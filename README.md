@@ -567,6 +567,46 @@ Enterprise-grade AI agent platforms deliver robust, scalable, and secure automat
 
 ---
 
+## 💼 Finance AI Agents
+
+AI agents specialized in financial analysis, investment research, and wealth management. These platforms leverage artificial intelligence to automate financial processes, from investment analysis and portfolio management to financial planning and market research, enabling financial professionals and individuals to make data-driven investment decisions and optimize financial strategies.
+
+| Name | Category | Description | Notable Features |
+|------|----------|-------------|------------------|
+| [AQ22](https://aq22.com) | Investment Analysis | AI-powered investment analysis and market research platform | Market intelligence, investment insights, portfolio optimization |
+| [Digits](https://digits.com) | Financial Analytics | AI-driven financial analytics and business intelligence platform | Financial reporting, automated bookkeeping, cash flow analysis |
+| [EasyFin AI](https://easyfin.ai) | Personal Finance | AI assistant for personal financial management and planning | Budget optimization, expense tracking, financial goal planning |
+| [GetInvoice](https://getinvoice.com) | Invoice Management | AI-powered invoice processing and financial document automation | Invoice extraction, automated processing, expense categorization |
+| [Intellecta.AI](https://intellecta.ai) | Financial Intelligence | AI platform for financial intelligence and market analysis | Financial modeling, risk assessment, investment research |
+| [Juno AI](https://juno.ai) | Investment Research | AI-powered investment research and analysis platform | Stock analysis, market trends, investment recommendations |
+| [Mesha](https://mesha.ai) | Wealth Management | AI platform for wealth management and financial advisory | Portfolio management, financial planning, investment strategies |
+| [MiA Analyst](https://mia-analyst.com) | Market Analysis | AI analyst for market research and financial insights | Market intelligence, trend analysis, financial forecasting |
+| [Moody's Research Assistant](https://moodys.com) | Credit Analysis | AI research assistant for credit analysis and risk assessment | Credit research, risk modeling, financial analysis |
+| [Nextvestment](https://nextvestment.com) | Investment Platform | AI-driven investment platform for portfolio optimization | Automated investing, portfolio rebalancing, risk management |
+| [Stacks](https://stacks.co) | Financial Planning | AI platform for comprehensive financial planning and analysis | Financial planning, goal tracking, investment optimization |
+| [TurboDoc](https://turbodoc.ai) | Document Processing | AI-powered financial document processing and analysis | Document automation, data extraction, compliance management |
+| [Yield Seeker](https://yieldseeker.ai) | Yield Optimization | AI platform for yield optimization and income generation strategies | Yield analysis, income optimization, investment screening |
+
+### 📊 Finance AI Agents Comparison
+
+| Platform | Category | Primary Focus | Deployment | Pricing | Best For |
+|----------|----------|---------------|------------|---------|----------|
+| AQ22 | Investment Analysis | Market research | Cloud | Contact sales | Investment professionals |
+| Digits | Financial Analytics | Business intelligence | Cloud | Subscription | Small to medium businesses |
+| EasyFin AI | Personal Finance | Financial planning | Cloud | Freemium | Individual financial management |
+| GetInvoice | Invoice Management | Document automation | Cloud | Subscription | Accounting and bookkeeping |
+| Intellecta.AI | Financial Intelligence | Market analysis | Cloud | Enterprise | Financial institutions |
+| Juno AI | Investment Research | Stock analysis | Cloud | Subscription | Investment research teams |
+| Mesha | Wealth Management | Portfolio management | Cloud | Enterprise | Wealth advisors and RIAs |
+| MiA Analyst | Market Analysis | Financial forecasting | Cloud | Contact sales | Market research professionals |
+| Moody's Research Assistant | Credit Analysis | Risk assessment | Cloud | Enterprise | Credit analysts and institutions |
+| Nextvestment | Investment Platform | Automated investing | Cloud | Usage-based | Individual investors |
+| Stacks | Financial Planning | Comprehensive planning | Cloud | Subscription | Financial planners |
+| TurboDoc | Document Processing | Financial documents | Cloud | Contact sales | Financial services firms |
+| Yield Seeker | Yield Optimization | Income generation | Cloud | Subscription | Income-focused investors |
+
+---
+
 ## ⚡ Workflow Automation & Agent Orchestration
 
 Platforms for automating workflows, integrating APIs, and orchestrating digital tasks through both traditional automation and AI-powered agents. These systems serve as foundation technology for creating multi-step automations, connecting agents with external APIs, and building intelligent workflow orchestration.
