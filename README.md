@@ -333,58 +333,191 @@ AI agents specialized in automated testing, quality assurance, and bug detection
 ---
 
 ## 🎯 Productivity & Business Agents
-
 AI agents purpose-built for workflow automation, CRM, sales, HR, and general business process optimization. These agents deliver tailored automation and insights for specific business functions, improving operational efficiency and accuracy in customer service, sales operations, legal workflows, marketing campaigns, and data analysis.
 
 | Name | Category | Description | Notable Features |
 |------|----------|-------------|------------------|
+| [Agent Herbie](https://agentherbie.com) | Personal Assistant | AI-powered personal productivity and task management agent | Task automation, personal workflow optimization, intelligent scheduling |
+| [AI Blaze](https://blaze.today) | Text Automation | AI-powered text expansion and automation platform | Smart snippets, dynamic content, workflow acceleration |
 | [Amelia](https://amelia.ai/) | Enterprise | Conversational AI for customer service | Omnichannel, workflow integration |
+| [Asana AI](https://asana.com/ai) | Project Management | AI-powered project management and team collaboration | Task automation, project insights, intelligent scheduling |
+| [auxi](https://auxi.ai) | Personal Assistant | AI assistant for personal productivity and task management | Task organization, workflow automation, productivity insights |
 | [Box AI Agents](https://www.box.com/ai) | Document Agent | AI-powered document processing, search, and automation | Content management, enterprise security |
+| [BrainChat](https://brainchat.ai) | Communication | AI-powered communication and collaboration platform | Team messaging, intelligent responses, workflow integration |
+| [ChatGPT Agent](https://chatgpt.com) | General Assistant | Multi-purpose AI assistant for various productivity tasks | Natural language processing, task automation, content generation |
 | [Clay](https://clay.com/) | Sales Agent | Automates sales prospecting, enrichment, outreach | CRM integration, personalization, workflow automation |
+| [Clockwise](https://clockwise.com) | Time Management | AI-powered time and focus management platform | Calendar optimization, focus time scheduling, meeting management |
+| [Cognosys](https://cognosys.ai) | Task Automation | AI agent for complex task automation and workflow management | Multi-step workflows, intelligent task execution, automation chains |
+| [CurateIt](https://curateit.ai) | Content Curation | AI-powered content curation and organization platform | Content discovery, intelligent tagging, knowledge management |
+| [Dashworks AI](https://dashworks.ai) | Knowledge Management | AI-powered workplace search and knowledge management | Universal search, content discovery, team collaboration |
+| [Do Anything Machine](https://doanythingmachine.com) | General Automation | AI platform for automating various tasks and workflows | Multi-purpose automation, task execution, workflow optimization |
+| [Do Browser](https://dobrowser.ai) | Web Automation | AI-powered browser automation and web task execution | Web scraping, automated browsing, task completion |
+| [Duet AI](https://workspace.google.com/ai) | Workspace Assistant | Google Workspace AI assistant for productivity enhancement | Document creation, data analysis, meeting assistance |
 | [EVA](https://eva.ai) | Virtual Assistant | Enterprise virtual assistant for business automation | Meeting scheduling, task management, business intelligence |
+| [Famous.ai](https://famous.ai) | Personal Branding | AI assistant for personal branding and content creation | Social media automation, content generation, brand management |
+| [Friday AI](https://friday.ai) | Virtual Assistant | AI-powered virtual assistant for business productivity | Task management, scheduling, workflow automation |
+| [Glama AI](https://glama.ai) | Beauty Assistant | AI assistant for beauty and personal care recommendations | Product recommendations, beauty advice, personalized suggestions |
+| [Glean](https://glean.com) | Enterprise Search | AI-powered enterprise search and knowledge discovery | Intelligent search, content discovery, team collaboration |
+| [GptPanda](https://gptpanda.ai) | Content Assistant | AI assistant for content creation and management | Content generation, editing assistance, workflow automation |
+| [Grammarly](https://grammarly.com) | Writing Assistant | AI-powered writing assistance and grammar checking | Writing enhancement, tone adjustment, communication optimization |
 | [Harvey AI](https://harvey.ai/) | Legal Agent | Legal-specific document and process automation | Contract review, legal research |
+| [Houseware AI Agents](https://houseware.ai) | Data Analytics | AI agents for data analytics and business intelligence | Data analysis, dashboard automation, insights generation |
 | [HubSpot Breeze](https://www.hubspot.com/products/artificial-intelligence/breeze) | CRM/Marketing Agent | Automates marketing, sales, and customer service in HubSpot | Sales automation, meeting booking, email generation |
+| [iMean Copilot](https://imean.ai) | Browser Assistant | AI copilot for browser-based productivity and automation | Web automation, task assistance, intelligent browsing |
+| [Inbox Zero](https://inboxzero.com) | Email Management | AI-powered email management and inbox automation | Email organization, automated responses, productivity optimization |
+| [InPage AI](https://inpage.ai) | Document Assistant | AI assistant for document creation and page layout | Document formatting, layout optimization, content organization |
 | [Interviewer.AI](https://interviewer.ai) | Human Resources | AI-powered interview and candidate assessment platform | Automated interviews, candidate scoring, bias reduction |
+| [Jack by Jenesys](https://jack.jenesys.com) | Business Assistant | AI business assistant for operational efficiency | Business automation, process optimization, workflow management |
+| [JobBuddy](https://jobbuddy.ai) | Career Assistant | AI assistant for job search and career development | Resume optimization, job matching, career advice |
 | [Julius](https://julius.ai/) | Data Agent | Data processing, analysis, and visualization | Data-to-insights pipeline |
 | [Kadoa](https://www.kadoa.com/) | Web Automation | Web scraping and data extraction agent | Custom workflow design |
+| [Kindred AI](https://kindred.ai) | Personal Assistant | AI assistant for personal productivity and life management | Life organization, task management, personal optimization |
+| [Linear](https://linear.app) | Project Management | AI-enhanced project management and issue tracking | Development workflows, task automation, team collaboration |
 | [Lindy](https://www.lindy.ai/) | Workflow Agent | Personal workflow automation agent | Calendar, scheduling, task mgmt |
+| [Long Summary](https://longsummary.com) | Content Summarization | AI platform for long-form content summarization | Document analysis, key insights extraction, content compression |
 | [Louisa AI](https://louisa.ai) | Personal Assistant | AI-powered personal assistant for individual productivity | Task management, scheduling, personal workflow optimization |
+| [Lyng AI](https://lyng.ai) | Communication Assistant | AI assistant for communication and language tasks | Language processing, communication optimization, translation |
 | [Magic Loops](https://magicloops.dev/) | Automation | Personal automation building platform | No-code, multi-app workflows |
-| [Monday.com AI Assistant](https://monday.com/ai/) | Productivity | Project management and workflow AI assistant | Task automation, project insights, team collaboration |
+| [Makeform AI](https://makeform.ai) | Form Automation | AI-powered form creation and automation platform | Dynamic forms, automated workflows, data collection |
+| [MightyBot](https://mightybot.ai) | Chatbot Assistant | AI chatbot for customer service and business automation | Customer support, automated responses, business integration |
+| [Mirtilla](https://mirtilla.ai) | Personal Assistant | AI assistant for personal productivity and task management | Personal automation, task optimization, workflow enhancement |
+| [Mobius MD Conveyor AI](https://mobiusmd.com) | Healthcare Assistant | AI assistant for healthcare workflow automation | Medical documentation, patient management, clinical workflows |
+| [Monday AI](https://monday.com/ai/) | Productivity | Project management and workflow AI assistant | Task automation, project insights, team collaboration |
+| [Motion](https://motion.com) | Calendar Assistant | AI-powered calendar and task management platform | Intelligent scheduling, task prioritization, time optimization |
 | [Moveworks](https://www.moveworks.com/) | Enterprise Automation | IT/HR/service desk agent for large organizations | Automated ticketing, resolution, employee self-service |
 | [MultiOn](https://www.multion.ai/) | Personal Agent | Multi-purpose web assistant for bookings/orders | Automation for bookings, orders |
 | [Notion AI](https://www.notion.so/product/ai) | Productivity | Workspace AI for writing, planning, and automation | Content generation, database queries, workflow automation |
+| [Ottogrid AI](https://ottogrid.com) | Spreadsheet Assistant | AI assistant for spreadsheet automation and data analysis | Spreadsheet automation, data processing, formula generation |
+| [PageOn AI](https://pageon.ai) | Web Assistant | AI assistant for web page optimization and management | Page analysis, content optimization, web automation |
+| [Perplexity Labs](https://labs.perplexity.ai) | Research Assistant | AI research assistant for information discovery and analysis | Research automation, information synthesis, knowledge discovery |
+| [Pine AI](https://pine.ai) | Personal Assistant | AI assistant for personal productivity and life organization | Personal automation, task management, lifestyle optimization |
+| [Proactor AI](https://proactor.ai) | Business Intelligence | AI platform for proactive business intelligence and insights | Predictive analytics, business automation, decision support |
+| [ProdPad CoPilot for Product Managers](https://prodpad.com) | Product Management | AI copilot for product managers and development teams | Product planning, roadmap management, feature prioritization |
+| [ReadPo](https://readpo.com) | Reading Assistant | AI assistant for reading comprehension and content analysis | Reading optimization, content summarization, knowledge extraction |
+| [Reclaim AI](https://reclaim.ai) | Time Management | AI-powered time management and calendar optimization | Intelligent scheduling, focus time protection, habit tracking |
 | [Recrubo.ai](https://recrubo.ai) | Recruitment | AI-powered recruitment and talent acquisition platform | Candidate matching, interview automation, hiring optimization |
 | [Relevance AI](https://relevanceai.com/) | Enterprise | Enterprise AI workflow and insights platform | Multi-agent chains, business intelligence, data analysis |
+| [ResumeBoostAI](https://resumeboost.ai) | Career Assistant | AI platform for resume optimization and career enhancement | Resume analysis, job matching, career advice |
+| [Rezifine](https://rezifine.com) | Content Optimization | AI platform for content refinement and optimization | Content enhancement, writing improvement, optimization suggestions |
+| [Rivio](https://rivio.ai) | Business Assistant | AI assistant for business process automation and optimization | Business workflows, process improvement, operational efficiency |
+| [Saga AI](https://saga.so) | Workspace Assistant | AI-powered workspace and knowledge management platform | Knowledge organization, team collaboration, content management |
+| [Saima](https://saima.ai) | Personal Assistant | AI personal assistant for productivity and life management | Personal automation, task coordination, lifestyle optimization |
 | [SalesCloser AI](https://salescloser.ai/) | Sales Agent | Automated sales conversations, lead qualification | Conversation workflow, CRM sync, follow-up tasks |
 | [ShopPal](https://shoppal.ai/) | Shopping Agent | Shopping assistant for e-commerce workflows | Automatic deals/coupons, browser |
+| [Shortwave](https://shortwave.com) | Email Assistant | AI-powered email client and productivity platform | Email automation, intelligent inbox, communication optimization |
+| [Spell](https://spell.so) | Writing Assistant | AI writing assistant for content creation and editing | Writing enhancement, content generation, editing assistance |
+| [Spinach AI](https://spinach.io) | Meeting Assistant | AI assistant for meeting management and productivity | Meeting automation, note-taking, action item tracking |
+| [Starizon AI](https://starizon.ai) | Business Intelligence | AI platform for business intelligence and analytics | Data analysis, business insights, performance optimization |
+| [Such Much AI](https://suchmuch.ai) | Content Assistant | AI assistant for content creation and management | Content generation, editing assistance, creative workflows |
+| [Supercog](https://supercog.ai) | Cognitive Assistant | AI platform for cognitive enhancement and productivity | Cognitive automation, decision support, intelligent assistance |
+| [Tanka](https://tanka.ai) | Data Assistant | AI assistant for data analysis and visualization | Data processing, analytics automation, insights generation |
+| [Taskade AI Agents](https://taskade.com) | Project Management | AI agents for project management and team collaboration | Task automation, workflow optimization, team productivity |
+| [TaxGPT](https://taxgpt.com) | Tax Assistant | AI assistant for tax preparation and financial management | Tax automation, financial analysis, compliance assistance |
+| [Taxxa.ai](https://taxxa.ai) | Tax Automation | AI platform for tax automation and compliance | Tax processing, compliance management, financial optimization |
+| [Taxy AI](https://taxy.ai) | Transportation Assistant | AI assistant for transportation and logistics management | Route optimization, travel planning, logistics automation |
+| [Trelica](https://trelica.com) | SaaS Management | AI platform for SaaS application management and optimization | App discovery, usage analytics, cost optimization |
+| [TruePilot](https://truepilot.ai) | Workflow Assistant | AI pilot for workflow automation and process optimization | Process automation, workflow enhancement, operational efficiency |
+| [Vixxo Intelligent Technical Assistant (VITA)](https://vixxo.com) | Technical Assistant | AI technical assistant for IT and technical support | Technical automation, IT support, system optimization |
+| [Voice Docs](https://voicedocs.com) | Document Assistant | AI assistant for voice-powered document creation and management | Voice-to-text, document automation, hands-free productivity |
+| [Windy](https://windy.ai) | Weather Assistant | AI assistant for weather analysis and productivity planning | Weather insights, planning optimization, climate-aware scheduling |
+| [Work Fast](https://workfast.ai) | Productivity Assistant | AI platform for accelerated work and productivity enhancement | Speed optimization, task acceleration, efficiency improvement |
+| [Xbase](https://xbase.ai) | Database Assistant | AI assistant for database management and optimization | Database automation, query optimization, data management |
+| [You.com](https://you.com) | Search Assistant | AI-powered search and productivity platform | Intelligent search, content discovery, research automation |
 | [Zapier Central](https://zapier.com/central) | Automation | AI-powered workflow automation platform | Natural language automation, 5000+ app integrations |
+| [Zivy](https://zivy.app) | Communication Assistant | AI assistant for communication management and optimization | Message prioritization, communication automation, productivity enhancement |
 
 ### 📊 Productivity & Business Agents Comparison
 
 | Agent | Industry Focus | Ease of Use | Integration Depth | Autonomy Level | Pricing | Best For |
 |-------|----------------|-------------|-------------------|----------------|---------|----------|
+| Agent Herbie | Personal Productivity | High | Personal apps | Medium | Subscription | Individual task management, scheduling |
+| AI Blaze | Text Automation | High | Browser/apps | Low-Medium | Freemium | Text expansion, content automation |
 | Amelia | Customer Service | Medium | Enterprise systems | High | Enterprise | Large-scale customer support |
+| Asana AI | Project Management | High | Asana native | Medium | Add-on | Project teams, task automation |
+| auxi | Personal Productivity | High | Personal apps | Low-Medium | Subscription | Personal task organization |
 | Box AI Agents | Document Management | High | Box ecosystem | Medium | Contact sales | Enterprise document workflows |
+| BrainChat | Team Communication | Medium | Chat platforms | Medium | Subscription | Team collaboration, messaging |
+| ChatGPT Agent | General Assistant | High | Various platforms | Medium | $20+/month | Multi-purpose productivity tasks |
 | Clay | Sales | High | CRM-focused | Medium | $100+/month | Sales prospecting, lead enrichment |
+| Clockwise | Time Management | High | Calendar apps | Medium | Freemium | Focus time, meeting optimization |
+| Cognosys | Task Automation | Medium | Various tools | High | Contact sales | Complex workflow automation |
+| CurateIt | Content Management | High | Web browsers | Medium | Freemium | Content curation, knowledge management |
+| Dashworks AI | Knowledge Management | Medium | Enterprise tools | Medium | Contact sales | Workplace search, content discovery |
+| Do Anything Machine | General Automation | Medium | Various platforms | High | Contact sales | Multi-purpose task automation |
+| Do Browser | Web Automation | Medium | Web browsers | Medium | Contact sales | Browser automation, web tasks |
+| Duet AI | Workspace Productivity | High | Google Workspace | Medium | $30+/month | Google Workspace users |
 | EVA | Enterprise Productivity | Medium | Business tools | Medium | Contact sales | Meeting scheduling, task automation |
+| Famous.ai | Personal Branding | High | Social platforms | Medium | Subscription | Content creation, brand management |
+| Friday AI | Virtual Assistant | High | Business apps | Medium | Subscription | Business productivity, scheduling |
+| Glama AI | Beauty/Lifestyle | High | E-commerce | Low-Medium | Freemium | Beauty recommendations, personal care |
+| Glean | Enterprise Search | Medium | Enterprise tools | Medium | Contact sales | Knowledge discovery, team search |
+| GptPanda | Content Creation | High | Various platforms | Low-Medium | Freemium | Content generation, writing assistance |
+| Grammarly | Writing Enhancement | High | Various platforms | Low-Medium | Freemium | Writing improvement, communication |
 | Harvey AI | Legal | Medium | Legal tools | High | Enterprise | Contract review, legal research |
+| Houseware AI Agents | Data Analytics | Medium | Data platforms | Medium | Contact sales | Business intelligence, analytics |
 | HubSpot Breeze | Marketing/Sales | High | HubSpot native | Medium | Included/Add-on | HubSpot users, marketing automation |
+| iMean Copilot | Browser Productivity | High | Web browsers | Medium | Freemium | Web automation, browsing assistance |
+| Inbox Zero | Email Management | High | Email clients | Medium | Freemium | Email organization, inbox automation |
+| InPage AI | Document Creation | Medium | Document tools | Medium | Subscription | Document formatting, layout optimization |
 | Interviewer.AI | Human Resources | Medium | HR platforms | Medium | Subscription | Candidate assessment, interview automation |
+| Jack by Jenesys | Business Operations | Medium | Business tools | Medium | Contact sales | Business automation, process optimization |
+| JobBuddy | Career Development | High | Job platforms | Low-Medium | Freemium | Job search, career advancement |
 | Julius | Data Analysis | Medium | Data tools | Medium | Freemium | Data visualization, analysis |
 | Kadoa | Web Scraping | Medium | Custom APIs | Medium | Contact sales | Data extraction, web monitoring |
+| Kindred AI | Personal Assistant | High | Personal apps | Medium | Subscription | Personal productivity, life management |
+| Linear | Project Management | High | Development tools | Medium | Subscription | Development teams, issue tracking |
 | Lindy | Personal/Workflow | High | Calendar/email | Medium | $20+/month | Personal automation, scheduling |
+| Long Summary | Content Analysis | High | Document tools | Low-Medium | Freemium | Document summarization, content analysis |
 | Louisa AI | Personal Productivity | High | Personal apps | Low-Medium | Subscription | Individual task management, scheduling |
+| Lyng AI | Communication | Medium | Communication tools | Medium | Subscription | Language processing, communication |
 | Magic Loops | General Automation | High | 1000+ apps | Low-Medium | Freemium | No-code automation, workflows |
-| Monday.com AI | Project Management | High | Monday.com native | Medium | Add-on | Project teams, task management |
+| Makeform AI | Form Automation | High | Web platforms | Medium | Subscription | Form creation, data collection |
+| MightyBot | Customer Service | Medium | Chat platforms | Medium | Subscription | Customer support, automated responses |
+| Mirtilla | Personal Assistant | High | Personal apps | Low-Medium | Subscription | Personal automation, task management |
+| Mobius MD Conveyor AI | Healthcare | Medium | Medical systems | Medium | Enterprise | Healthcare workflows, medical documentation |
+| Monday AI | Project Management | High | Monday.com native | Medium | Add-on | Project teams, task management |
+| Motion | Calendar Management | High | Calendar apps | Medium | Subscription | Intelligent scheduling, time optimization |
 | Moveworks | Enterprise IT | Medium | Enterprise tools | High | Enterprise | IT support, employee services |
 | MultiOn | Personal Assistant | High | Web browsers | Medium | Contact sales | Personal web tasks, bookings |
 | Notion AI | Productivity | High | Notion native | Low-Medium | $8+/month | Content creation, workspace |
+| Ottogrid AI | Spreadsheet Automation | Medium | Spreadsheet tools | Medium | Subscription | Data processing, spreadsheet automation |
+| PageOn AI | Web Optimization | Medium | Web platforms | Medium | Contact sales | Web page optimization, management |
+| Perplexity Labs | Research | High | Research tools | Medium | Freemium | Information discovery, research automation |
+| Pine AI | Personal Assistant | High | Personal apps | Medium | Subscription | Personal productivity, life organization |
+| Proactor AI | Business Intelligence | Medium | Business tools | High | Enterprise | Predictive analytics, business automation |
+| ProdPad CoPilot | Product Management | Medium | Product tools | Medium | Add-on | Product planning, roadmap management |
+| ReadPo | Reading Enhancement | High | Document tools | Low-Medium | Freemium | Reading optimization, content analysis |
+| Reclaim AI | Time Management | High | Calendar apps | Medium | Freemium | Schedule optimization, habit tracking |
 | Recrubo.ai | Recruitment | Medium | ATS systems | Medium | Subscription | Talent acquisition, hiring optimization |
 | Relevance AI | Enterprise Analytics | Medium | Business tools | High | Contact sales | Business intelligence, data analysis |
+| ResumeBoostAI | Career Development | High | Job platforms | Low-Medium | Freemium | Resume optimization, career enhancement |
+| Rezifine | Content Optimization | High | Content tools | Low-Medium | Subscription | Content refinement, writing improvement |
+| Rivio | Business Operations | Medium | Business tools | Medium | Contact sales | Business process automation |
+| Saga AI | Workspace Management | High | Workspace tools | Medium | Subscription | Knowledge organization, team collaboration |
+| Saima | Personal Assistant | High | Personal apps | Medium | Subscription | Personal automation, lifestyle optimization |
 | SalesCloser AI | Sales | Medium | CRM systems | High | Contact sales | Sales conversations, lead qualification |
 | ShopPal | E-commerce | High | Shopping sites | Medium | Contact sales | Personal shopping, deal finding |
+| Shortwave | Email Management | High | Email clients | Medium | Subscription | Email automation, communication optimization |
+| Spell | Writing Enhancement | High | Writing tools | Low-Medium | Subscription | Writing assistance, content creation |
+| Spinach AI | Meeting Management | High | Meeting tools | Medium | Subscription | Meeting automation, note-taking |
+| Starizon AI | Business Intelligence | Medium | Analytics tools | Medium | Contact sales | Business insights, performance optimization |
+| Such Much AI | Content Creation | High | Content tools | Low-Medium | Subscription | Content generation, creative workflows |
+| Supercog | Cognitive Enhancement | Medium | Various platforms | High | Contact sales | Cognitive automation, decision support |
+| Tanka | Data Analysis | Medium | Data tools | Medium | Subscription | Data processing, analytics automation |
+| Taskade AI Agents | Project Management | High | Taskade native | Medium | Subscription | Task automation, team productivity |
+| TaxGPT | Tax Preparation | High | Tax tools | Medium | Subscription | Tax automation, financial management |
+| Taxxa.ai | Tax Automation | Medium | Financial tools | Medium | Contact sales | Tax processing, compliance management |
+| Taxy AI | Transportation | High | Travel apps | Low-Medium | Subscription | Route optimization, travel planning |
+| Trelica | SaaS Management | Medium | SaaS tools | Medium | Contact sales | App management, cost optimization |
+| TruePilot | Workflow Automation | Medium | Business tools | High | Contact sales | Process automation, workflow enhancement |
+| Vixxo VITA | Technical Support | Medium | IT systems | Medium | Enterprise | Technical automation, IT support |
+| Voice Docs | Document Creation | High | Voice tools | Medium | Subscription | Voice-powered documentation |
+| Windy | Weather Planning | High | Weather apps | Low-Medium | Freemium | Weather insights, planning optimization |
+| Work Fast | Productivity Enhancement | High | Various platforms | Medium | Subscription | Speed optimization, efficiency improvement |
+| Xbase | Database Management | Medium | Database tools | Medium | Contact sales | Database automation, data management |
+| You.com | Search & Research | High | Web browsers | Medium | Freemium | Intelligent search, research automation |
 | Zapier Central | General Automation | High | 5000+ apps | Medium | $20+/month | Workflow automation, app integration |
+| Zivy | Communication Management | High | Communication tools | Medium | Subscription | Message prioritization, communication automation |
 
 ---
 
