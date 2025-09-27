@@ -156,6 +156,14 @@ These platforms and frameworks enable the development of AI agents that autonomo
 AI agents specializing in automating software development tasks through autonomous code generation, testing, debugging, and optimization. These tools integrate with developer workflows to enhance productivity, code quality, and engineering efficiency via natural language instructions and intelligent automation.
 
 ### 🤖 Autonomous Development Agents
+<img 
+  width="1584" 
+  height="396" 
+  alt="Autonomous Development Agents - AI-powered software development automation, code generation, and autonomous programming systems" 
+  title="Autonomous Development Agents: AI Software Development & Code Automation Platforms"
+  src="https://github.com/user-attachments/assets/[your-image-url]"
+  loading="lazy"
+/>
 
 | Name | Category | Description | Notable Features |
 |------|----------|-------------|------------------|
@@ -171,6 +179,14 @@ AI agents specializing in automating software development tasks through autonomo
 | [SWE Agent](https://swe-agent.com/) | Software Engineering | AI agent for comprehensive software engineering workflows | Task breakdown, project delivery, issue resolution |
 
 ### 💡 Code Completion & Assistance
+<img 
+  width="1584" 
+  height="396" 
+  alt="Code Completion & Assistance - AI-powered coding assistants, intelligent code completion, and development workflow automation tools" 
+  title="Code Completion & Assistance: AI Coding Assistants & Development Automation Tools"
+  src="https://github.com/user-attachments/assets/262f0210-af3a-47e7-94ec-905fe69caa68"
+  loading="lazy"
+/>
 
 | Name | Category | Description | Notable Features |
 |------|----------|-------------|------------------|
