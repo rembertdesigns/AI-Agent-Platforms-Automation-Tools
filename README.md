@@ -3050,6 +3050,14 @@ AI agents specialized in voice communication, phone calls, and conversational in
 ---
 
 ## 📚 Resource Links & Further Reading
+<img 
+  width="1584" 
+  height="396" 
+  alt="Resource Links & Further Reading - Research papers, industry reports, technical documentation, and community resources for AI agents and autonomous systems" 
+  title="Resource Links & Further Reading: AI Agent Research Papers & Learning Materials"
+  src="https://github.com/user-attachments/assets/da0030b2-686e-4dd9-83d6-72dc55912b47"
+  loading="lazy"
+/>
 
 ### Research Papers
 
