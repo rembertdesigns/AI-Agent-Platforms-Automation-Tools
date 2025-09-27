@@ -46,6 +46,14 @@ Discover the most comprehensive and up-to-date resource for autonomous AI agents
 ---
 
 ## 🌟 Introduction & Overview
+<img 
+  width="1584" 
+  height="396" 
+  alt="Introduction & Overview - AI agents landscape covering autonomous task completion, workflow orchestration, and complex problem-solving systems" 
+  title="Introduction & Overview: AI Agents Landscape & Autonomous Systems Guide"
+  src="https://github.com/user-attachments/assets/b72064fe-b697-41d5-9216-529103c4b111"
+  loading="lazy"
+/>
 
 AI agents represent the next frontier in artificial intelligence, moving beyond simple Q&A to autonomous task completion, workflow orchestration, and complex problem-solving. This repository tracks the rapidly evolving landscape of AI agents, from experimental frameworks to production-ready enterprise solutions.
 
@@ -56,6 +64,14 @@ AI agents represent the next frontier in artificial intelligence, moving beyond 
 ---
 
 ## 🤝 How to Contribute
+<img 
+  width="1584" 
+  height="396" 
+  alt="How to Contribute - Community guidelines for adding AI agents, reporting issues, and improving the AI agent directory resource" 
+  title="How to Contribute: Community Guidelines & Contribution Process for AI Agent Directory"
+  src="https://github.com/user-attachments/assets/83d1ac3e-d379-4735-8407-f63d48561d44"
+  loading="lazy"
+/>
 
 We welcome contributions from the community! Here's how you can help:
 
