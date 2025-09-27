@@ -105,8 +105,6 @@ Found a broken link or outdated information? Please [open an issue](https://gith
 
 These platforms and frameworks enable the development of AI agents that autonomously plan, reason, and execute complex, multi-step tasks with minimal human intervention. They combine adaptive learning, tool usage, memory, and decision-making capabilities to build versatile agents capable of operating in dynamic environments across diverse applications.
 
-These platforms and frameworks enable the development of AI agents that autonomously plan, reason, and execute complex, multi-step tasks with minimal human intervention. They combine adaptive learning, tool usage, memory, and decision-making capabilities to build versatile agents capable of operating in dynamic environments across diverse applications.
-
 | Name | Category | Description | Notable Features |
 |------|----------|-------------|------------------|
 | [AgentGPT](https://agentgpt.reworkd.ai/) | Web Agent | Browser-based autonomous agent execution platform | Goal-to-task execution in-browser, no-code interface |
@@ -159,9 +157,9 @@ AI agents specializing in automating software development tasks through autonomo
 <img 
   width="1584" 
   height="396" 
-  alt="Autonomous Development Agents - AI-powered software development automation, code generation, and autonomous programming systems" 
-  title="Autonomous Development Agents: AI Software Development & Code Automation Platforms"
-  src="https://github.com/user-attachments/assets/[your-image-url]"
+  alt="Autonomous Development Agents - AI-powered autonomous software engineers for end-to-end development, project management, and complex coding tasks" 
+  title="Autonomous Development Agents: AI Software Engineers & Autonomous Coding Platforms"
+  src="https://github.com/user-attachments/assets/24857b6f-bed8-47df-8830-25d42180a890"
   loading="lazy"
 />
 
