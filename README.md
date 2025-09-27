@@ -239,6 +239,14 @@ AI agents specializing in automating software development tasks through autonomo
 | Tusk | Multiple IDEs | Multiple | Cloud | Yes | Contact sales | Code optimization and analysis |
 
 ### 🔍 Code Analysis & Quality
+<img 
+  width="1584" 
+  height="396" 
+  alt="Code Analysis & Quality - AI-powered code review, security analysis, debugging, and automated quality improvement tools for software development" 
+  title="Code Analysis & Quality: AI Code Review & Software Quality Assurance Tools"
+  src="https://github.com/user-attachments/assets/299874cc-0ebc-40a7-ab5b-9ac0416ae4b6"
+  loading="lazy"
+/>
 
 | Name | Category | Description | Notable Features |
 |------|----------|-------------|------------------|
@@ -255,6 +263,14 @@ AI agents specializing in automating software development tasks through autonomo
 | [Sweep](https://sweep.dev/) | Code Improvement | AI agent for code improvement and refactoring | PR reviews, automated fixes, documentation generation |
 
 ### 🛠️ Specialized Development Tools
+<img 
+  width="1584" 
+  height="396" 
+  alt="Specialized Development Tools - AI-powered development platforms for workflow automation, code generation, testing, and specialized programming tasks" 
+  title="Specialized Development Tools: AI Development Platforms & Programming Automation Tools"
+  src="https://github.com/user-attachments/assets/628493d6-fca6-4a28-9731-c3a08b43c294"
+  loading="lazy"
+/>
 
 | Name | Category | Description | Notable Features |
 |------|----------|-------------|------------------|
