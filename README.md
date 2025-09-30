@@ -3298,14 +3298,6 @@ Have questions, suggestions, or want to contribute?
 
 ---
 
-<div align="center">
-
-### ⭐ Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=rembertdesigns/AI-Agent-Platforms-Automation-Tools&type=Date)](https://star-history.com/#rembertdesigns/AI-Agent-Platforms-Automation-Tools&Date)
-
----
-
 **Made with ❤️ by the AI Community | Last Updated: September 2025**
 
 **[⬆ Back to Top](#ai-agent-platforms-automation-tools)**
