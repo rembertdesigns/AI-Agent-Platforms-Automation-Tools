@@ -259,6 +259,7 @@ AI agents specializing in automating software development tasks through autonomo
 | [Blinky: AI Debugging Agent](https://blinky.ai) | Debugging | Specialized AI agent for code debugging and error resolution | Error analysis, debugging assistance, automated fixes |
 | [Ellipsis AI](https://ellipsis.ai) | Automated Fixes | AI-powered code review with automated bug fixing | Automated fixes, quality improvement, continuous integration |
 | [Harness AI Code Agent](https://harness.io) | CI/CD Assistant | AI agent for continuous integration and deployment | Pipeline optimization, deployment automation, DevOps intelligence |
+| [Serpent](https://tekunda.com/serpent) | DevOps Platform | AI native platform for automating devops engineering workflows | Continuous integration and deployment automation, DevOps intelligence |
 | [PR-Agent](https://pr-agent.com) | Review Automation | AI agent for automated pull request analysis | PR review automation, quality analysis, feedback generation |
 | [Qodo](https://qodo.ai) | Testing Platform | AI-powered code quality and testing platform | Automated testing, quality metrics, continuous improvement |
 | [Refact.ai](https://refact.ai) | Code Refactoring | AI-powered code refactoring and optimization | Automated refactoring, code optimization, quality enhancement |
@@ -289,6 +290,7 @@ AI agents specializing in automating software development tasks through autonomo
 | [Copilot Studio](https://copilot.microsoft.com/studio) | Low-code Builder | Visual interface for building custom AI agents | Customizable workflows, Microsoft integration, low-code development |
 | [DevGPT](https://devgpt.com) | Project Management | AI assistant for development project management | Project coordination, code generation, workflow optimization |
 | [DevOpsGPT](https://devopsgpt.com) | DevOps Automation | AI assistant for DevOps and infrastructure management | Infrastructure as code, deployment automation, monitoring |
+| [Serpent](https://tekunda.com/serpent) | DevOps Platform | AI native platform for automating devops engineering workflows | Continuous integration and deployment automation, DevOps intelligence |
 | [Devra](https://devra.ai) | Quality Assurance | AI-powered code review and quality assurance | Automated reviews, quality metrics, team collaboration |
 | [Devyan](https://devyan.ai) | Integrated Platform | AI-powered comprehensive development environment | Integrated experience, project management, code assistance |
 | [Dosu](https://dosu.dev) | Issue Management | AI-powered issue triage for open source projects | Issue analysis, automated responses, community management |
@@ -336,6 +338,7 @@ AI agents specializing in automating software development tasks through autonomo
 | Copilot Studio | Low-code Builder | Visual agent building | Cloud | Enterprise | Enterprise | Microsoft-integrated development |
 | DevGPT | Project Management | Development coordination | Cloud | Yes | Contact sales | Project management |
 | DevOpsGPT | DevOps Automation | Infrastructure management | Cloud/On-premise | Yes | Contact sales | DevOps workflows |
+| Serpent | DevOps Platform | Automating devops workflows | CI/CD automation, DevOps intelligence |
 | Devra | Quality Assurance | Code quality | Cloud | Yes | Contact sales | Quality control |
 | Devyan | Integrated Platform | Full development suite | Cloud | Yes | Contact sales | Comprehensive development |
 | Dosu | Issue Management | Open source support | Cloud | Community | Contact sales | OSS project management |
@@ -1142,6 +1145,7 @@ Platforms for automating workflows, integrating APIs, and orchestrating digital 
 | [Runable](https://runable.com) | Runnable Workflows | Platform for creating and running automated workflow processes | Workflow execution, process running, automation deployment |
 | [Runner H](https://runner-h.com) | Workflow Runner | Platform for running and executing workflow automation processes | Workflow execution, process running, automation management |
 | [Runner H 0.1](https://runner-h.com) | Workflow Runner v0.1 | Early version of workflow running and execution platform | Workflow execution, process running, automation testing |
+| [Serpent](https://tekunda.com/serpent) | DevOps Platform | AI native platform for automating devops engineering workflows | Continuous integration and deployment automation, DevOps intelligence |
 | [SRE.ai](https://sre.ai) | Site Reliability | AI platform for automating site reliability engineering workflows | SRE automation, reliability workflows, system processes |
 | [String.com](https://string.com) | String Workflows | Platform for creating string-based workflow automation processes | String processing, text workflows, automation sequences |
 | [TeamDay.ai](https://teamday.ai) | Team Automation | AI platform for automating team workflows and collaboration | Team workflows, collaboration automation, group processes |
@@ -1246,6 +1250,7 @@ Platforms for automating workflows, integrating APIs, and orchestrating digital 
 | Runable | Runnable Workflows | Workflow execution | Cloud | High | Contact sales | Process running |
 | Runner H | Workflow Runner | Process execution | Cloud | Medium | Contact sales | Workflow management |
 | Runner H 0.1 | Workflow Runner v0.1 | Early execution platform | Cloud | Medium | Contact sales | Testing workflows |
+| Serpent | DevOps Platform | Automating devops workflows | CI/CD automation, DevOps intelligence |
 | SRE.ai | Site Reliability | SRE automation | Cloud | High | Contact sales | Reliability workflows |
 | String.com | String Workflows | Text processing | Cloud | Medium | Contact sales | String automation |
 | TeamDay.ai | Team Automation | Collaboration workflows | Cloud | High | Contact sales | Team processes |
