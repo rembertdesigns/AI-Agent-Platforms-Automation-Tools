@@ -1159,6 +1159,7 @@ Platforms for automating workflows, integrating APIs, and orchestrating digital 
 | [viAct.net](https://viact.net) | Activity Automation | Platform for automating activity-based workflows | Activity workflows, action automation, behavior processes |
 | [Weave](https://weave.works) | Workflow Weaving | Platform for weaving together complex workflow automations | Workflow integration, process weaving, automation composition |
 | [Workato](https://workato.com) | Enterprise Automation | Enterprise platform for automating business workflows | Business automation, enterprise workflows, integration platform |
+| [Xquik](https://docs.xquik.com) | Social Automation | X automation platform with REST API, webhooks, MCP server, and an agent skill | 100+ REST endpoints, media downloads, monitoring, confirmation-gated writes |
 | [Zapier](https://zapier.com) | Automation Platform | Online platform for automating web apps and services | 5000+ integrations, triggers/actions |
 | [Zapier Agents](https://zapier.com/agents) | AI Agents | Zapier's AI agents for enhanced workflow automation | AI-powered workflows, intelligent automation, enhanced processes |
 
