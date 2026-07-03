@@ -2501,7 +2501,7 @@ AI assistants designed specifically for individual users to enhance personal pro
 |------|----------|-------------|------------------|
 | [11.ai](https://11.ai/) | Personal Assistant | AI-powered personal assistant for daily task management and productivity | Task automation, personal scheduling, productivity optimization |
 | [AGRIVI Engage](https://agrivi.com/) | Agriculture Assistant | Personal AI assistant for agricultural management and farming optimization | Farm management, crop monitoring, agricultural insights |
-| [Ainisa](https://ainisa.com/) | Personal Assistant | AI-powered personal assistant for lifestyle and productivity management | Personal productivity, lifestyle optimization |
+| [Ainisa](https://ainisa.com/) | Business AI Agent Platform | AI agent platform for businesses with knowledge base, lead generation, booking, and multilingual customer support. |
 | [AITernet](https://aiternet.com/) | Personal Assistant | AI assistant for internet browsing and online task automation | Web automation, online task management |
 | [Alphatwin](https://alphatwin.ai/) | Personal Assistant | AI-powered personal twin for productivity and task management | Personal automation, digital twin capabilities |
 | [AstroChart.ai](https://astrochart.ai/) | Astrology Assistant | AI assistant for personalized astrology readings and insights | Astrology analysis, personalized horoscopes |
