@@ -819,6 +819,7 @@ AI agents purpose-built for workflow automation, CRM, sales, HR, and general bus
 | [ResumeBoostAI](https://resumeboost.ai) | Career Assistant | AI platform for resume optimization and career enhancement | Resume analysis, job matching, career advice |
 | [Rezifine](https://rezifine.com) | Content Optimization | AI platform for content refinement and optimization | Content enhancement, writing improvement, optimization suggestions |
 | [Rivio](https://rivio.ai) | Business Assistant | AI assistant for business process automation and optimization | Business workflows, process improvement, operational efficiency |
+| [SaaSCity](https://saascity.io) | Product Directory | Gamified SaaS & AI product directory — every listing becomes a building on a live isometric city map | Product launches, SaaS discovery, dofollow backlinks |
 | [Saga AI](https://saga.so) | Workspace Assistant | AI-powered workspace and knowledge management platform | Knowledge organization, team collaboration, content management |
 | [Saima](https://saima.ai) | Personal Assistant | AI personal assistant for productivity and life management | Personal automation, task coordination, lifestyle optimization |
 | [SalesCloser AI](https://salescloser.ai/) | Sales Agent | Automated sales conversations, lead qualification | Conversation workflow, CRM sync, follow-up tasks |
