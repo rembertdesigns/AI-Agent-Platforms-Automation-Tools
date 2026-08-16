@@ -699,6 +699,7 @@ AI agents specialized in automated testing, quality assurance, and bug detection
 
 | Name | Category | Description | Notable Features |
 |------|----------|-------------|------------------|
+| [Agent QA](https://github.com/vostride/agent-qa) | Test Automation | Source-available QA harness for natural-language web and mobile regression tests | CLI, dashboard, MCP server, run memory, same-run recovery |
 | [BaseRock AI](https://baserock.ai) | Test Automation | AI-powered comprehensive testing platform for software quality assurance | Automated test generation, cross-platform testing, intelligent bug detection |
 | [CoTester](https://cotester.ai) | Collaborative Testing | AI agent for collaborative software testing and quality assurance | Team-based testing, collaborative workflows, shared test environments |
 | [Diffblue Cover](https://diffblue.com) | Unit Testing | AI platform for automated unit test generation and code coverage | Automated unit tests, code coverage analysis, Java specialization |
@@ -720,6 +721,7 @@ AI agents specialized in automated testing, quality assurance, and bug detection
 
 | Platform | Testing Focus | Primary Function | Deployment | Integration | Pricing | Best For |
 |----------|---------------|------------------|------------|-------------|---------|----------|
+| Agent QA | Web & mobile regression | Natural-language test execution | Self-hosted | CLI, dashboard, MCP | Source-available; provider costs may apply | Coding-agent-driven QA workflows |
 | BaseRock AI | Comprehensive QA | Full-spectrum testing | Cloud | CI/CD pipelines | Contact sales | Enterprise testing workflows |
 | CoTester | Collaborative Testing | Team-based QA | Cloud | Development tools | Contact sales | Collaborative testing teams |
 | Diffblue Cover | Unit Testing | Automated unit tests | Cloud/On-premise | Java ecosystems | Enterprise | Java application testing |
