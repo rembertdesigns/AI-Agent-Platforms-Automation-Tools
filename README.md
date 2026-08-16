@@ -2974,6 +2974,7 @@ AI agents specialized in video creation, editing, processing, and enhancement. T
 | [TopView AI](https://topview.ai) | Video Analytics | AI platform for video performance analysis and optimization | Content analytics, engagement metrics, optimization suggestions |
 | [VEED.IO](https://veed.io) | Video Editing | AI-powered online video editing platform | Automated subtitles, background removal, smart editing tools |
 | [Veo 2](https://deepmind.google/technologies/veo) | Video Generation | Google's advanced AI video generation model | High-resolution output, long-form videos, realistic motion |
+| [videos.social](https://videos.social/?utm_source=rembertdesigns-ai-agent-platforms&utm_medium=directory&utm_campaign=listing-wave-d) | Text-to-Video | AI platform turning blogs, PDFs, and prompts into editable faceless videos | Script, scenes, voiceover draft; edit before render |
 | [Vidnoz AI](https://vidnoz.com) | Avatar Videos | AI platform for creating avatar-based marketing videos | Business avatars, marketing automation, multilingual content |
 
 ### 📊 Video AI Agents Comparison
