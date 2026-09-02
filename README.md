@@ -3191,6 +3191,7 @@ AI agents specialized in voice communication, phone calls, and conversational in
 * [r/LocalLLaMA](https://reddit.com/r/LocalLLaMA) - Open-source AI models community
 * [Towards Data Science](https://towardsdatascience.com/) - Tutorials and articles on AI and agents
 * [Papers with Code - Dialogue Agents](https://paperswithcode.com/task/dialogue-agents) - Research with code
+* [Grok Bot Templates](https://gtemplate.net/) - Curated directory for discovering public Grok Bots by use case
 
 ### Newsletters & Blogs
 * [The Gradient](https://thegradient.pub/) - Research perspectives and interviews
