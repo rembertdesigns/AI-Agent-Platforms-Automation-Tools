@@ -844,6 +844,7 @@ AI agents purpose-built for workflow automation, CRM, sales, HR, and general bus
 | [You.com](https://you.com) | Search Assistant | AI-powered search and productivity platform | Intelligent search, content discovery, research automation |
 | [Zapier Central](https://zapier.com/central) | Automation | AI-powered workflow automation platform | Natural language automation, 5000+ app integrations |
 | [Zivy](https://zivy.app) | Communication Assistant | AI assistant for communication management and optimization | Message prioritization, communication automation, productivity enhancement |
+| [Sumus AI](https://sumus.im/) | Collaborative AI Workspace | Like Grok Bot, but with Claude, GPT, and your friends. | Shared conversations, multiple AI teammates, model choice, local-agent connections |
 
 ### 📊 Productivity & Business Agents Comparison
 
