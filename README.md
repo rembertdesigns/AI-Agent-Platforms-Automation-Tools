@@ -473,6 +473,7 @@ Comprehensive frameworks, libraries, and development tools designed specifically
 | [Haystack](https://github.com/deepset-ai/haystack) | Framework | Framework for building search and question-answering agents | Search agents, QA systems, information retrieval |
 | [Hermes 3](https://github.com/NousResearch/Hermes-3) | Framework | Advanced framework for building conversational AI agents | Conversational AI, advanced dialogue, communication agents |
 | [HuggingGPT](https://github.com/microsoft/JARVIS) | Framework | Microsoft's framework for multi-modal AI agents | Multi-modal agents, Microsoft technology, JARVIS-inspired |
+| [Hyperconsciousness](https://github.com/louis030195/hyperconsciousness) | Knowledge Storage | Developer-alpha Rust knowledge store for AI agents with encrypted, append-only records | CLI and MCP access, device sync, scoped expiring grants |
 | [Imbue](https://github.com/imbue-ai/imbue) | Framework | Framework for imbuing AI agents with specific capabilities | Capability injection, skill embedding, agent enhancement |
 | [Inferable](https://github.com/inferablehq/inferable) | Framework | Framework for building inferable and explainable AI agents | Explainable AI, inference agents, transparent systems |
 | [Internet of Agents](https://github.com/internet-of-agents/internet-of-agents) | Network Framework | Framework for creating interconnected agent networks | Agent networks, IoT-style connectivity, distributed intelligence |
@@ -612,6 +613,7 @@ Comprehensive frameworks, libraries, and development tools designed specifically
 | Haystack | Medium | Python | Search/QA | Self-hosted/Cloud | Open source | Information retrieval agents |
 | Hermes 3 | Low | Research | Conversational | Research/Cloud | Research | Advanced dialogue systems |
 | HuggingGPT | Medium | Python | Multi-modal | Self-hosted | Open source | Multi-modal agent systems |
+| Hyperconsciousness | Not rated | Rust | Encrypted knowledge store | Self-hosted | MIT; external model costs separate | Persistent agent knowledge via CLI and MCP; developer alpha |
 | Imbue | Medium | Python | Capability injection | Self-hosted | Open source | Agent skill enhancement |
 | Inferable | Medium | Python | Explainable | Self-hosted | Open source | Transparent agent systems |
 | Internet of Agents | Low | Distributed | Network-based | Distributed | Open source | Agent network connectivity |
