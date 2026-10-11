@@ -1550,6 +1550,7 @@ Comprehensive platforms and frameworks for building, deploying, and managing AI 
 | [Superbo GenAI Fabric](https://superbo.ai) | Generation Platform | Platform for building generative AI agents | Content generation, creative AI, generative capabilities |
 | [SwarmZero.ai](https://swarmzero.ai) | Swarm Platform | Platform for building swarm intelligence AI agents | Collective intelligence, swarm behavior, distributed problem solving |
 | [Synergetics AI](https://synergetics.ai) | Synergy Platform | Platform for building synergistic AI agent systems | Agent collaboration, synergistic effects, combined intelligence |
+| [Tale](https://tale.dev) | Workspace Platform | Open-source workspace for teams and AI agents to coordinate project tasks and review delivered files | Project task board, configurable project agents, shared knowledge and files |
 | [TaskingAI](https://tasking.ai) | Task Platform | Platform for building task-oriented AI agents | Task automation, workflow management, goal achievement |
 | [Tavily](https://tavily.com) | Research Platform | Platform for building research and investigation AI agents | Research automation, information gathering, analysis tools |
 | [Teammately](https://teammately.ai) | Team Platform | Platform for building team collaboration AI agents | Team automation, collaboration enhancement, group productivity |
@@ -1745,6 +1746,7 @@ Comprehensive platforms and frameworks for building, deploying, and managing AI 
 | Superbo GenAI Fabric | Generation Platform | Generative AI | Cloud | Contact sales | Content generation |
 | SwarmZero.ai | Swarm Platform | Swarm intelligence | Cloud | Contact sales | Collective intelligence |
 | Synergetics AI | Synergy Platform | Collaborative systems | Cloud | Contact sales | Synergistic applications |
+| Tale | Workspace platform | Project coordination and agent work | Cloud/Self-hosted | Yes | MIT / Enterprise | Teams coordinating human and agent work |
 | TaskingAI | Task Platform | Task automation | Cloud | Contact sales | Task-oriented applications |
 | Tavily | Research Platform | Research automation | Cloud | Contact sales | Research teams |
 | Teammately | Team Platform | Team collaboration | Cloud | Contact sales | Team-based applications |
