@@ -2444,6 +2444,7 @@ AI agents designed to accelerate and enhance research processes across academic,
 | [OpenAI Deep Research](https://openai.com/deep-research/) | Research Assistant | OpenAI's advanced research agent for comprehensive analysis and insights | Deep research, comprehensive analysis, report generation |
 | [PARAMUS](https://paramus.ai/) | Research Platform | AI-powered research and analysis platform for academic and professional use | Research automation, knowledge synthesis |
 | [Perplexity AI](https://perplexity.ai/) | Research Assistant | AI-powered research and question-answering platform with real-time web search | Real-time research, citation tracking, conversational search |
+| [Pulse](https://pulsecorp.co) | Qualitative Research | AI-moderated customer interviews for market research | Customer interviews, qualitative research |
 | [QualiaInterviews](https://qualiainterviews.com/) | Qualitative Research | AI-powered platform for conducting and analyzing qualitative research interviews | Interview automation, qualitative analysis |
 | [Scite Assistant](https://scite.ai/) | Citation Analysis | AI research assistant for citation analysis and research validation | Citation context, research validation, paper analysis |
 | [Table Agent](https://tableagent.ai/) | Data Research | AI agent for analyzing and extracting insights from tabular data | Data analysis, table processing, insight generation |
@@ -2477,6 +2478,7 @@ AI agents designed to accelerate and enhance research processes across academic,
 | OpenAI Deep Research | Medium | General | API integration | Cloud | Paid | Comprehensive analysis, deep research |
 | PARAMUS | Medium | Academic | Platform setup | Cloud | Paid | Academic research, analysis |
 | Perplexity AI | High | General | Web platform | Cloud | Freemium | Real-time research, Q&A |
+| Pulse | High | Qualitative | Web platform | Cloud | Paid | Customer interviews, market research |
 | QualiaInterviews | Medium | Qualitative | Platform setup | Cloud | Paid | Interview research, qualitative analysis |
 | Scite Assistant | High | Academic | Web platform | Cloud | Freemium | Citation analysis, research validation |
 | Table Agent | Medium | Data | Platform setup | Cloud | Paid | Tabular data analysis, insights |
