@@ -1296,6 +1296,7 @@ Monitoring, debugging, and performance tracking tools specifically designed for 
 | [Log10](https://log10.io) | Agent Logging | Logging and monitoring solution for AI agent workflows | Comprehensive logging, search capabilities, audit trails |
 | [NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) | Safety Framework | NVIDIA's framework for building safe and reliable AI agents | Safety policies, content filtering, behavioral constraints |
 | [Screenpipe](https://github.com/mediar-ai/screenpipe) | Screen Monitoring | Monitoring tool for agents that interact with desktop applications | Screen activity tracking, automation verification, UI interaction monitoring |
+| [Speakeasy control plane](https://www.speakeasy.com/) | Agent Governance & Observability | Governed MCP access and observability for enterprise agents | Identity-based permissions, per-action policies, tool-call audit logs |
 | [Temperstack](https://temperstack.com) | Agent Infrastructure | Infrastructure monitoring for AI agent deployments | Resource utilization, scaling metrics, deployment health |
 | [Wayfound AI](https://wayfound.ai) | Navigation Monitoring | Specialized monitoring for navigation and pathfinding agents | Route optimization tracking, decision analysis, performance metrics |
 
@@ -1315,6 +1316,7 @@ Monitoring, debugging, and performance tracking tools specifically designed for 
 | Log10 | Logging & monitoring | Cloud | Contact sales | Comprehensive logging needs |
 | NeMo Guardrails | Safety framework | Self-hosted | Open source | Safety and reliability |
 | Screenpipe | Desktop monitoring | Self-hosted | Open source | Desktop automation agents |
+| Speakeasy control plane | Agent access and audit | Cloud | Commercial | Governed enterprise MCP access |
 | Temperstack | Infrastructure | Cloud | Contact sales | Infrastructure monitoring |
 | Wayfound AI | Navigation agents | Cloud | Contact sales | Navigation and routing agents |
 
